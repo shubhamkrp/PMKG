@@ -31,3 +31,51 @@ def similar(a, b):
 
 #     cosine_similarity = get_cosine(vector1, vector2)
 #     print(f"Cosine similarity between '{d1}' and '{d2}': {cosine_similarity:.2f}")
+
+###############ClinicalBertSimilarity###############
+# from semantic_text_similarity.models import ClinicalBertSimilarity
+# def similar(t1,t2):
+#     model=ClinicalBertSimilarity(device="cpu")
+#     # t1="sars-cov-2"
+#     # t2="covid 19"
+#     similarityScore=model.predict([(t1,t2)])
+#     print(f"{similarityScore[0]:.4f}")
+#     return similarityScore[0]>0.3
+
+##################bio-bert#####################
+# import torch
+# from transformers import AutoTokenizer, AutoModel
+
+# # Load the tokenizer and model
+# tokenizer = AutoTokenizer.from_pretrained("dmis-lab/biobert-base-cased-v1.1")
+# model = AutoModel.from_pretrained("dmis-lab/biobert-base-cased-v1.1")
+
+# def get_embedding(text, tokenizer, model):
+#     # Tokenize input text
+#     inputs = tokenizer(text, return_tensors="pt")
+#     # Get the embeddings from the model
+#     with torch.no_grad():
+#         outputs = model(**inputs)
+#     # Mean pooling to get a single vector representation of the text
+#     embeddings = outputs.last_hidden_state.mean(dim=1)
+#     return embeddings
+
+# def cosine_similarity(vec1, vec2):
+#     # Compute the cosine similarity between two vectors
+#     return torch.nn.functional.cosine_similarity(vec1, vec2)
+
+# def are_terms_similar(term1, term2, tokenizer, model, threshold=0.7):
+#     # Get embeddings for both terms
+#     embedding1 = get_embedding(term1, tokenizer, model)
+#     embedding2 = get_embedding(term2, tokenizer, model)
+#     # Compute similarity
+#     similarity = cosine_similarity(embedding1, embedding2).item()
+#     # Check if similarity is above the threshold
+#     return similarity >= threshold, similarity
+
+# def similar(t1,t2):
+#     # similar, score = are_terms_similar(term1, term2, tokenizer, model)
+#     # print(f"Are the terms '{term1}' and '{term2}' similar? {similar} (Score: {score:.2f})")
+#     return are_terms_similar(t1,t2,tokenizer,model)[0]
+
+

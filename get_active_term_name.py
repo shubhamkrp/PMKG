@@ -21,7 +21,7 @@ def extract_name_from_terms(fname):
             if line.startswith("name:"):
                 name = line.split(":")[1].strip()
             elif line.startswith("is_a:"):
-                extracted_names.append(name)
+                extracted_names.append(name.lower())
                 break
 
     return extracted_names
@@ -51,4 +51,5 @@ if __name__=="__main__":
 
 #########---------USAGE-----------#############
 #get_active_term_name.py [-h] [--output_dir OUTPUT_DIR] input_file output_file
+#python3 ./get_active_term_name.py --output_dir OUTPUT/ symp.obo active_symptom_terms.csv
 ###############################################

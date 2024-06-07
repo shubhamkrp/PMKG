@@ -1,0 +1,700 @@
+A000    Cholera due to Vibrio cholerae 01, biovar cholerae
+A001    Cholera due to Vibrio cholerae 01, biovar eltor
+A009    Cholera, unspecified
+A0100   Typhoid fever, unspecified
+A0101   Typhoid meningitis
+A0102   Typhoid fever with heart involvement
+A0103   Typhoid pneumonia
+A0104   Typhoid arthritis
+A0105   Typhoid osteomyelitis
+A0109   Typhoid fever with other complications
+A011    Paratyphoid fever A
+A012    Paratyphoid fever B
+A013    Paratyphoid fever C
+A014    Paratyphoid fever, unspecified
+A020    Salmonella enteritis
+A021    Salmonella sepsis
+A0220   Localized salmonella infection, unspecified
+A0811   Acute gastroenteropathy due to Norwalk agent
+A0819   Acute gastroenteropathy due to other small round viruses
+A082    Adenoviral enteritis
+A0831   Calicivirus enteritis
+A0832   Astrovirus enteritis
+A0839   Other viral enteritis
+A084    Viral intestinal infection, unspecified
+A088    Other specified intestinal infections
+A09     Infectious gastroenteritis and colitis, unspecified
+A150    Tuberculosis of lung
+A154    Tuberculosis of intrathoracic lymph nodes
+A155    Tuberculosis of larynx, trachea and bronchus
+A156    Tuberculous pleurisy
+A157    Primary respiratory tuberculosis
+A158    Other respiratory tuberculosis
+A159    Respiratory tuberculosis unspecified
+A170    Tuberculous meningitis
+A171    Meningeal tuberculoma
+A1781   Tuberculoma of brain and spinal cord
+A1782   Tuberculous meningoencephalitis
+A1783   Tuberculous neuritis
+A1789   Other tuberculosis of nervous system
+A179    Tuberculosis of nervous system, unspecified
+A1801   Tuberculosis of spine
+A1802   Tuberculous arthritis of other joints
+A1831   Tuberculous peritonitis
+A1832   Tuberculous enteritis
+A1839   Retroperitoneal tuberculosis
+A184    Tuberculosis of skin and subcutaneous tissue
+A1850   Tuberculosis of eye, unspecified
+A1851   Tuberculous episcleritis
+A1852   Tuberculous keratitis
+A1853   Tuberculous chorioretinitis
+A1854   Tuberculous iridocyclitis
+A1859   Other tuberculosis of eye
+A186    Tuberculosis of (inner) (middle) ear
+A190    Acute miliary tuberculosis of a single specified site
+A200    Bubonic plague
+A201    Cellulocutaneous plague
+A202    Pneumonic plague
+A203    Plague meningitis
+A207    Septicemic plague
+A208    Other forms of plague
+A209    Plague, unspecified
+A210    Ulceroglandular tularemia
+A211    Oculoglandular tularemia
+A212    Pulmonary tularemia
+A213    Gastrointestinal tularemia
+A217    Generalized tularemia
+A218    Other forms of tularemia
+A219    Tularemia, unspecified
+A220    Cutaneous anthrax
+A221    Pulmonary anthrax
+A222    Gastrointestinal anthrax
+A227    Anthrax sepsis
+A228    Other forms of anthrax
+A229    Anthrax, unspecified
+A230    Brucellosis due to Brucella melitensis
+A231    Brucellosis due to Brucella abortus
+A232    Brucellosis due to Brucella suis
+A233    Brucellosis due to Brucella canis
+A238    Other brucellosis
+A239    Brucellosis, unspecified
+A240    Glanders
+A241    Acute and fulminating melioidosis
+A242    Subacute and chronic melioidosis
+A243    Other melioidosis
+A249    Melioidosis, unspecified
+A250    Spirillosis
+A251    Streptobacillosis
+A259    Rat-bite fever, unspecified
+A260    Cutaneous erysipeloid
+A267    Erysipelothrix sepsis
+A268    Other forms of erysipeloid
+A269    Erysipeloid, unspecified
+A270    Leptospirosis icterohemorrhagica
+A2781   Aseptic meningitis in leptospirosis
+A2789   Other forms of leptospirosis
+A279    Leptospirosis, unspecified
+A280    Pasteurellosis
+A281    Cat-scratch disease
+A282    Extraintestinal yersiniosis
+A288    Other specified zoonotic bacterial diseases, not elsewhere classified
+A289    Zoonotic bacterial disease, unspecified
+A300    Indeterminate leprosy
+A301    Tuberculoid leprosy
+A302    Borderline tuberculoid leprosy
+A303    Borderline leprosy
+A304    Borderline lepromatous leprosy
+A305    Lepromatous leprosy
+A308    Other forms of leprosy
+A309    Leprosy, unspecified
+A310    Pulmonary mycobacterial infection
+A311    Cutaneous mycobacterial infection
+A3685   Diphtheritic cystitis
+A3686   Diphtheritic conjunctivitis
+A3689   Other diphtheritic complications
+A369    Diphtheria, unspecified
+A380    Scarlet fever with otitis media
+A381    Scarlet fever with myocarditis
+A388    Scarlet fever with other complications
+A389    Scarlet fever, uncomplicated
+A390    Meningococcal meningitis
+A399    Meningococcal infection, unspecified
+A400    Sepsis due to streptococcus, group A
+A401    Sepsis due to streptococcus, group B
+A403    Sepsis due to Streptococcus pneumoniae
+A408    Other streptococcal sepsis
+A409    Streptococcal sepsis, unspecified
+A4101   Sepsis due to Methicillin susceptible Staphylococcus aureus
+A419    Sepsis, unspecified organism
+A420    Pulmonary actinomycosis
+A421    Abdominal actinomycosis
+A422    Cervicofacial actinomycosis
+A427    Actinomycotic sepsis
+A4281   Actinomycotic meningitis
+A4282   Actinomycotic encephalitis
+A4289   Other forms of actinomycosis
+A429    Actinomycosis, unspecified
+A430    Pulmonary nocardiosis
+A431    Cutaneous nocardiosis
+A438    Other forms of nocardiosis
+A439    Nocardiosis, unspecified
+A440    Systemic bartonellosis
+A441    Cutaneous and mucocutaneous bartonellosis
+A448    Other forms of bartonellosis
+A449    Bartonellosis, unspecified
+A46     Erysipelas
+A480    Gas gangrene
+A481    Legionnaires' disease
+A482    Nonpneumonic Legionnaires' disease [Pontiac fever]
+A483    Toxic shock syndrome
+A484    Brazilian purpuric fever
+A4851   Infant botulism
+A4852   Wound botulism
+A5007   Early mucocutaneous congenital syphilis
+A5008   Early visceral congenital syphilis
+A5059   Other late congenital syphilis, symptomatic
+A506    Late congenital syphilis, latent
+A507    Late congenital syphilis, unspecified
+A509    Congenital syphilis, unspecified
+A510    Primary genital syphilis
+A511    Primary anal syphilis
+A512    Primary syphilis of other sites
+A5131   Condyloma latum
+A5132   Syphilitic alopecia
+A5139   Other secondary syphilis of skin
+A5141   Secondary syphilitic meningitis
+A5149   Other secondary syphilitic conditions
+A515    Early syphilis, latent
+A519    Early syphilis, unspecified
+A988    Other specified viral hemorrhagic fevers
+A99     Unspecified viral hemorrhagic fever
+B000    Eczema herpeticum
+B001    Herpesviral vesicular dermatitis
+B002    Herpesviral gingivostomatitis and pharyngotonsillitis
+B003    Herpesviral meningitis
+B004    Herpesviral encephalitis
+B0050   Herpesviral ocular disease, unspecified
+B0051   Herpesviral iridocyclitis
+B0052   Herpesviral keratitis
+B0053   Herpesviral conjunctivitis
+B0059   Other herpesviral disease of eye
+B007    Disseminated herpesviral disease
+B0081   Herpesviral hepatitis
+B0082   Herpes simplex myelitis
+B0089   Other herpesviral infection
+B009    Herpesviral infection, unspecified
+B010    Varicella meningitis
+B0111   Varicella encephalitis and encephalomyelitis
+B0112   Varicella myelitis
+B012    Varicella pneumonia
+B0181   Varicella keratitis
+B0189   Other varicella complications
+B019    Varicella without complication
+B020    Zoster encephalitis
+B021    Zoster meningitis
+B5801   Toxoplasma chorioretinitis
+B5809   Other toxoplasma oculopathy
+B581    Toxoplasma hepatitis
+B582    Toxoplasma meningoencephalitis
+B583    Pulmonary toxoplasmosis
+B5881   Toxoplasma myocarditis
+B5882   Toxoplasma myositis
+B5883   Toxoplasma tubulo-interstitial nephropathy
+B5889   Toxoplasmosis with other organ involvement
+B589    Toxoplasmosis, unspecified
+B59     Pneumocystosis
+B600    Babesiosis
+B6010   Acanthamebiasis, unspecified
+B6011   Meningoencephalitis due to Acanthamoeba (culbertsoni)
+B6012   Conjunctivitis due to Acanthamoeba
+B6013   Keratoconjunctivitis due to Acanthamoeba
+B6019   Other acanthamebic disease
+B602    Naegleriasis
+B608    Other specified protozoal diseases
+B64     Unspecified protozoal disease
+B650    Schistosomiasis due to Schistosoma haematobium [urinary schistosomiasis]
+B651    Schistosomiasis due to Schistosoma mansoni [intestinal schistosomiasis]
+B652    Schistosomiasis due to Schistosoma japonicum
+B653    Cercarial dermatitis
+B658    Other schistosomiasis
+B659    Schistosomiasis, unspecified
+B660    Opisthorchiasis
+B661    Clonorchiasis
+B662    Dicroceliasis
+B663    Fascioliasis
+B664    Paragonimiasis
+B665    Fasciolopsiasis
+B668    Other specified fluke infections
+B669    Fluke infection, unspecified
+B670    Echinococcus granulosus infection of liver
+B671    Echinococcus granulosus infection of lung
+B672    Echinococcus granulosus infection of bone
+B6731   Echinococcus granulosus infection, thyroid gland
+B6732   Echinococcus granulosus infection, multiple sites
+B6739   Echinococcus granulosus infection, other sites
+B674    Echinococcus granulosus infection, unspecified
+B675    Echinococcus multilocularis infection of liver
+B6761   Echinococcus multilocularis infection, multiple sites
+B6769   Echinococcus multilocularis infection, other sites
+B677    Echinococcus multilocularis infection, unspecified
+B678    Echinococcosis, unspecified, of liver
+B6790   Echinococcosis, unspecified
+B6799   Other echinococcosis
+B999    Unspecified infectious disease
+C000    Malignant neoplasm of external upper lip
+C467    Kaposi's sarcoma of other sites
+C469    Kaposi's sarcoma, unspecified
+C470    Malignant neoplasm of peripheral nerves of head, face and neck
+C4710   Malignant neoplasm of peripheral nerves of unspecified upper limb, including shoulder
+C4711   Malignant neoplasm of peripheral nerves of right upper limb, including shoulder
+C4712   Malignant neoplasm of peripheral nerves of left upper limb, including shoulder
+C4720   Malignant neoplasm of peripheral nerves of unspecified lower limb, including hip
+C4721   Malignant neoplasm of peripheral nerves of right lower limb, including hip
+C4722   Malignant neoplasm of peripheral nerves of left lower limb, including hip
+C473    Malignant neoplasm of peripheral nerves of thorax
+C474    Malignant neoplasm of peripheral nerves of abdomen
+C475    Malignant neoplasm of peripheral nerves of pelvis
+C476    Malignant neoplasm of peripheral nerves of trunk, unspecified
+C478    Malignant neoplasm of overlapping sites of peripheral nerves and autonomic nervous system
+C479    Malignant neoplasm of peripheral nerves and autonomic nervous system, unspecified
+C510    Malignant neoplasm of labium majus
+C511    Malignant neoplasm of labium minus
+C512    Malignant neoplasm of clitoris
+C518    Malignant neoplasm of overlapping sites of vulva
+C519    Malignant neoplasm of vulva, unspecified
+C52     Malignant neoplasm of vagina
+C530    Malignant neoplasm of endocervix
+C531    Malignant neoplasm of exocervix
+C538    Malignant neoplasm of overlapping sites of cervix uteri
+C539    Malignant neoplasm of cervix uteri, unspecified
+C540    Malignant neoplasm of isthmus uteri
+C541    Malignant neoplasm of endometrium
+C542    Malignant neoplasm of myometrium
+C543    Malignant neoplasm of fundus uteri
+C548    Malignant neoplasm of overlapping sites of corpus uteri
+C549    Malignant neoplasm of corpus uteri, unspecified
+C55     Malignant neoplasm of uterus, part unspecified
+C561    Malignant neoplasm of right ovary
+C562    Malignant neoplasm of left ovary
+C569    Malignant neoplasm of unspecified ovary
+C574    Malignant neoplasm of uterine adnexa, unspecified
+C577    Malignant neoplasm of other specified female genital organs
+C578    Malignant neoplasm of overlapping sites of female genital organs
+C579    Malignant neoplasm of female genital organ, unspecified
+C58     Malignant neoplasm of placenta
+C600    Malignant neoplasm of prepuce
+C601    Malignant neoplasm of glans penis
+C602    Malignant neoplasm of body of penis
+C608    Malignant neoplasm of overlapping sites of penis
+C609    Malignant neoplasm of penis, unspecified
+C61     Malignant neoplasm of prostate
+C6200   Malignant neoplasm of unspecified undescended testis
+C6201   Malignant neoplasm of undescended right testis
+C6202   Malignant neoplasm of undescended left testis
+C6210   Malignant neoplasm of unspecified descended testis
+C6211   Malignant neoplasm of descended right testis
+C6212   Malignant neoplasm of descended left testis
+C6290   Malignant neoplasm of unspecified testis, unspecified whether descended or undescended
+C6291   Malignant neoplasm of right testis, unspecified whether descended or undescended
+C6292   Malignant neoplasm of left testis, unspecified whether descended or undescended
+C6300   Malignant neoplasm of unspecified epididymis
+C6301   Malignant neoplasm of right epididymis
+C6302   Malignant neoplasm of left epididymis
+C6310   Malignant neoplasm of unspecified spermatic cord
+C6311   Malignant neoplasm of right spermatic cord
+C6312   Malignant neoplasm of left spermatic cord
+C632    Malignant neoplasm of scrotum
+C637    Malignant neoplasm of other specified male genital organs
+C638    Malignant neoplasm of overlapping sites of male genital organs
+C639    Malignant neoplasm of male genital organ, unspecified
+C641    Malignant neoplasm of right kidney, except renal pelvis
+C642    Malignant neoplasm of left kidney, except renal pelvis
+C649    Malignant neoplasm of unspecified kidney, except renal pelvis
+C651    Malignant neoplasm of right renal pelvis
+C652    Malignant neoplasm of left renal pelvis
+C659    Malignant neoplasm of unspecified renal pelvis
+C661    Malignant neoplasm of right ureter
+C662    Malignant neoplasm of left ureter
+C669    Malignant neoplasm of unspecified ureter
+C670    Malignant neoplasm of trigone of bladder
+C671    Malignant neoplasm of dome of bladder
+C672    Malignant neoplasm of lateral wall of bladder
+C673    Malignant neoplasm of anterior wall of bladder
+C674    Malignant neoplasm of posterior wall of bladder
+C675    Malignant neoplasm of bladder neck
+C676    Malignant neoplasm of ureteric orifice
+C677    Malignant neoplasm of urachus
+C678    Malignant neoplasm of overlapping sites of bladder
+C679    Malignant neoplasm of bladder, unspecified
+C680    Malignant neoplasm of urethra
+C681    Malignant neoplasm of paraurethral glands
+C688    Malignant neoplasm of overlapping sites of urinary organs
+C689    Malignant neoplasm of urinary organ, unspecified
+C6900   Malignant neoplasm of unspecified conjunctiva
+C6901   Malignant neoplasm of right conjunctiva
+C6902   Malignant neoplasm of left conjunctiva
+C6910   Malignant neoplasm of unspecified cornea
+C6911   Malignant neoplasm of right cornea
+C6912   Malignant neoplasm of left cornea
+C6920   Malignant neoplasm of unspecified retina
+C6921   Malignant neoplasm of right retina
+C6922   Malignant neoplasm of left retina
+C6930   Malignant neoplasm of unspecified choroid
+C6931   Malignant neoplasm of right choroid
+C6932   Malignant neoplasm of left choroid
+C6940   Malignant neoplasm of unspecified ciliary body
+C6941   Malignant neoplasm of right ciliary body
+C6942   Malignant neoplasm of left ciliary body
+C6950   Malignant neoplasm of unspecified lacrimal gland and duct
+C6951   Malignant neoplasm of right lacrimal gland and duct
+C6952   Malignant neoplasm of left lacrimal gland and duct
+C6960   Malignant neoplasm of unspecified orbit
+C6961   Malignant neoplasm of right orbit
+C6962   Malignant neoplasm of left orbit
+C6980   Malignant neoplasm of overlapping sites of unspecified eye and adnexa
+C6981   Malignant neoplasm of overlapping sites of right eye and adnexa
+C6982   Malignant neoplasm of overlapping sites of left eye and adnexa
+C6990   Malignant neoplasm of unspecified site of unspecified eye
+C6991   Malignant neoplasm of unspecified site of right eye
+C6992   Malignant neoplasm of unspecified site of left eye
+C700    Malignant neoplasm of cerebral meninges
+C701    Malignant neoplasm of spinal meninges
+D551    Anemia due to other disorders of glutathione metabolism
+D552    Anemia due to disorders of glycolytic enzymes
+D553    Anemia due to disorders of nucleotide metabolism
+D558    Other anemias due to enzyme disorders
+D559    Anemia due to enzyme disorder, unspecified
+D560    Alpha thalassemia
+D561    Beta thalassemia
+D562    Delta-beta thalassemia
+D563    Thalassemia minor
+D564    Hereditary persistence of fetal hemoglobin [HPFH]
+D565    Hemoglobin E-beta thalassemia
+D568    Other thalassemias
+D569    Thalassemia, unspecified
+D5700   Hb-SS disease with crisis, unspecified
+D5701   Hb-SS disease with acute chest syndrome
+D5702   Hb-SS disease with splenic sequestration
+D571    Sickle-cell disease without crisis
+D5720   Sickle-cell/Hb-C disease without crisis
+D57211  Sickle-cell/Hb-C disease with acute chest syndrome
+D57212  Sickle-cell/Hb-C disease with splenic sequestration
+D57219  Sickle-cell/Hb-C disease with crisis, unspecified
+D573    Sickle-cell trait
+D5740   Sickle-cell thalassemia without crisis
+D57411  Sickle-cell thalassemia with acute chest syndrome
+D57412  Sickle-cell thalassemia with splenic sequestration
+D57419  Sickle-cell thalassemia with crisis, unspecified
+D5780   Other sickle-cell disorders without crisis
+D57811  Other sickle-cell disorders with acute chest syndrome
+D57812  Other sickle-cell disorders with splenic sequestration
+D57819  Other sickle-cell disorders with crisis, unspecified
+D580    Hereditary spherocytosis
+D581    Hereditary elliptocytosis
+D582    Other hemoglobinopathies
+D588    Other specified hereditary hemolytic anemias
+D589    Hereditary hemolytic anemia, unspecified
+D590    Drug-induced autoimmune hemolytic anemia
+D591    Other autoimmune hemolytic anemias
+D592    Drug-induced nonautoimmune hemolytic anemia
+D593    Hemolytic-uremic syndrome
+D594    Other nonautoimmune hemolytic anemias
+D595    Paroxysmal nocturnal hemoglobinuria [Marchiafava-Micheli]
+D596    Hemoglobinuria due to hemolysis from other external causes
+D598    Other acquired hemolytic anemias
+D599    Acquired hemolytic anemia, unspecified
+D600    Chronic acquired pure red cell aplasia
+D601    Transient acquired pure red cell aplasia
+D608    Other acquired pure red cell aplasias
+D609    Acquired pure red cell aplasia, unspecified
+D6101   Constitutional (pure) red blood cell aplasia
+D6109   Other constitutional aplastic anemia
+D611    Drug-induced aplastic anemia
+D612    Aplastic anemia due to other external agents
+D613    Idiopathic aplastic anemia
+D61810  Antineoplastic chemotherapy induced pancytopenia
+D61811  Other drug-induced pancytopenia
+D61818  Other pancytopenia
+D6182   Myelophthisis
+D6189   Other specified aplastic anemias and other bone marrow failure syndromes
+D619    Aplastic anemia, unspecified
+D62     Acute posthemorrhagic anemia
+D630    Anemia in neoplastic disease
+D631    Anemia in chronic kidney disease
+D638    Anemia in other chronic diseases classified elsewhere
+D640    Hereditary sideroblastic anemia
+D641    Secondary sideroblastic anemia due to disease
+D642    Secondary sideroblastic anemia due to drugs and toxins
+D643    Other sideroblastic anemias
+D644    Congenital dyserythropoietic anemia
+D6481   Anemia due to antineoplastic chemotherapy
+D6489   Other specified anemias
+D649    Anemia, unspecified
+D65     Disseminated intravascular coagulation [defibrination syndrome]
+D66     Hereditary factor VIII deficiency
+D67     Hereditary factor IX deficiency
+D680    Von Willebrand's disease
+D681    Hereditary factor XI deficiency
+D682    Hereditary deficiency of other clotting factors
+D68311  Acquired hemophilia
+D68312  Antiphospholipid antibody with hemorrhagic disorder
+D68318  Other hemorrhagic disorder due to intrinsic circulating anticoagulants, antibodies, or inhibitors
+D6832   Hemorrhagic disorder due to extrinsic circulating anticoagulants
+D684    Acquired coagulation factor deficiency
+D6851   Activated protein C resistance
+D6852   Prothrombin gene mutation
+D6859   Other primary thrombophilia
+D6861   Antiphospholipid syndrome
+D6862   Lupus anticoagulant syndrome
+D6869   Other thrombophilia
+D688    Other specified coagulation defects
+I422    Other hypertrophic cardiomyopathy
+I423    Endomyocardial (eosinophilic) disease
+I424    Endocardial fibroelastosis
+I425    Other restrictive cardiomyopathy
+I426    Alcoholic cardiomyopathy
+I427    Cardiomyopathy due to drug and external agent
+I428    Other cardiomyopathies
+I429    Cardiomyopathy, unspecified
+I43     Cardiomyopathy in diseases classified elsewhere
+I440    Atrioventricular block, first degree
+I441    Atrioventricular block, second degree
+I442    Atrioventricular block, complete
+I4430   Unspecified atrioventricular block
+I4439   Other atrioventricular block
+I444    Left anterior fascicular block
+I445    Left posterior fascicular block
+I4460   Unspecified fascicular block
+I4469   Other fascicular block
+I447    Left bundle-branch block, unspecified
+I450    Right fascicular block
+I4510   Unspecified right bundle-branch block
+I4519   Other right bundle-branch block
+I452    Bifascicular block
+I453    Trifascicular block
+I454    Nonspecific intraventricular block
+I455    Other specified heart block
+I456    Pre-excitation syndrome
+I4581   Long QT syndrome
+I4589   Other specified conduction disorders
+I459    Conduction disorder, unspecified
+I462    Cardiac arrest due to underlying cardiac condition
+I468    Cardiac arrest due to other underlying condition
+I469    Cardiac arrest, cause unspecified
+I470    Re-entry ventricular arrhythmia
+I471    Supraventricular tachycardia
+I472    Ventricular tachycardia
+I479    Paroxysmal tachycardia, unspecified
+I480    Paroxysmal atrial fibrillation
+I4811   Longstanding persistent atrial fibrillation
+I4819   Other persistent atrial fibrillation
+I4820   Chronic atrial fibrillation, unspecified
+I4821   Permanent atrial fibrillation
+I483    Typical atrial flutter
+I484    Atypical atrial flutter
+I4891   Unspecified atrial fibrillation
+I4892   Unspecified atrial flutter
+I4901   Ventricular fibrillation
+I4902   Ventricular flutter
+I491    Atrial premature depolarization
+I492    Junctional premature depolarization
+I493    Ventricular premature depolarization
+I4940   Unspecified premature depolarization
+I4949   Other premature depolarization
+I495    Sick sinus syndrome
+I498    Other specified cardiac arrhythmias
+I499    Cardiac arrhythmia, unspecified
+I501    Left ventricular failure, unspecified
+I5020   Unspecified systolic (congestive) heart failure
+I5021   Acute systolic (congestive) heart failure
+I5022   Chronic systolic (congestive) heart failure
+I5023   Acute on chronic systolic (congestive) heart failure
+I5030   Unspecified diastolic (congestive) heart failure
+I5031   Acute diastolic (congestive) heart failure
+I5032   Chronic diastolic (congestive) heart failure
+I5033   Acute on chronic diastolic (congestive) heart failure
+I5040   Unspecified combined systolic (congestive) and diastolic (congestive) heart failure
+I5041   Acute combined systolic (congestive) and diastolic (congestive) heart failure
+I5042   Chronic combined systolic (congestive) and diastolic (congestive) heart failure
+I5043   Acute on chronic combined systolic (congestive) and diastolic (congestive) heart failure
+I50810  Right heart failure, unspecified
+I50811  Acute right heart failure
+I50812  Chronic right heart failure
+I50813  Acute on chronic right heart failure
+I50814  Right heart failure due to left heart failure
+I5082   Biventricular heart failure
+I5083   High output heart failure
+I5084   End stage heart failure
+I5089   Other heart failure
+I509    Heart failure, unspecified
+I510    Cardiac septal defect, acquired
+I511    Rupture of chordae tendineae, not elsewhere classified
+K731    Chronic lobular hepatitis, not elsewhere classified
+K732    Chronic active hepatitis, not elsewhere classified
+K738    Other chronic hepatitis, not elsewhere classified
+K739    Chronic hepatitis, unspecified
+K740    Hepatic fibrosis
+K741    Hepatic sclerosis
+K742    Hepatic fibrosis with hepatic sclerosis
+K743    Primary biliary cirrhosis
+K744    Secondary biliary cirrhosis
+K745    Biliary cirrhosis, unspecified
+K7460   Unspecified cirrhosis of liver
+K7469   Other cirrhosis of liver
+K750    Abscess of liver
+K751    Phlebitis of portal vein
+K752    Nonspecific reactive hepatitis
+K753    Granulomatous hepatitis, not elsewhere classified
+K754    Autoimmune hepatitis
+K7581   Nonalcoholic steatohepatitis (NASH)
+K7589   Other specified inflammatory liver diseases
+K759    Inflammatory liver disease, unspecified
+K760    Fatty (change of) liver, not elsewhere classified
+K761    Chronic passive congestion of liver
+K762    Central hemorrhagic necrosis of liver
+K763    Infarction of liver
+K764    Peliosis hepatis
+K765    Hepatic veno-occlusive disease
+K766    Portal hypertension
+K767    Hepatorenal syndrome
+K7681   Hepatopulmonary syndrome
+K7689   Other specified diseases of liver
+K769    Liver disease, unspecified
+K77     Liver disorders in diseases classified elsewhere
+K8000   Calculus of gallbladder with acute cholecystitis without obstruction
+K8001   Calculus of gallbladder with acute cholecystitis with obstruction
+K8010   Calculus of gallbladder with chronic cholecystitis without obstruction
+K8011   Calculus of gallbladder with chronic cholecystitis with obstruction
+K8012   Calculus of gallbladder with acute and chronic cholecystitis without obstruction
+K8013   Calculus of gallbladder with acute and chronic cholecystitis with obstruction
+K8018   Calculus of gallbladder with other cholecystitis without obstruction
+K8019   Calculus of gallbladder with other cholecystitis with obstruction
+K8020   Calculus of gallbladder without cholecystitis without obstruction
+K8021   Calculus of gallbladder without cholecystitis with obstruction
+K8030   Calculus of bile duct with cholangitis, unspecified, without obstruction
+K8031   Calculus of bile duct with cholangitis, unspecified, with obstruction
+K8032   Calculus of bile duct with acute cholangitis without obstruction
+K8033   Calculus of bile duct with acute cholangitis with obstruction
+K8034   Calculus of bile duct with chronic cholangitis without obstruction
+K8035   Calculus of bile duct with chronic cholangitis with obstruction
+K8036   Calculus of bile duct with acute and chronic cholangitis without obstruction
+K8037   Calculus of bile duct with acute and chronic cholangitis with obstruction
+K8040   Calculus of bile duct with cholecystitis, unspecified, without obstruction
+K8041   Calculus of bile duct with cholecystitis, unspecified, with obstruction
+K8042   Calculus of bile duct with acute cholecystitis without obstruction
+K8043   Calculus of bile duct with acute cholecystitis with obstruction
+K8044   Calculus of bile duct with chronic cholecystitis without obstruction
+K8045   Calculus of bile duct with chronic cholecystitis with obstruction
+K8046   Calculus of bile duct with acute and chronic cholecystitis without obstruction
+K8047   Calculus of bile duct with acute and chronic cholecystitis with obstruction
+K8050   Calculus of bile duct without cholangitis or cholecystitis without obstruction
+K8051   Calculus of bile duct without cholangitis or cholecystitis with obstruction
+K8060   Calculus of gallbladder and bile duct with cholecystitis, unspecified, without obstruction
+K8061   Calculus of gallbladder and bile duct with cholecystitis, unspecified, with obstruction
+K8062   Calculus of gallbladder and bile duct with acute cholecystitis without obstruction
+K8063   Calculus of gallbladder and bile duct with acute cholecystitis with obstruction
+K8064   Calculus of gallbladder and bile duct with chronic cholecystitis without obstruction
+K8065   Calculus of gallbladder and bile duct with chronic cholecystitis with obstruction
+K8066   Calculus of gallbladder and bile duct with acute and chronic cholecystitis without obstruction
+K8067   Calculus of gallbladder and bile duct with acute and chronic cholecystitis with obstruction
+K8070   Calculus of gallbladder and bile duct without cholecystitis without obstruction
+K8071   Calculus of gallbladder and bile duct without cholecystitis with obstruction
+K8080   Other cholelithiasis without obstruction
+K8081   Other cholelithiasis with obstruction
+K810    Acute cholecystitis
+K811    Chronic cholecystitis
+K812    Acute cholecystitis with chronic cholecystitis
+K819    Cholecystitis, unspecified
+K820    Obstruction of gallbladder
+K821    Hydrops of gallbladder
+K822    Perforation of gallbladder
+K823    Fistula of gallbladder
+K824    Cholesterolosis of gallbladder
+K828    Other specified diseases of gallbladder
+K829    Disease of gallbladder, unspecified
+K82A1   Gangrene of gallbladder in cholecystitis
+K82A2   Perforation of gallbladder in cholecystitis
+K8301   Primary sclerosing cholangitis
+K8309   Other cholangitis
+K831    Obstruction of bile duct
+K832    Perforation of bile duct
+K833    Fistula of bile duct
+K834    Spasm of sphincter of Oddi
+K835    Biliary cyst
+K838    Other specified diseases of biliary tract
+K839    Disease of biliary tract, unspecified
+K8500   Idiopathic acute pancreatitis without necrosis or infection
+K8501   Idiopathic acute pancreatitis with uninfected necrosis
+K8502   Idiopathic acute pancreatitis with infected necrosis
+K8510   Biliary acute pancreatitis without necrosis or infection
+K8511   Biliary acute pancreatitis with uninfected necrosis
+K8512   Biliary acute pancreatitis with infected necrosis
+K8520   Alcohol induced acute pancreatitis without necrosis or infection
+K8521   Alcohol induced acute pancreatitis with uninfected necrosis
+K8522   Alcohol induced acute pancreatitis with infected necrosis
+K8530   Drug induced acute pancreatitis without necrosis or infection
+K8531   Drug induced acute pancreatitis with uninfected necrosis
+K8532   Drug induced acute pancreatitis with infected necrosis
+K8580   Other acute pancreatitis without necrosis or infection
+K8581   Other acute pancreatitis with uninfected necrosis
+K8582   Other acute pancreatitis with infected necrosis
+K8590   Acute pancreatitis without necrosis or infection, unspecified
+K8591   Acute pancreatitis with uninfected necrosis, unspecified
+K8592   Acute pancreatitis with infected necrosis, unspecified
+K860    Alcohol-induced chronic pancreatitis
+K861    Other chronic pancreatitis
+K862    Cyst of pancreas
+K863    Pseudocyst of pancreas
+K8681   Exocrine pancreatic insufficiency
+K8689   Other specified diseases of pancreas
+K869    Disease of pancreas, unspecified
+K87     Disorders of gallbladder, biliary tract and pancreas in diseases classified elsewhere
+K900    Celiac disease
+K901    Tropical sprue
+K902    Blind loop syndrome, not elsewhere classified
+K903    Pancreatic steatorrhea
+K9041   Non-celiac gluten sensitivity
+K9049   Malabsorption due to intolerance, not elsewhere classified
+K9081   Whipple's disease
+K9089   Other intestinal malabsorption
+K909    Intestinal malabsorption, unspecified
+K910    Vomiting following gastrointestinal surgery
+K911    Postgastric surgery syndromes
+K912    Postsurgical malabsorption, not elsewhere classified
+K9130   Postprocedural intestinal obstruction, unspecified as to partial versus complete
+K9131   Postprocedural partial intestinal obstruction
+K9132   Postprocedural complete intestinal obstruction
+K915    Postcholecystectomy syndrome
+K9161   Intraoperative hemorrhage and hematoma of a digestive system organ or structure complicating a digestive system procedure
+K9162   Intraoperative hemorrhage and hematoma of a digestive system organ or structure complicating other procedure
+K9171   Accidental puncture and laceration of a digestive system organ or structure during a digestive system procedure
+K9172   Accidental puncture and laceration of a digestive system organ or structure during other procedure
+K9181   Other intraoperative complications of digestive system
+K9182   Postprocedural hepatic failure
+K9183   Postprocedural hepatorenal syndrome
+K91840  Postprocedural hemorrhage of a digestive system organ or structure following a digestive system procedure
+K91841  Postprocedural hemorrhage of a digestive system organ or structure following other procedure
+K91850  Pouchitis
+K91858  Other complications of intestinal pouch
+K9186   Retained cholelithiasis following cholecystectomy
+K91870  Postprocedural hematoma of a digestive system organ or structure following a digestive system procedure
+K91871  Postprocedural hematoma of a digestive system organ or structure following other procedure
+K91872  Postprocedural seroma of a digestive system organ or structure following a digestive system procedure
+K91873  Postprocedural seroma of a digestive system organ or structure following other procedure
+K9189   Other postprocedural complications and disorders of digestive system
+K920    Hematemesis
+K921    Melena
+K922    Gastrointestinal hemorrhage, unspecified
+K9281   Gastrointestinal mucositis (ulcerative)
+K9289   Other specified diseases of the digestive system
+K929    Disease of digestive system, unspecified
+K9400   Colostomy complication, unspecified
+K9401   Colostomy hemorrhage
+K9402   Colostomy infection
+K9403   Colostomy malfunction
+K9409   Other complications of colostomy
+K9410   Enterostomy complication, unspecified
+K9411   Enterostomy hemorrhage
+K9412   Enterostomy infection
+K9413   Enterostomy malfunction
+K9419   Other complications of enterostomy

@@ -1,0 +1,437 @@
+Name;id
+Aging, Premature;C23.888.069
+Asthenia;C23.888.089
+Body Odor;C23.888.104
+Body Temperature Changes;C23.888.119
+Fever;C23.888.119.344
+Drug Fever;C23.888.119.344.173
+Fever of Unknown Origin;C23.888.119.344.345
+Sweating Sickness;C23.888.119.344.672
+Hyperthermia;C23.888.119.455
+Malignant Hyperthermia;C23.888.119.455.500
+Hypothermia;C23.888.119.565
+Body Weight;C23.888.144
+Birth Weight;C23.888.144.186
+Fetal Macrosomia;C23.888.144.186.500
+Body Weight Changes;C23.888.144.243
+Body-Weight Trajectory;C23.888.144.243.463
+Weight Gain;C23.888.144.243.926
+Gestational Weight Gain;C23.888.144.243.926.500
+Weight Cycling;C23.888.144.243.926.750
+Weight Loss;C23.888.144.243.963
+Cachexia;C23.888.144.243.963.250
+Weight Cycling;C23.888.144.243.963.750
+Fetal Weight;C23.888.144.300
+Overweight;C23.888.144.699
+Obesity;C23.888.144.699.500
+Obesity, Abdominal;C23.888.144.699.500.063
+Obesity, Maternal;C23.888.144.699.500.125
+Obesity, Metabolically Benign;C23.888.144.699.500.250
+Obesity, Morbid;C23.888.144.699.500.500
+Pediatric Obesity;C23.888.144.699.500.750
+Thinness;C23.888.144.828
+Cachexia;C23.888.144.828.250
+Emaciation;C23.888.144.828.500
+Cardiac Output, High;C23.888.176
+Cardiac Output, Low;C23.888.192
+Chills;C23.888.208
+Cyanosis;C23.888.248
+Brief, Resolved, Unexplained Event;C23.888.248.500
+Edema;C23.888.277
+Edema, Cardiac;C23.888.277.197
+Hydrops Fetalis;C23.888.277.395
+Eye Manifestations;C23.888.307
+Corneal Endothelial Cell Loss;C23.888.307.250
+Eye Hemorrhage;C23.888.307.500
+Eye Pain;C23.888.307.625
+Susac Syndrome;C23.888.307.750
+Failure to Thrive;C23.888.338
+Fatigue;C23.888.369
+Emotional Exhaustion;C23.888.369.250
+Mental Fatigue;C23.888.369.500
+Alert Fatigue, Health Personnel;C23.888.369.500.250
+Compassion Fatigue;C23.888.369.500.500
+Overtraining Syndrome;C23.888.369.750
+Feminization;C23.888.378
+Fetal Distress;C23.888.380
+Heart Murmurs;C23.888.447
+Systolic Murmurs;C23.888.447.500
+Hot Flashes;C23.888.475
+Hypergammaglobulinemia;C23.888.512
+Hyperlactatemia;C23.888.516
+Hypertriglyceridemic Waist;C23.888.521
+Intermittent Claudication;C23.888.531
+Medically Unexplained Symptoms;C23.888.541
+Mobility Limitation;C23.888.550
+Motion Sickness;C23.888.571
+Space Motion Sickness;C23.888.571.800
+Myocardial Stunning;C23.888.582
+Neurologic Manifestations;C23.888.592
+Bilateral Vestibulopathy;C23.888.592.057
+Cerebrospinal Fluid Leak;C23.888.592.114
+Cerebrospinal Fluid Otorrhea;C23.888.592.114.249
+Cerebrospinal Fluid Rhinorrhea;C23.888.592.114.624
+Cerebral Cortical Thinning;C23.888.592.206
+Decerebrate State;C23.888.592.298
+Dyskinesias;C23.888.592.350
+Ataxia;C23.888.592.350.090
+Cerebellar Ataxia;C23.888.592.350.090.200
+Gait Ataxia;C23.888.592.350.090.600
+Athetosis;C23.888.592.350.110
+Catalepsy;C23.888.592.350.200
+Chorea;C23.888.592.350.250
+Dyskinesia, Drug-Induced;C23.888.592.350.275
+Tardive Dyskinesia;C23.888.592.350.275.500
+Dystonia;C23.888.592.350.300
+Torticollis;C23.888.592.350.300.800
+Hyperkinesis;C23.888.592.350.350
+Hypokinesia;C23.888.592.350.400
+Myoclonus;C23.888.592.350.500
+Psychomotor Agitation;C23.888.592.350.600
+Akathisia, Drug-Induced;C23.888.592.350.600.500
+Synkinesis;C23.888.592.350.675
+Tics;C23.888.592.350.700
+Tremor;C23.888.592.350.850
+Gait Disorders, Neurologic;C23.888.592.413
+Gait Apraxia;C23.888.592.413.400
+Gait Ataxia;C23.888.592.413.450
+Meningism;C23.888.592.544
+Neurobehavioral Manifestations;C23.888.592.604
+Anhedonia;C23.888.592.604.039
+Catatonia;C23.888.592.604.115
+Communication Disorders;C23.888.592.604.150
+Language Disorders;C23.888.592.604.150.500
+Agraphia;C23.888.592.604.150.500.050
+Anomia;C23.888.592.604.150.500.090
+Dyslexia;C23.888.592.604.150.500.300
+Dyslexia, Acquired;C23.888.592.604.150.500.300.200
+Alexia, Pure;C23.888.592.604.150.500.300.200.100
+Language Development Disorders;C23.888.592.604.150.500.550
+Specific Language Disorder;C23.888.592.604.150.500.550.500
+Speech Disorders;C23.888.592.604.150.500.800
+Aphasia;C23.888.592.604.150.500.800.100
+Aphasia, Broca;C23.888.592.604.150.500.800.100.100
+Aphasia, Conduction;C23.888.592.604.150.500.800.100.111
+Aphasia, Primary Progressive;C23.888.592.604.150.500.800.100.155
+Primary Progressive Nonfluent Aphasia;C23.888.592.604.150.500.800.100.155.600
+Aphasia, Wernicke;C23.888.592.604.150.500.800.100.166
+Articulation Disorders;C23.888.592.604.150.500.800.150
+Dysarthria;C23.888.592.604.150.500.800.150.200
+Echolalia;C23.888.592.604.150.500.800.300
+Mutism;C23.888.592.604.150.500.800.500
+Stuttering;C23.888.592.604.150.500.800.750
+Learning Disabilities;C23.888.592.604.150.550
+Specific Language Disorder;C23.888.592.604.150.550.350
+Specific Learning Disorder;C23.888.592.604.150.550.700
+Agraphia;C23.888.592.604.150.550.700.125
+Dyscalculia;C23.888.592.604.150.550.700.250
+Dyslexia;C23.888.592.604.150.550.700.500
+Dyslexia, Acquired;C23.888.592.604.150.550.700.500.500
+Confusion;C23.888.592.604.339
+Delirium;C23.888.592.604.339.500
+Emergence Delirium;C23.888.592.604.339.500.500
+Consciousness Disorders;C23.888.592.604.359
+Unconsciousness;C23.888.592.604.359.800
+Coma;C23.888.592.604.359.800.200
+Persistent Vegetative State;C23.888.592.604.359.800.400
+Stupor;C23.888.592.604.359.800.500
+Syncope;C23.888.592.604.359.800.600
+Syncope, Vasovagal;C23.888.592.604.359.800.600.500
+Lethargy;C23.888.592.604.444
+Mania;C23.888.592.604.487
+Memory Disorders;C23.888.592.604.529
+Amnesia;C23.888.592.604.529.100
+Amnesia, Anterograde;C23.888.592.604.529.100.075
+Amnesia, Retrograde;C23.888.592.604.529.100.150
+Amnesia, Transient Global;C23.888.592.604.529.100.800
+Korsakoff Syndrome;C23.888.592.604.529.400
+Alcoholic Korsakoff Syndrome;C23.888.592.604.529.400.500
+Intellectual Disability;C23.888.592.604.646
+Perceptual Disorders;C23.888.592.604.764
+Agnosia;C23.888.592.604.764.100
+Gerstmann Syndrome;C23.888.592.604.764.100.300
+Prosopagnosia;C23.888.592.604.764.100.650
+Alice in Wonderland Syndrome;C23.888.592.604.764.150
+Allesthesia;C23.888.592.604.764.175
+Auditory Perceptual Disorders;C23.888.592.604.764.200
+Hallucinations;C23.888.592.604.764.300
+Charles Bonnet Syndrome;C23.888.592.604.764.300.500
+Illusions;C23.888.592.604.764.400
+Phantom Limb;C23.888.592.604.764.700
+Psychomotor Disorders;C23.888.592.604.882
+Apraxias;C23.888.592.604.882.350
+Alien Limb Phenomenon;C23.888.592.604.882.350.099
+Apraxia, Ideomotor;C23.888.592.604.882.350.200
+Gait Apraxia;C23.888.592.604.882.350.600
+Psychomotor Agitation;C23.888.592.604.882.700
+Neuromuscular Manifestations;C23.888.592.608
+Fasciculation;C23.888.592.608.250
+Muscle Cramp;C23.888.592.608.500
+Muscle Hypertonia;C23.888.592.608.550
+Muscle Rigidity;C23.888.592.608.550.500
+Muscle Spasticity;C23.888.592.608.550.550
+Muscle Hypotonia;C23.888.592.608.575
+Muscle Weakness;C23.888.592.608.593
+Dropped Head Syndrome;C23.888.592.608.593.500
+Muscular Atrophy;C23.888.592.608.612
+Sarcopenia;C23.888.592.608.612.500
+Myokymia;C23.888.592.608.650
+Myotonia;C23.888.592.608.700
+Spasm;C23.888.592.608.750
+Hemifacial Spasm;C23.888.592.608.750.400
+Trismus;C23.888.592.608.750.700
+Tetany;C23.888.592.608.875
+Orthostatic Intolerance;C23.888.592.610
+Pain;C23.888.592.612
+Abdominal Pain;C23.888.592.612.054
+Abdomen, Acute;C23.888.592.612.054.200
+Acute Pain;C23.888.592.612.081
+Arthralgia;C23.888.592.612.094
+Shoulder Pain;C23.888.592.612.094.700
+Back Pain;C23.888.592.612.107
+Failed Back Surgery Syndrome;C23.888.592.612.107.200
+Low Back Pain;C23.888.592.612.107.400
+Breakthrough Pain;C23.888.592.612.191
+Cancer Pain;C23.888.592.612.212
+Chest Pain;C23.888.592.612.233
+Angina Pectoris;C23.888.592.612.233.500
+Angina, Unstable;C23.888.592.612.233.500.150
+Angina Pectoris, Variant;C23.888.592.612.233.500.150.150
+Angina, Stable;C23.888.592.612.233.500.575
+Chronic Pain;C23.888.592.612.274
+Earache;C23.888.592.612.302
+Eye Pain;C23.888.592.612.316
+Facial Pain;C23.888.592.612.330
+Toothache;C23.888.592.612.330.500
+Flank Pain;C23.888.592.612.386
+Glossalgia;C23.888.592.612.414
+Headache;C23.888.592.612.441
+Slit Ventricle Syndrome;C23.888.592.612.441.500
+Labor Pain;C23.888.592.612.451
+Mastodynia;C23.888.592.612.530
+Metatarsalgia;C23.888.592.612.540
+Morton Neuroma;C23.888.592.612.540.500
+Musculoskeletal Pain;C23.888.592.612.547
+Myalgia;C23.888.592.612.547.249
+Pelvic Girdle Pain;C23.888.592.612.547.500
+Neck Pain;C23.888.592.612.553
+Neuralgia;C23.888.592.612.664
+Morton Neuroma;C23.888.592.612.664.275
+Neuralgia, Postherpetic;C23.888.592.612.664.550
+Piriformis Muscle Syndrome;C23.888.592.612.664.675
+Pudendal Neuralgia;C23.888.592.612.664.737
+Sciatica;C23.888.592.612.664.800
+Nociceptive Pain;C23.888.592.612.720
+Visceral Pain;C23.888.592.612.720.500
+Pain, Intractable;C23.888.592.612.776
+Pain, Postoperative;C23.888.592.612.832
+Phantom Limb;C23.888.592.612.832.500
+Pain, Procedural;C23.888.592.612.860
+Pain, Referred;C23.888.592.612.888
+Pelvic Pain;C23.888.592.612.944
+Dysmenorrhea;C23.888.592.612.944.500
+Pelvic Girdle Pain;C23.888.592.612.944.625
+Piriformis Muscle Syndrome;C23.888.592.612.944.750
+Renal Colic;C23.888.592.612.972
+Paralysis;C23.888.592.636
+Facial Paralysis;C23.888.592.636.214
+Gastroparesis;C23.888.592.636.263
+Hemiplegia;C23.888.592.636.312
+Ophthalmoplegia;C23.888.592.636.447
+Ophthalmoplegia, Chronic Progressive External;C23.888.592.636.447.511
+Kearns-Sayre Syndrome;C23.888.592.636.447.511.500
+Ophthalmoplegic Migraine;C23.888.592.636.447.600
+Supranuclear Palsy, Progressive;C23.888.592.636.447.690
+Paraplegia;C23.888.592.636.637
+Brown-Sequard Syndrome;C23.888.592.636.637.300
+Pseudobulbar Palsy;C23.888.592.636.711
+Quadriplegia;C23.888.592.636.786
+Locked-In Syndrome;C23.888.592.636.786.500
+Respiratory Paralysis;C23.888.592.636.812
+Vocal Cord Paralysis;C23.888.592.636.943
+Paresis;C23.888.592.643
+Paraparesis;C23.888.592.643.500
+Paraparesis, Spastic;C23.888.592.643.500.500
+Psychophysiologic Disorders;C23.888.592.700
+Pupil Disorders;C23.888.592.708
+Anisocoria;C23.888.592.708.150
+Miosis;C23.888.592.708.362
+Horner Syndrome;C23.888.592.708.362.500
+Tonic Pupil;C23.888.592.708.575
+Reflex, Abnormal;C23.888.592.717
+Seizures;C23.888.592.742
+Alcohol Withdrawal Seizures;C23.888.592.742.143
+Psychogenic Nonepileptic Seizures;C23.888.592.742.357
+Seizures, Febrile;C23.888.592.742.571
+Status Epilepticus;C23.888.592.742.785
+Epilepsia Partialis Continua;C23.888.592.742.785.260
+Sensation Disorders;C23.888.592.763
+Dizziness;C23.888.592.763.237
+Hearing Disorders;C23.888.592.763.393
+Hearing Loss;C23.888.592.763.393.341
+Deafness;C23.888.592.763.393.341.186
+Deaf-Blind Disorders;C23.888.592.763.393.341.186.500
+CHARGE Syndrome;C23.888.592.763.393.341.186.500.500
+Hearing Loss, Bilateral;C23.888.592.763.393.341.374
+Hearing Loss, Conductive;C23.888.592.763.393.341.562
+Hearing Loss, Functional;C23.888.592.763.393.341.750
+Hearing Loss, High-Frequency;C23.888.592.763.393.341.812
+Hearing Loss, Mixed Conductive-Sensorineural;C23.888.592.763.393.341.849
+Hearing Loss, Sensorineural;C23.888.592.763.393.341.887
+Hearing Loss, Central;C23.888.592.763.393.341.887.432
+Hearing Loss, Noise-Induced;C23.888.592.763.393.341.887.460
+Presbycusis;C23.888.592.763.393.341.887.772
+Usher Syndromes;C23.888.592.763.393.341.887.886
+Hearing Loss, Sudden;C23.888.592.763.393.341.900
+Hearing Loss, Unilateral;C23.888.592.763.393.341.950
+Hearing Loss, Hidden;C23.888.592.763.393.341.975
+Hyperacusis;C23.888.592.763.393.505
+Tinnitus;C23.888.592.763.393.670
+Olfaction Disorders;C23.888.592.763.550
+Anosmia;C23.888.592.763.550.500
+Somatosensory Disorders;C23.888.592.763.770
+Hyperalgesia;C23.888.592.763.770.400
+Hyperesthesia;C23.888.592.763.770.450
+Hypesthesia;C23.888.592.763.770.500
+Paresthesia;C23.888.592.763.770.875
+Taste Disorders;C23.888.592.763.861
+Ageusia;C23.888.592.763.861.184
+Dysgeusia;C23.888.592.763.861.479
+Vision Disorders;C23.888.592.763.941
+Alice in Wonderland Syndrome;C23.888.592.763.941.036
+Amblyopia;C23.888.592.763.941.073
+Blindness;C23.888.592.763.941.162
+Amaurosis Fugax;C23.888.592.763.941.162.125
+Blindness, Cortical;C23.888.592.763.941.162.250
+Deaf-Blind Disorders;C23.888.592.763.941.162.625
+CHARGE Syndrome;C23.888.592.763.941.162.625.500
+Color Vision Defects;C23.888.592.763.941.256
+Diplopia;C23.888.592.763.941.339
+Hemianopsia;C23.888.592.763.941.512
+Photophobia;C23.888.592.763.941.661
+Scotoma;C23.888.592.763.941.811
+Vision, Low;C23.888.592.763.941.848
+Sleep Wake Disorders;C23.888.592.796
+Sleep Deprivation;C23.888.592.796.772
+Susac Syndrome;C23.888.592.848
+Urinary Bladder, Neurogenic;C23.888.592.900
+Vertigo;C23.888.592.958
+Benign Paroxysmal Positional Vertigo;C23.888.592.958.500
+Voice Disorders;C23.888.592.979
+Aphonia;C23.888.592.979.100
+Dysphonia;C23.888.592.979.325
+Hoarseness;C23.888.592.979.550
+Oral Manifestations;C23.888.619
+Oral Hemorrhage;C23.888.619.500
+Polydipsia;C23.888.663
+Polydipsia, Psychogenic;C23.888.663.500
+Prodromal Symptoms;C23.888.672
+Pseudophakia;C23.888.681
+Renal Colic;C23.888.721
+Reticulocytosis;C23.888.760
+Signs and Symptoms, Digestive;C23.888.821
+Abdominal Pain;C23.888.821.030
+Abdomen, Acute;C23.888.821.030.249
+Aerophagy;C23.888.821.061
+Anorexia;C23.888.821.108
+Constipation;C23.888.821.150
+Opioid-Induced Constipation;C23.888.821.150.500
+Diarrhea;C23.888.821.214
+Diarrhea, Infantile;C23.888.821.214.500
+Dyspepsia;C23.888.821.236
+Encopresis;C23.888.821.266
+Eructation;C23.888.821.297
+Flatulence;C23.888.821.360
+Food Intolerance;C23.888.821.387
+Gagging;C23.888.821.414
+Halitosis;C23.888.821.475
+Heartburn;C23.888.821.525
+Hiccup;C23.888.821.578
+Hyperphagia;C23.888.821.645
+Bulimia;C23.888.821.645.500
+Nausea;C23.888.821.712
+Postoperative Nausea and Vomiting;C23.888.821.712.700
+Pica;C23.888.821.825
+Vomiting;C23.888.821.937
+Hematemesis;C23.888.821.937.019
+Morning Sickness;C23.888.821.937.049
+Hyperemesis Gravidarum;C23.888.821.937.049.500
+Postoperative Nausea and Vomiting;C23.888.821.937.059
+Vomiting, Anticipatory;C23.888.821.937.080
+Signs and Symptoms, Respiratory;C23.888.852
+Epistaxis;C23.888.852.040
+Hypoxia;C23.888.852.079
+Fetal Hypoxia;C23.888.852.079.594
+Hypoxia, Brain;C23.888.852.079.797
+Hypoxia-Ischemia, Brain;C23.888.852.079.797.500
+Platypnea Orthodeoxia Syndrome;C23.888.852.079.898
+Apnea;C23.888.852.130
+Cheyne-Stokes Respiration;C23.888.852.227
+Cough;C23.888.852.293
+Chronic Cough;C23.888.852.293.500
+Dyspnea;C23.888.852.371
+Dyspnea, Paroxysmal;C23.888.852.371.396
+Platypnea Orthodeoxia Syndrome;C23.888.852.371.698
+Hemoptysis;C23.888.852.430
+Hoarseness;C23.888.852.490
+Hypercapnia;C23.888.852.544
+Hyperoxia;C23.888.852.567
+Hyperventilation;C23.888.852.591
+Hypocapnia;C23.888.852.614
+Hypoventilation;C23.888.852.638
+Brief, Resolved, Unexplained Event;C23.888.852.700
+Mouth Breathing;C23.888.852.761
+Patient-Ventilator Asynchrony;C23.888.852.770
+Respiratory Sounds;C23.888.852.779
+Snoring;C23.888.852.779.850
+Rhinorrhea;C23.888.852.834
+Cerebrospinal Fluid Rhinorrhea;C23.888.852.834.500
+Sneezing;C23.888.852.889
+Tachypnea;C23.888.852.944
+Transient Tachypnea of the Newborn;C23.888.852.944.500
+Skin Manifestations;C23.888.885
+Cafe-au-Lait Spots;C23.888.885.250
+Cellulite;C23.888.885.281
+Ecchymosis;C23.888.885.312
+Erythema;C23.888.885.328
+Erythema Ab Igne;C23.888.885.328.500
+Flushing;C23.888.885.344
+Jaundice;C23.888.885.375
+Jaundice, Obstructive;C23.888.885.375.500
+Livedo Reticularis;C23.888.885.437
+Necrolytic Migratory Erythema;C23.888.885.468
+Pallor;C23.888.885.500
+Pruritus;C23.888.885.625
+Tinea Pedis;C23.888.885.625.500
+Purpura;C23.888.885.687
+Purpura Fulminans;C23.888.885.687.230
+Purpura, Hyperglobulinemic;C23.888.885.687.250
+IgA Vasculitis;C23.888.885.687.375
+Purpura, Thrombocytopenic;C23.888.885.687.687
+Purpura, Thrombocytopenic, Idiopathic;C23.888.885.687.687.600
+Purpura, Thrombotic Thrombocytopenic;C23.888.885.687.687.680
+Waterhouse-Friderichsen Syndrome;C23.888.885.687.843
+Striae Distensae;C23.888.885.800
+Sleepiness;C23.888.900
+Travel-Related Illness;C23.888.914
+Jet Lag Syndrome;C23.888.914.500
+Urological Manifestations;C23.888.942
+Crystalluria;C23.888.942.169
+Hypercalciuria;C23.888.942.337
+Lower Urinary Tract Symptoms;C23.888.942.343
+Dysuria;C23.888.942.343.274
+Nocturia;C23.888.942.343.550
+Prostatism;C23.888.942.343.600
+Urinary Bladder, Overactive;C23.888.942.343.780
+Urinary Bladder, Underactive;C23.888.942.343.790
+Urinary Incontinence;C23.888.942.343.800
+Urinary Incontinence, Stress;C23.888.942.343.800.500
+Urinary Incontinence, Urge;C23.888.942.343.800.750
+Oliguria;C23.888.942.400
+Polyuria;C23.888.942.600
+Proteinuria;C23.888.942.750
+Albuminuria;C23.888.942.750.269
+Hemoglobinuria;C23.888.942.750.634
+Urinoma;C23.888.942.900
+Virilism;C23.888.971
+Hirsutism;C23.888.971.468

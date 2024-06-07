@@ -1,0 +1,111 @@
+digraph {
+	Root [label=Root]
+	A [label=A]
+	Root -> A
+	A00 [label=A00]
+	A -> A00
+	A000 [label="A000
+Cholera due to Vibrio cholerae 01, biovar cholerae"]
+	A00 -> A000
+	A001 [label="A001
+Cholera due to Vibrio cholerae 01, biovar eltor"]
+	A00 -> A001
+	A009 [label="A009
+Cholera, unspecified"]
+	A00 -> A009
+	A01 [label=A01]
+	A -> A01
+	A0100 [label="A0100
+Typhoid fever, unspecified"]
+	A01 -> A0100
+	A0101 [label="A0101
+Typhoid meningitis"]
+	A01 -> A0101
+	A0102 [label="A0102
+Typhoid fever with heart involvement"]
+	A01 -> A0102
+	A0103 [label="A0103
+Typhoid pneumonia"]
+	A01 -> A0103
+	A0104 [label="A0104
+Typhoid arthritis"]
+	A01 -> A0104
+	A0105 [label="A0105
+Typhoid osteomyelitis"]
+	A01 -> A0105
+	A0109 [label="A0109
+Typhoid fever with other complications"]
+	A01 -> A0109
+	A011 [label="A011
+Paratyphoid fever A"]
+	A01 -> A011
+	A012 [label="A012
+Paratyphoid fever B"]
+	A01 -> A012
+	A013 [label="A013
+Paratyphoid fever C"]
+	A01 -> A013
+	A014 [label="A014
+Paratyphoid fever, unspecified"]
+	A01 -> A014
+	A02 [label=A02]
+	A -> A02
+	A020 [label="A020
+Salmonella enteritis"]
+	A02 -> A020
+	A021 [label="A021
+Salmonella sepsis"]
+	A02 -> A021
+	A0220 [label="A0220
+Localized salmonella infection, unspecified"]
+	A02 -> A0220
+	A0221 [label="A0221
+Salmonella meningitis"]
+	A02 -> A0221
+	A0222 [label="A0222
+Salmonella pneumonia"]
+	A02 -> A0222
+	A0223 [label="A0223
+Salmonella arthritis"]
+	A02 -> A0223
+	A0224 [label="A0224
+Salmonella osteomyelitis"]
+	A02 -> A0224
+	A0225 [label="A0225
+Salmonella pyelonephritis"]
+	A02 -> A0225
+	A0229 [label="A0229
+Salmonella with other localized infection"]
+	A02 -> A0229
+	A028 [label="A028
+Other specified salmonella infections"]
+	A02 -> A028
+	A029 [label="A029
+Salmonella infection, unspecified"]
+	A02 -> A029
+	A03 [label=A03]
+	A -> A03
+	A030 [label="A030
+Shigellosis due to Shigella dysenteriae"]
+	A03 -> A030
+	A031 [label="A031
+Shigellosis due to Shigella flexneri"]
+	A03 -> A031
+	A032 [label="A032
+Shigellosis due to Shigella boydii"]
+	A03 -> A032
+	A033 [label="A033
+Shigellosis due to Shigella sonnei"]
+	A03 -> A033
+	A038 [label="A038
+Other shigellosis"]
+	A03 -> A038
+	A039 [label="A039
+Shigellosis, unspecified"]
+	A03 -> A039
+	A04 [label=A04]
+	A -> A04
+	A040 [label="A040
+Enteropathogenic Escherichia coli infection"]
+	A04 -> A040
+}

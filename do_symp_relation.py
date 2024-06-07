@@ -13,7 +13,7 @@ def fetch_disease_terms(symptom):
     symptom_query = symptom.replace(" ", "+")
 
     # Construct the search query URL
-    search_url = f"{PUBMED_API_BASE_URL}esearch.fcgi?db=pubmed&term={symptom_query}[MeSH Terms]&retmax=20"
+    search_url = f"{PUBMED_API_BASE_URL}esearch.fcgi?db=pubmed&term={symptom_query}[MeSH Terms]&retmax=50"
 
     # Send the request to PubMed API
     response = requests.get(search_url)
@@ -55,7 +55,8 @@ disease_file="OUTPUT/active_disease_terms.csv"
 symptom_df=pd.read_csv(symptom_file)
 disease_df=pd.read_csv(disease_file, encoding="cp1252")
 
-symptom_df=symptom_df.head(40) #only to cross-check, remove this later on
+symptom_df=symptom_df.loc[371:400] #only to cross-check, remove this later on
+print(symptom_df.head(2))
 
 #select name column
 column_name="Name"
@@ -77,7 +78,7 @@ for symptom in symptom_column:
     for d in diseases_related_to_symptom:
         for d_vocab in total_diseases:
             if similar(d,d_vocab):
-                actual_diseases.add(d)
+                actual_diseases.add(d_vocab)
     # actual_diseases = list(diseases_related_to_symptom & total_diseases)
     actual_diseases_string = ';'.join(actual_diseases)
     df.loc[len(df)]=[symptom,actual_diseases_string]
@@ -85,7 +86,7 @@ for symptom in symptom_column:
 print(df.head())
 
 
-df.to_csv("OUTPUT/relationship1.csv",sep=",",index=False)
+df.to_csv("OUTPUT/relationship2.csv", sep=",", mode='a', index=False, header=False)
 
 
     # # Print the disease terms
