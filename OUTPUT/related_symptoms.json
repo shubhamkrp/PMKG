@@ -1,0 +1,5248 @@
+{
+    "cellulitis": [
+        "cellulitis",
+        "cellulitis",
+        "cellulitis",
+        "cellulitis",
+        "cellulitis",
+        "sinusitis",
+        "cellulitis",
+        "cellulitis",
+        "cellulitis",
+        "overweight",
+        "cellulitis",
+        "cellulitis",
+        "cellulitis",
+        "cellulitis",
+        "cellulitis",
+        "cellulitis",
+        "cellulitis",
+        "exanthema"
+    ],
+    "abdominal cramp": [
+        "colic",
+        "colic",
+        "colic",
+        "colic",
+        "colic",
+        "colic",
+        "colic",
+        "renal colic",
+        "colic",
+        "colic",
+        "colic",
+        "colic",
+        "colic",
+        "colic",
+        "renal colic",
+        "colic",
+        "colic",
+        "colic",
+        "colic",
+        "colic",
+        "colic",
+        "colic",
+        "colic",
+        "renal colic",
+        "colic",
+        "colic",
+        "colic",
+        "colic",
+        "colic",
+        "colic",
+        "colic",
+        "colic",
+        "colic",
+        "colic",
+        "colic",
+        "colic",
+        "colic",
+        "colic",
+        "colic",
+        "eczema",
+        "colic",
+        "renal colic",
+        "colic",
+        "colic",
+        "colic",
+        "colic",
+        "colic",
+        "colic",
+        "renal colic",
+        "colic",
+        "colic",
+        "colic",
+        "colic",
+        "colic",
+        "colic"
+    ],
+    "abdominal distention": [
+        "dyspepsia"
+    ],
+    "ataxia": [
+        "ataxia",
+        "tremor",
+        "ataxia",
+        "encephalitis",
+        "paresthesia",
+        "ataxia",
+        "tremor",
+        "ataxia",
+        "ataxia",
+        "ataxia",
+        "ataxia",
+        "dysarthria",
+        "ataxia",
+        "muscle weakness",
+        "ataxia",
+        "tremor",
+        "dysarthria",
+        "tremor"
+    ],
+    "backache": [
+        "chronic pain",
+        "chronic pain",
+        "chronic pain",
+        "chronic pain",
+        "chronic pain",
+        "neck pain",
+        "chronic pain"
+    ],
+    "bleeding": [
+        "hemorrhage",
+        "hemorrhage",
+        "atrial fibrillation",
+        "hemorrhage",
+        "nausea",
+        "vomiting",
+        "menorrhagia",
+        "hemorrhage",
+        "epistaxis",
+        "atrial fibrillation",
+        "hemorrhage",
+        "hematoma",
+        "hematoma"
+    ],
+    "blindness": [
+        "blindness",
+        "blindness",
+        "blindness",
+        "blindness",
+        "meningoencephalitis",
+        "blindness",
+        "blindness",
+        "keratitis",
+        "blindness",
+        "blindness",
+        "blindness",
+        "blindness",
+        "blindness",
+        "heart failure"
+    ],
+    "blister": [
+        "blister",
+        "blister",
+        "exanthema",
+        "exanthema",
+        "blister",
+        "blister",
+        "skin ulcer",
+        "blister",
+        "blister",
+        "urticaria",
+        "blister",
+        "blister"
+    ],
+    "blurred vision": [],
+    "confusion": [
+        "delirium",
+        "coma",
+        "delirium",
+        "delirium",
+        "delirium",
+        "delirium",
+        "delirium",
+        "delirium",
+        "delirium",
+        "delirium",
+        "hypothermia",
+        "delirium",
+        "delirium",
+        "delirium",
+        "delirium",
+        "delirium",
+        "delirium",
+        "delirium",
+        "delirium",
+        "delirium",
+        "delirium",
+        "delirium",
+        "delirium",
+        "delirium",
+        "delirium",
+        "delirium",
+        "delirium",
+        "delirium",
+        "inflammation",
+        "delirium",
+        "delirium",
+        "hypotension",
+        "delirium",
+        "delirium",
+        "delirium",
+        "aphasia",
+        "confusion",
+        "delirium",
+        "delirium",
+        "anxiety",
+        "delirium",
+        "delirium"
+    ],
+    "darkening of skin": [
+        "hyperpigmentation",
+        "hyperpigmentation",
+        "hyperpigmentation"
+    ],
+    "deafness": [
+        "deafness",
+        "deafness",
+        "deafness",
+        "deafness",
+        "deafness",
+        "deafness",
+        "deafness",
+        "deafness",
+        "deafness",
+        "deafness",
+        "deafness",
+        "deafness",
+        "deafness",
+        "deafness",
+        "deafness",
+        "deafness",
+        "meningitis",
+        "deafness",
+        "deafness",
+        "deafness",
+        "deafness",
+        "deafness",
+        "deafness",
+        "deafness",
+        "deafness",
+        "deafness",
+        "deafness",
+        "deafness",
+        "deafness",
+        "deafness",
+        "deafness",
+        "deafness",
+        "deafness",
+        "deafness",
+        "deafness",
+        "deafness",
+        "deafness",
+        "deafness"
+    ],
+    "dehydration": [
+        "dehydration",
+        "dehydration",
+        "dehydration",
+        "dehydration",
+        "dehydration",
+        "dehydration",
+        "dehydration",
+        "dehydration",
+        "dehydration",
+        "dehydration",
+        "dehydration",
+        "dehydration",
+        "dehydration",
+        "thirst",
+        "dehydration",
+        "dehydration"
+    ],
+    "delirium": [
+        "delirium",
+        "coma",
+        "delirium",
+        "delirium",
+        "delirium",
+        "delirium",
+        "delirium",
+        "delirium",
+        "delirium",
+        "delirium",
+        "hypothermia",
+        "delirium",
+        "delirium",
+        "delirium",
+        "delirium",
+        "delirium",
+        "delirium",
+        "delirium",
+        "delirium",
+        "delirium",
+        "delirium",
+        "delirium",
+        "delirium",
+        "delirium",
+        "delirium",
+        "delirium",
+        "delirium",
+        "delirium",
+        "inflammation",
+        "delirium",
+        "delirium",
+        "hypotension",
+        "delirium",
+        "delirium",
+        "delirium",
+        "delirium",
+        "delirium",
+        "anxiety",
+        "delirium",
+        "delirium",
+        "delirium"
+    ],
+    "depression": [
+        "depression",
+        "depression",
+        "depression",
+        "depression",
+        "depression",
+        "tinnitus",
+        "anxiety",
+        "depression",
+        "depression",
+        "depression",
+        "anxiety",
+        "depression",
+        "depression",
+        "depression",
+        "depression",
+        "depression",
+        "depression",
+        "anxiety",
+        "depression",
+        "anxiety",
+        "depression",
+        "depression",
+        "depression",
+        "anxiety",
+        "depression",
+        "depression",
+        "anxiety",
+        "depression",
+        "anxiety",
+        "depression",
+        "depression",
+        "depression",
+        "depression",
+        "pain",
+        "depression",
+        "anxiety"
+    ],
+    "disorientation": [
+        "delirium",
+        "coma",
+        "delirium",
+        "delirium",
+        "delirium",
+        "delirium",
+        "delirium",
+        "delirium",
+        "delirium",
+        "delirium",
+        "hypothermia",
+        "delirium",
+        "delirium",
+        "delirium",
+        "delirium",
+        "delirium",
+        "delirium",
+        "delirium",
+        "delirium",
+        "delirium",
+        "delirium",
+        "delirium",
+        "delirium",
+        "delirium",
+        "delirium",
+        "delirium",
+        "delirium",
+        "delirium",
+        "inflammation",
+        "delirium",
+        "delirium",
+        "hypotension",
+        "delirium",
+        "delirium",
+        "delirium",
+        "aphasia",
+        "confusion",
+        "delirium",
+        "delirium",
+        "anxiety",
+        "delirium",
+        "delirium"
+    ],
+    "drowsiness": [
+        "dizziness",
+        "dizziness",
+        "cataplexy",
+        "heart failure",
+        "cataplexy",
+        "heart failure",
+        "fatigue"
+    ],
+    "dry cough": [
+        "hypotension",
+        "cough",
+        "cough",
+        "cough",
+        "chronic cough",
+        "cough",
+        "hemoptysis",
+        "hemoptysis",
+        "cough",
+        "cough",
+        "cough",
+        "cough",
+        "lymphadenopathy",
+        "cough",
+        "dyspnea",
+        "cough",
+        "cough"
+    ],
+    "paralysis": [
+        "facial paralysis",
+        "weight loss",
+        "paraplegia",
+        "facial paralysis",
+        "respiratory paralysis",
+        "paraplegia",
+        "facial paralysis",
+        "facial paralysis",
+        "facial paralysis",
+        "facial paralysis",
+        "facial paralysis",
+        "dysphonia"
+    ],
+    "flaccidity": [
+        "contracture",
+        "edema",
+        "ataxia",
+        "muscle weakness",
+        "failure to thrive",
+        "lethargy"
+    ],
+    "hemorrhagic gastroenteritis": [
+        "gastroenteritis",
+        "depression",
+        "gastroenteritis",
+        "inflammation",
+        "diarrhea"
+    ],
+    "enteritis": [
+        "enteritis",
+        "enteritis",
+        "enteritis",
+        "enteritis",
+        "enteritis",
+        "enteritis",
+        "enteritis",
+        "arthritis",
+        "enteritis",
+        "enteritis",
+        "enteritis",
+        "enteritis",
+        "enteritis",
+        "enteritis",
+        "enteritis",
+        "enteritis",
+        "enteritis",
+        "enteritis",
+        "enteritis",
+        "enteritis",
+        "enteritis",
+        "enteritis",
+        "enteritis",
+        "enteritis",
+        "enteritis",
+        "enteritis",
+        "enteritis",
+        "enteritis",
+        "enteritis",
+        "enteritis",
+        "enteritis",
+        "gastroenteritis",
+        "enteritis",
+        "enteritis",
+        "enteritis",
+        "enteritis",
+        "enteritis",
+        "enteritis",
+        "enteritis",
+        "enteritis",
+        "enteritis",
+        "enteritis"
+    ],
+    "hematuria": [
+        "hemorrhage",
+        "hematuria",
+        "hematuria",
+        "urinary incontinence",
+        "hematuria",
+        "hematuria",
+        "pleural effusion",
+        "hematuria",
+        "hematuria",
+        "hematuria",
+        "hematuria",
+        "hematuria",
+        "hematuria",
+        "vasculitis"
+    ],
+    "hemorrhage": [
+        "hemorrhage",
+        "hemorrhage",
+        "atrial fibrillation",
+        "hemorrhage",
+        "nausea",
+        "vomiting",
+        "menorrhagia",
+        "hemorrhage",
+        "epistaxis",
+        "atrial fibrillation",
+        "hemorrhage",
+        "hematoma",
+        "hematoma"
+    ],
+    "hepatic necrosis": [
+        "necrosis",
+        "gangrene",
+        "hepatitis"
+    ],
+    "hepatitis": [],
+    "hydrocephalus": [
+        "hydrocephalus",
+        "hydrocephalus",
+        "hydrocephalus",
+        "hydrocephalus",
+        "hydrocephalus",
+        "fever",
+        "muscle weakness",
+        "hydrocephalus",
+        "hydrocephalus",
+        "hydrocephalus",
+        "hydrocephalus",
+        "hydrocephalus",
+        "hydrocephalus",
+        "hydrocephalus",
+        "hydrocephalus",
+        "encephalitis",
+        "hydrocephalus",
+        "hydrocephalus",
+        "hydrocephalus",
+        "hydrocephalus",
+        "hydrocephalus",
+        "hydrocephalus",
+        "hydrocephalus",
+        "hydrocephalus",
+        "hydrocephalus",
+        "hydrocephalus",
+        "hydrocephalus",
+        "hydrocephalus",
+        "hydrocephalus",
+        "hydrocephalus"
+    ],
+    "hypergammaglobulinemia": [
+        "exanthema",
+        "hypergammaglobulinemia",
+        "exanthema"
+    ],
+    "hyperpigmentation": [
+        "hyperpigmentation",
+        "hyperpigmentation",
+        "hyperpigmentation",
+        "hyperpigmentation",
+        "hyperpigmentation",
+        "hyperpigmentation",
+        "hyperpigmentation",
+        "hyperpigmentation",
+        "hyperpigmentation",
+        "hyperpigmentation",
+        "hyperpigmentation",
+        "hyperpigmentation",
+        "hyperpigmentation",
+        "hyperpigmentation",
+        "hyperpigmentation",
+        "hyperpigmentation",
+        "hyperpigmentation",
+        "hyperpigmentation",
+        "hyperpigmentation",
+        "hyperpigmentation",
+        "hyperpigmentation",
+        "hyperpigmentation",
+        "hyperpigmentation"
+    ],
+    "hyperreflexia": [
+        "facial paralysis",
+        "contracture",
+        "paraplegia",
+        "meningoencephalitis"
+    ],
+    "hypotension": [
+        "hypotension",
+        "hypotension",
+        "hypotension",
+        "hypotension",
+        "hypotension",
+        "blood pressure",
+        "hypotension",
+        "hypotension",
+        "syncope",
+        "hypotension",
+        "hypotension",
+        "hypothermia",
+        "hypotension",
+        "anemia",
+        "hypotension",
+        "hypotension",
+        "hypotension",
+        "hypotension",
+        "hypotension",
+        "hypotension",
+        "heart failure",
+        "hypotension",
+        "hyponatremia",
+        "hypotension",
+        "hypotension",
+        "shock",
+        "hypotension",
+        "hypotension",
+        "hypotension",
+        "hypotension",
+        "hypotension",
+        "hypotension",
+        "hypotension",
+        "hypotension",
+        "heart failure",
+        "hypotension",
+        "hypotension",
+        "hypotension",
+        "heart failure",
+        "heart failure",
+        "hypotension",
+        "hypotension",
+        "hypotension",
+        "heart failure",
+        "hypotension",
+        "hypotension"
+    ],
+    "inflammation": [
+        "inflammation",
+        "inflammation",
+        "inflammation",
+        "inflammation",
+        "inflammation",
+        "hyperpigmentation",
+        "inflammation",
+        "inflammation",
+        "cellulitis",
+        "inflammation",
+        "inflammation",
+        "inflammation",
+        "inflammation",
+        "abscess"
+    ],
+    "intestinal hemorrhage": [
+        "hematoma"
+    ],
+    "joint pain": [
+        "fever",
+        "shoulder pain",
+        "shoulder pain",
+        "shoulder pain",
+        "shoulder pain",
+        "shoulder pain",
+        "shoulder pain",
+        "chronic pain",
+        "neck pain",
+        "shoulder pain",
+        "chronic pain",
+        "shoulder pain",
+        "arthritis",
+        "synovitis",
+        "arthritis",
+        "shoulder pain",
+        "shoulder pain",
+        "shoulder pain"
+    ],
+    "keratotic nodules of the skin": [],
+    "laryngitis": [
+        "bronchiolitis",
+        "laryngitis",
+        "laryngitis",
+        "laryngitis",
+        "laryngitis",
+        "laryngitis",
+        "dysphonia",
+        "laryngitis",
+        "laryngitis",
+        "laryngitis",
+        "laryngitis",
+        "laryngitis",
+        "laryngitis",
+        "laryngitis",
+        "sinusitis",
+        "bronchitis",
+        "laryngitis",
+        "laryngitis",
+        "laryngitis",
+        "laryngitis",
+        "dysphonia",
+        "laryngitis"
+    ],
+    "lesions in myocardium": [
+        "heart failure",
+        "heart failure",
+        "atrial fibrillation",
+        "atrial fibrillation",
+        "heart failure",
+        "atrial fibrillation",
+        "necrosis"
+    ],
+    "lethargy": [
+        "lymphadenopathy",
+        "lethargy",
+        "hydrocephalus",
+        "lethargy",
+        "lethargy",
+        "lethargy",
+        "colic",
+        "exanthema",
+        "lethargy",
+        "weight loss",
+        "lethargy",
+        "lymphadenopathy",
+        "lethargy",
+        "lethargy",
+        "anorexia",
+        "lethargy",
+        "lethargy",
+        "lethargy",
+        "hypotension",
+        "thrombocytopenia",
+        "jaundice",
+        "lethargy"
+    ],
+    "listlessness": [
+        "anxiety",
+        "delirium",
+        "depression",
+        "anxiety"
+    ],
+    "lesions in lung": [
+        "hemoptysis",
+        "pleural effusion",
+        "dysarthria"
+    ],
+    "lymphangitis": [
+        "lymphangitis",
+        "lymphangitis",
+        "lymphangitis",
+        "lymphangitis",
+        "lymphangitis",
+        "lymphangitis",
+        "lymphangitis",
+        "lymphangitis",
+        "lymphangitis",
+        "lymphangitis",
+        "lymphangitis",
+        "lymphangitis",
+        "lymphangitis",
+        "lymphangitis",
+        "pleural effusion",
+        "lymphangitis",
+        "lymphangitis",
+        "lymphangitis",
+        "lymphangitis",
+        "lymphangitis",
+        "lymphangitis",
+        "lymphangitis",
+        "lymphangitis",
+        "lymphangitis",
+        "lymphangitis",
+        "lymphangitis",
+        "lymphangitis",
+        "lymphangitis",
+        "lymphangitis",
+        "lymphangitis",
+        "lymphangitis",
+        "lymphangitis",
+        "lymphangitis",
+        "enteritis",
+        "lymphangitis",
+        "lymphangitis",
+        "lymphangitis",
+        "lymphangitis",
+        "lymphangitis",
+        "lymphangitis",
+        "pleural effusion",
+        "lymphangitis",
+        "lymphangitis",
+        "lymphangitis",
+        "lymphangitis"
+    ],
+    "lymphopenia": [
+        "lymphopenia",
+        "lymphopenia",
+        "lymphopenia",
+        "lymphopenia",
+        "lymphopenia",
+        "lymphopenia",
+        "lymphopenia",
+        "thrombocytopenia",
+        "lymphopenia",
+        "lymphopenia",
+        "lymphopenia",
+        "thrombocytopenia",
+        "lymphopenia",
+        "lymphopenia",
+        "lymphopenia",
+        "lymphopenia",
+        "lymphopenia",
+        "thrombocytopenia",
+        "lymphopenia",
+        "lymphopenia",
+        "lymphopenia",
+        "lymphopenia",
+        "lymphopenia",
+        "lymphopenia",
+        "lymphopenia",
+        "lymphopenia",
+        "lymphopenia",
+        "lymphopenia",
+        "lymphopenia",
+        "lymphopenia",
+        "lymphopenia",
+        "thrombocytopenia",
+        "lymphopenia",
+        "cytopenia",
+        "lymphopenia",
+        "thrombocytopenia",
+        "lymphopenia",
+        "lymphopenia",
+        "lymphopenia",
+        "lymphopenia",
+        "lymphopenia",
+        "lymphopenia",
+        "lymphopenia",
+        "lymphopenia",
+        "lymphopenia",
+        "anemia",
+        "thrombocytopenia",
+        "lymphopenia",
+        "lymphopenia",
+        "anemia",
+        "meningoencephalitis",
+        "lymphopenia"
+    ],
+    "massive hepatic necrosis": [
+        "massive hepatic necrosis",
+        "massive hepatic necrosis",
+        "massive hepatic necrosis",
+        "hepatitis",
+        "massive hepatic necrosis",
+        "massive hepatic necrosis",
+        "massive hepatic necrosis",
+        "massive hepatic necrosis",
+        "hepatitis",
+        "massive hepatic necrosis",
+        "massive hepatic necrosis",
+        "massive hepatic necrosis",
+        "massive hepatic necrosis",
+        "massive hepatic necrosis",
+        "massive hepatic necrosis",
+        "massive hepatic necrosis",
+        "massive hepatic necrosis",
+        "jaundice",
+        "massive hepatic necrosis",
+        "massive hepatic necrosis",
+        "massive hepatic necrosis",
+        "massive hepatic necrosis",
+        "hepatitis",
+        "massive hepatic necrosis",
+        "massive hepatic necrosis",
+        "massive hepatic necrosis",
+        "massive hepatic necrosis",
+        "massive hepatic necrosis",
+        "massive hepatic necrosis",
+        "massive hepatic necrosis",
+        "massive hepatic necrosis",
+        "massive hepatic necrosis",
+        "massive hepatic necrosis",
+        "massive hepatic necrosis",
+        "massive hepatic necrosis",
+        "massive hepatic necrosis",
+        "massive hepatic necrosis"
+    ],
+    "meningoencephalitis": [
+        "blindness",
+        "meningoencephalitis",
+        "meningoencephalitis",
+        "meningoencephalitis",
+        "meningoencephalitis",
+        "meningoencephalitis",
+        "meningoencephalitis",
+        "meningoencephalitis",
+        "meningoencephalitis",
+        "meningoencephalitis",
+        "meningoencephalitis",
+        "meningoencephalitis",
+        "meningoencephalitis",
+        "meningoencephalitis",
+        "meningoencephalitis",
+        "meningoencephalitis",
+        "meningitis",
+        "meningoencephalitis",
+        "encephalitis",
+        "meningoencephalitis",
+        "meningoencephalitis",
+        "meningoencephalitis",
+        "meningoencephalitis",
+        "meningoencephalitis",
+        "meningoencephalitis",
+        "anemia",
+        "meningoencephalitis",
+        "meningoencephalitis",
+        "meningoencephalitis",
+        "meningoencephalitis",
+        "meningoencephalitis",
+        "meningoencephalitis",
+        "meningoencephalitis",
+        "meningoencephalitis"
+    ],
+    "encephalitis": [
+        "encephalitis",
+        "encephalitis",
+        "tremor",
+        "encephalitis",
+        "encephalitis",
+        "encephalitis",
+        "tremor",
+        "ataxia",
+        "encephalitis",
+        "blindness",
+        "meningoencephalitis",
+        "encephalitis",
+        "meningoencephalitis",
+        "encephalitis",
+        "encephalitis",
+        "encephalitis",
+        "encephalitis",
+        "encephalitis",
+        "encephalitis"
+    ],
+    "mild encephalitis": [
+        "encephalitis",
+        "meningoencephalitis",
+        "meningoencephalitis",
+        "meningoencephalitis",
+        "meningoencephalitis",
+        "encephalitis",
+        "encephalitis",
+        "encephalitis",
+        "encephalitis",
+        "encephalitis",
+        "encephalitis",
+        "encephalitis",
+        "meningoencephalitis",
+        "encephalitis",
+        "encephalitis",
+        "encephalitis",
+        "encephalitis",
+        "meningoencephalitis",
+        "encephalitis",
+        "encephalitis",
+        "encephalitis",
+        "encephalitis",
+        "encephalitis",
+        "encephalitis",
+        "encephalitis",
+        "meningoencephalitis",
+        "encephalitis",
+        "encephalitis"
+    ],
+    "muscle cramp": [
+        "muscle cramp",
+        "muscle cramp",
+        "muscle cramp",
+        "muscle cramp",
+        "chronic pain",
+        "muscle cramp",
+        "muscle cramp",
+        "muscle cramp",
+        "muscle cramp",
+        "muscle cramp",
+        "acute pain",
+        "muscle cramp",
+        "muscle cramp",
+        "hyponatremia",
+        "muscle cramp",
+        "muscle cramp",
+        "muscle cramp",
+        "muscle cramp",
+        "muscle cramp",
+        "muscle cramp",
+        "muscle cramp",
+        "muscle cramp",
+        "contracture",
+        "muscle cramp",
+        "muscle cramp"
+    ],
+    "muscle weakness": [
+        "muscle weakness",
+        "muscle weakness",
+        "muscle weakness",
+        "muscle weakness",
+        "muscle weakness",
+        "muscle weakness",
+        "fever",
+        "muscle weakness",
+        "muscle weakness",
+        "muscle weakness",
+        "muscle weakness",
+        "tremor",
+        "muscle weakness",
+        "exanthema",
+        "muscle weakness",
+        "muscle weakness",
+        "muscle weakness",
+        "muscle weakness",
+        "muscle weakness",
+        "myocarditis"
+    ],
+    "myocarditis": [
+        "myocarditis",
+        "myocarditis",
+        "myocarditis",
+        "myocarditis",
+        "myocarditis",
+        "myocarditis",
+        "myocarditis",
+        "myocarditis",
+        "myocarditis",
+        "myocarditis",
+        "myocarditis",
+        "myocarditis",
+        "myocarditis",
+        "myocarditis",
+        "myocarditis",
+        "myocarditis",
+        "myocarditis",
+        "myocarditis",
+        "myocarditis",
+        "myocarditis",
+        "myocarditis",
+        "myocarditis",
+        "heart failure",
+        "myocarditis",
+        "myocarditis",
+        "myocarditis",
+        "myocarditis",
+        "myocarditis",
+        "myocarditis",
+        "myocarditis",
+        "anemia",
+        "thrombocytopenia",
+        "myocarditis",
+        "myocarditis",
+        "myocarditis",
+        "myocarditis",
+        "myocarditis",
+        "heart failure",
+        "myocarditis",
+        "heart failure",
+        "myocarditis",
+        "myocarditis",
+        "myocarditis",
+        "heart failure",
+        "myocarditis",
+        "myocarditis"
+    ],
+    "nephritis": [
+        "fever"
+    ],
+    "pain": [
+        "headache",
+        "fever",
+        "pain",
+        "abdominal pain",
+        "chronic pain",
+        "pain",
+        "pain",
+        "chronic pain",
+        "chronic pain",
+        "pain",
+        "pain",
+        "abdominal pain",
+        "neck pain"
+    ],
+    "lesions in pancreas": [],
+    "peritonitis": [
+        "ascites",
+        "peritonitis",
+        "peritonitis",
+        "peritonitis",
+        "peritonitis",
+        "peritonitis",
+        "peritonitis",
+        "peritonitis",
+        "inflammation",
+        "multiple organ failure",
+        "peritonitis",
+        "peritonitis",
+        "peritonitis",
+        "peritonitis",
+        "peritonitis",
+        "peritonitis",
+        "peritonitis",
+        "peritonitis",
+        "peritonitis",
+        "peritonitis",
+        "peritonitis",
+        "peritonitis",
+        "peritonitis",
+        "peritonitis",
+        "peritonitis",
+        "peritonitis",
+        "peritonitis",
+        "peritonitis",
+        "peritonitis",
+        "peritonitis",
+        "peritonitis",
+        "peritonitis",
+        "peritonitis",
+        "peritonitis",
+        "peritonitis",
+        "peritonitis",
+        "ascites",
+        "peritonitis",
+        "peritonitis",
+        "peritonitis",
+        "peritonitis"
+    ],
+    "pleural effusion": [
+        "pleural effusion",
+        "pleural effusion",
+        "pleural effusion",
+        "pleural effusion",
+        "pleural effusion",
+        "pleural effusion",
+        "pleural effusion",
+        "pleural effusion",
+        "heart failure",
+        "pleural effusion",
+        "pleural effusion",
+        "pleural effusion",
+        "pleural effusion",
+        "pleural effusion",
+        "pleural effusion",
+        "pleural effusion",
+        "pleural effusion",
+        "pleural effusion",
+        "pleural effusion",
+        "pleural effusion",
+        "heart failure",
+        "pleural effusion",
+        "pleural effusion",
+        "pleural effusion",
+        "pleural effusion",
+        "pleural effusion",
+        "pleural effusion",
+        "pleural effusion",
+        "pleural effusion",
+        "pleural effusion",
+        "pleural effusion",
+        "pleural effusion",
+        "pleural effusion",
+        "pleural effusion",
+        "pleural effusion",
+        "pleural effusion",
+        "pleural effusion",
+        "pleural effusion",
+        "pleural effusion"
+    ],
+    "tracheitis": [
+        "tracheitis",
+        "bronchitis",
+        "tracheitis",
+        "bronchitis",
+        "tracheitis",
+        "tracheitis",
+        "tracheitis",
+        "bronchitis",
+        "tracheitis",
+        "bronchitis",
+        "tracheitis",
+        "tracheitis",
+        "bronchitis",
+        "tracheitis",
+        "tracheitis",
+        "bronchitis",
+        "bronchitis",
+        "tracheitis",
+        "tracheitis",
+        "bronchitis",
+        "tracheitis",
+        "bronchitis",
+        "tracheitis",
+        "tracheitis",
+        "tracheitis",
+        "bronchitis",
+        "tracheitis",
+        "bronchitis",
+        "tracheitis",
+        "tracheitis",
+        "bronchitis",
+        "tracheitis",
+        "bronchitis",
+        "tracheitis",
+        "tracheitis",
+        "bronchitis",
+        "tracheitis",
+        "bronchitis",
+        "tracheitis",
+        "tracheitis",
+        "bronchitis",
+        "tracheitis",
+        "bronchitis",
+        "tracheitis",
+        "bronchitis",
+        "tracheitis",
+        "bronchitis",
+        "tracheitis",
+        "laryngitis",
+        "tracheitis",
+        "tracheitis",
+        "tracheitis",
+        "tracheitis",
+        "tracheitis",
+        "bronchitis",
+        "tracheitis",
+        "bronchitis",
+        "tracheitis",
+        "tracheitis"
+    ],
+    "thrombocytopenia": [
+        "thrombocytopenia",
+        "anemia",
+        "thrombocytopenia",
+        "thrombocytopenia",
+        "arthritis",
+        "thrombocytopenia",
+        "thrombocytopenia",
+        "inflammation",
+        "thrombocytopenia",
+        "thrombocytopenia",
+        "anemia",
+        "thrombocytopenia",
+        "thrombocytopenia",
+        "thrombocytopenia",
+        "thrombocytopenia",
+        "thrombocytopenia",
+        "thrombocytopenia"
+    ],
+    "rales": [
+        "bronchiolitis",
+        "eczema",
+        "bronchiolitis",
+        "bronchitis"
+    ],
+    "seizure": [],
+    "liver inflammation": [],
+    "severe backache": [
+        "neck pain",
+        "shoulder pain",
+        "chronic pain",
+        "chronic pain",
+        "chronic pain"
+    ],
+    "conjunctivitis": [
+        "conjunctivitis",
+        "conjunctivitis",
+        "keratitis",
+        "conjunctivitis",
+        "hyperemia",
+        "eczema",
+        "conjunctivitis",
+        "conjunctivitis",
+        "conjunctivitis",
+        "conjunctivitis",
+        "conjunctivitis",
+        "conjunctivitis",
+        "conjunctivitis",
+        "conjunctivitis",
+        "conjunctivitis",
+        "conjunctivitis",
+        "conjunctivitis"
+    ],
+    "severe conjunctivitis": [
+        "conjunctivitis",
+        "keratitis",
+        "hyperemia",
+        "conjunctivitis",
+        "conjunctivitis",
+        "conjunctivitis",
+        "conjunctivitis",
+        "keratitis",
+        "conjunctivitis",
+        "hydrocephalus",
+        "conjunctivitis",
+        "conjunctivitis",
+        "conjunctivitis",
+        "conjunctivitis",
+        "eczema",
+        "conjunctivitis",
+        "conjunctivitis",
+        "conjunctivitis",
+        "keratitis",
+        "conjunctivitis",
+        "conjunctivitis",
+        "hyperemia",
+        "conjunctivitis",
+        "hyperemia",
+        "conjunctivitis",
+        "conjunctivitis",
+        "conjunctivitis",
+        "conjunctivitis",
+        "conjunctivitis"
+    ],
+    "severe headache": [
+        "headache",
+        "headache",
+        "headache",
+        "sinusitis",
+        "tremor",
+        "headache",
+        "neck pain",
+        "headache",
+        "headache",
+        "sinusitis"
+    ],
+    "severe joint pain": [
+        "neck pain",
+        "shoulder pain",
+        "chronic pain",
+        "synovitis",
+        "fatigue",
+        "shoulder pain",
+        "pain",
+        "chronic pain",
+        "inflammation",
+        "chronic pain"
+    ],
+    "necrosis": [
+        "hemorrhage",
+        "ventricular fibrillation",
+        "heart failure"
+    ],
+    "severe necrosis": [
+        "necrosis",
+        "necrosis",
+        "cellulitis",
+        "necrosis",
+        "necrosis"
+    ],
+    "sinusitis": [
+        "sinusitis",
+        "sinusitis",
+        "sinusitis",
+        "sinusitis",
+        "sinusitis",
+        "sinusitis",
+        "sinusitis",
+        "sinusitis",
+        "sinusitis",
+        "sinusitis",
+        "sinusitis",
+        "sinusitis",
+        "sinusitis",
+        "abscess",
+        "sinusitis",
+        "sinusitis",
+        "sinusitis",
+        "sinusitis",
+        "sinusitis",
+        "sinusitis",
+        "sinusitis",
+        "sinusitis",
+        "sinusitis",
+        "sinusitis",
+        "sinusitis",
+        "sinusitis",
+        "sinusitis",
+        "sinusitis",
+        "sinusitis",
+        "sinusitis",
+        "sinusitis",
+        "sinusitis",
+        "sinusitis",
+        "sinusitis",
+        "sinusitis",
+        "sinusitis",
+        "sinusitis",
+        "sinusitis",
+        "sinusitis",
+        "sinusitis"
+    ],
+    "skin ulcer": [
+        "skin ulcer",
+        "skin ulcer",
+        "anemia",
+        "ischemia"
+    ],
+    "sneezing": [
+        "sneezing",
+        "sneezing",
+        "sneezing",
+        "sneezing",
+        "sinusitis",
+        "epistaxis",
+        "sneezing",
+        "sneezing",
+        "sneezing",
+        "sneezing"
+    ],
+    "spasticity": [
+        "contracture",
+        "contracture"
+    ],
+    "steatorrhea": [
+        "diarrhea",
+        "steatorrhea",
+        "steatorrhea",
+        "steatorrhea",
+        "steatorrhea",
+        "steatorrhea",
+        "steatorrhea",
+        "steatorrhea",
+        "steatorrhea",
+        "steatorrhea",
+        "steatorrhea",
+        "steatorrhea",
+        "steatorrhea",
+        "steatorrhea"
+    ],
+    "vasculitis": [
+        "vasculitis",
+        "vasculitis",
+        "vasculitis",
+        "phlebitis",
+        "vasculitis",
+        "abdominal pain",
+        "vasculitis",
+        "hemorrhage"
+    ],
+    "thirst": [
+        "thirst",
+        "fatigue",
+        "thirst",
+        "thirst",
+        "thirst",
+        "thirst",
+        "thirst",
+        "thirst",
+        "thirst",
+        "heart failure",
+        "thirst",
+        "thirst",
+        "dehydration",
+        "thirst",
+        "urinary incontinence",
+        "thirst",
+        "thirst",
+        "thirst",
+        "thirst",
+        "thirst",
+        "thirst",
+        "heart failure",
+        "thirst",
+        "thirst",
+        "thirst",
+        "thirst",
+        "thirst",
+        "hyponatremia",
+        "thirst",
+        "hyponatremia",
+        "thirst",
+        "thirst",
+        "dehydration",
+        "thirst"
+    ],
+    "tremor": [
+        "tremor",
+        "tremor",
+        "tremor",
+        "ataxia",
+        "encephalitis",
+        "tremor",
+        "tremor",
+        "tremor",
+        "tremor",
+        "ataxia",
+        "tremor",
+        "tremor",
+        "tremor",
+        "tremor",
+        "muscle weakness",
+        "tremor",
+        "tremor",
+        "tremor",
+        "cyanosis",
+        "anxiety",
+        "tremor",
+        "tremor",
+        "tremor",
+        "tremor",
+        "ataxia",
+        "tremor",
+        "tremor",
+        "dysarthria",
+        "tremor",
+        "tremor",
+        "tremor",
+        "tremor",
+        "encephalitis",
+        "tremor",
+        "depression",
+        "tremor",
+        "tremor"
+    ],
+    "incoordination": [
+        "ataxia",
+        "tremor",
+        "ataxia",
+        "encephalitis",
+        "paresthesia",
+        "ataxia",
+        "tremor",
+        "ataxia",
+        "ataxia",
+        "ataxia",
+        "ataxia",
+        "dysarthria",
+        "ataxia",
+        "muscle weakness",
+        "ataxia",
+        "tremor",
+        "dysarthria",
+        "tremor"
+    ],
+    "wasting": [
+        "cachexia",
+        "cachexia",
+        "cachexia",
+        "cachexia",
+        "cachexia",
+        "cachexia",
+        "cachexia",
+        "cachexia",
+        "cachexia",
+        "cachexia",
+        "cachexia",
+        "cachexia",
+        "cachexia",
+        "cachexia",
+        "cachexia",
+        "cachexia",
+        "cachexia",
+        "cachexia",
+        "cachexia",
+        "cachexia",
+        "cachexia",
+        "cachexia",
+        "cachexia",
+        "cachexia",
+        "cachexia",
+        "cachexia",
+        "cachexia",
+        "cachexia",
+        "cachexia",
+        "cachexia",
+        "cachexia"
+    ],
+    "weakness": [
+        "depression",
+        "anxiety",
+        "fever",
+        "endocarditis",
+        "depression",
+        "delirium",
+        "blood pressure",
+        "heart failure",
+        "atrial fibrillation",
+        "hemorrhage"
+    ],
+    "weight loss": [
+        "cachexia",
+        "weight loss",
+        "weight loss",
+        "heart failure",
+        "overweight",
+        "cachexia",
+        "weight loss",
+        "weight loss",
+        "weight gain",
+        "cachexia",
+        "cachexia",
+        "weight loss",
+        "weight loss",
+        "blood pressure",
+        "cachexia",
+        "atrial fibrillation",
+        "weight loss",
+        "weight loss",
+        "weight loss",
+        "cachexia",
+        "weight loss",
+        "overweight",
+        "overweight",
+        "weight loss",
+        "overweight",
+        "diarrhea",
+        "weight loss",
+        "weight loss",
+        "weight loss",
+        "overweight",
+        "weight loss",
+        "heart failure",
+        "weight loss",
+        "weight loss",
+        "weight loss",
+        "cachexia",
+        "inflammation",
+        "weight loss",
+        "anorexia",
+        "weight loss",
+        "cachexia",
+        "weight loss",
+        "weight loss",
+        "weight loss",
+        "cachexia"
+    ],
+    "change in skin color": [
+        "hyperpigmentation",
+        "hyperpigmentation"
+    ],
+    "weariness": [
+        "fatigue",
+        "fatigue",
+        "fatigue",
+        "inflammation",
+        "fatigue",
+        "fatigue",
+        "fatigue",
+        "fatigue",
+        "fatigue",
+        "fatigue",
+        "dyspnea",
+        "fatigue",
+        "fatigue",
+        "fatigue",
+        "fatigue",
+        "fatigue",
+        "fatigue",
+        "fatigue",
+        "fatigue",
+        "fatigue",
+        "fatigue",
+        "fatigue",
+        "thirst",
+        "arthritis",
+        "fatigue",
+        "fatigue",
+        "anxiety",
+        "depression",
+        "fatigue",
+        "fatigue",
+        "fatigue"
+    ],
+    "tiredness": [
+        "fatigue",
+        "fatigue",
+        "fatigue",
+        "inflammation",
+        "fatigue",
+        "fatigue",
+        "fatigue",
+        "fatigue",
+        "fatigue",
+        "fatigue",
+        "dyspnea",
+        "fatigue",
+        "fatigue",
+        "fatigue",
+        "fatigue",
+        "fatigue",
+        "fatigue",
+        "fatigue",
+        "fatigue",
+        "fatigue",
+        "fatigue",
+        "fatigue",
+        "thirst",
+        "arthritis",
+        "fatigue",
+        "fatigue",
+        "anxiety",
+        "depression",
+        "fatigue",
+        "fatigue",
+        "fatigue"
+    ],
+    "conscious proprioception": [
+        "deafness"
+    ],
+    "abortion": [
+        "depression",
+        "anxiety",
+        "depression"
+    ],
+    "miscarriage": [
+        "stillbirth",
+        "infertility"
+    ],
+    "spontaneous abortion": [
+        "stillbirth",
+        "infertility"
+    ],
+    "acute arthritis": [
+        "inflammation",
+        "synovitis",
+        "arthritis",
+        "meningitis",
+        "arthritis",
+        "arthritis"
+    ],
+    "acute meningoencephalitis": [
+        "meningoencephalitis",
+        "meningoencephalitis",
+        "meningoencephalitis",
+        "meningoencephalitis",
+        "meningoencephalitis",
+        "encephalitis",
+        "meningitis",
+        "meningoencephalitis",
+        "meningoencephalitis",
+        "encephalitis",
+        "meningoencephalitis",
+        "meningoencephalitis",
+        "encephalitis",
+        "meningoencephalitis",
+        "encephalitis",
+        "meningoencephalitis",
+        "meningoencephalitis",
+        "meningoencephalitis",
+        "meningoencephalitis",
+        "encephalitis",
+        "meningoencephalitis",
+        "meningoencephalitis",
+        "hydrocephalus",
+        "meningoencephalitis",
+        "meningoencephalitis",
+        "meningoencephalitis",
+        "meningoencephalitis",
+        "meningoencephalitis",
+        "meningoencephalitis",
+        "encephalitis",
+        "meningoencephalitis",
+        "meningoencephalitis",
+        "encephalitis",
+        "pulmonary edema",
+        "meningoencephalitis",
+        "meningoencephalitis",
+        "encephalitis",
+        "meningitis",
+        "meningoencephalitis",
+        "meningoencephalitis",
+        "meningoencephalitis",
+        "meningoencephalitis",
+        "meningoencephalitis",
+        "encephalitis",
+        "meningoencephalitis",
+        "meningoencephalitis",
+        "meningoencephalitis",
+        "meningoencephalitis",
+        "meningoencephalitis"
+    ],
+    "acute painful vision loss": [
+        "keratitis",
+        "inflammation"
+    ],
+    "acute suppurative parotiditis": [
+        "abscess"
+    ],
+    "anemia": [
+        "anemia",
+        "anemia",
+        "nausea",
+        "vomiting",
+        "menorrhagia",
+        "thrombocytopenia",
+        "anemia",
+        "anemia",
+        "anemia",
+        "anemia",
+        "anemia",
+        "multiple organ failure",
+        "hemolysis",
+        "pain",
+        "anemia",
+        "anemia"
+    ],
+    "ischemia": [
+        "ischemia",
+        "hemorrhage",
+        "ventricular fibrillation",
+        "ischemia",
+        "ischemia",
+        "heart failure"
+    ],
+    "photophobia": [
+        "photophobia",
+        "mydriasis",
+        "photophobia",
+        "hyperalgesia",
+        "photophobia",
+        "pain",
+        "photophobia",
+        "photophobia",
+        "photophobia",
+        "keratitis",
+        "photophobia",
+        "hyperemia",
+        "photophobia",
+        "photophobia",
+        "photophobia",
+        "photophobia",
+        "photophobia",
+        "photophobia",
+        "photophobia"
+    ],
+    "asthenopia": [
+        "asthenopia",
+        "asthenopia",
+        "asthenopia",
+        "asthenopia",
+        "asthenopia",
+        "asthenopia",
+        "asthenopia",
+        "asthenopia",
+        "asthenopia",
+        "asthenopia",
+        "asthenopia",
+        "asthenopia",
+        "asthenopia",
+        "asthenopia",
+        "asthenopia",
+        "asthenopia",
+        "asthenopia",
+        "asthenopia",
+        "asthenopia",
+        "asthenopia",
+        "asthenopia",
+        "asthenopia",
+        "asthenopia",
+        "asthenopia",
+        "asthenopia",
+        "asthenopia",
+        "asthenopia",
+        "asthenopia",
+        "asthenopia",
+        "asthenopia",
+        "asthenopia",
+        "asthenopia",
+        "asthenopia",
+        "asthenopia",
+        "asthenopia",
+        "asthenopia",
+        "asthenopia",
+        "asthenopia",
+        "asthenopia",
+        "asthenopia",
+        "asthenopia",
+        "asthenopia",
+        "asthenopia",
+        "asthenopia",
+        "asthenopia",
+        "asthenopia"
+    ],
+    "eye strain": [
+        "asthenopia",
+        "asthenopia",
+        "asthenopia",
+        "asthenopia",
+        "asthenopia",
+        "asthenopia",
+        "asthenopia",
+        "asthenopia",
+        "asthenopia",
+        "asthenopia",
+        "asthenopia",
+        "asthenopia",
+        "asthenopia",
+        "asthenopia",
+        "asthenopia",
+        "asthenopia",
+        "asthenopia",
+        "asthenopia",
+        "asthenopia",
+        "asthenopia",
+        "asthenopia",
+        "asthenopia",
+        "asthenopia",
+        "asthenopia",
+        "asthenopia",
+        "asthenopia",
+        "asthenopia",
+        "asthenopia",
+        "asthenopia",
+        "asthenopia",
+        "asthenopia",
+        "asthenopia",
+        "asthenopia",
+        "asthenopia",
+        "asthenopia",
+        "asthenopia",
+        "asthenopia",
+        "asthenopia",
+        "asthenopia",
+        "asthenopia",
+        "asthenopia",
+        "asthenopia",
+        "asthenopia",
+        "asthenopia",
+        "asthenopia",
+        "asthenopia"
+    ],
+    "agraphia": [
+        "agraphia",
+        "agraphia",
+        "aphasia",
+        "agraphia",
+        "agraphia",
+        "agraphia",
+        "agraphia",
+        "agraphia",
+        "agraphia",
+        "agraphia",
+        "agraphia",
+        "agraphia",
+        "agraphia",
+        "aphasia",
+        "agraphia",
+        "agraphia",
+        "agraphia",
+        "agraphia",
+        "agraphia",
+        "agraphia",
+        "aphasia",
+        "agraphia",
+        "agraphia",
+        "agraphia",
+        "agraphia",
+        "agraphia",
+        "agraphia",
+        "aphasia",
+        "agraphia",
+        "agraphia",
+        "agraphia",
+        "aphasia",
+        "agraphia",
+        "aphasia",
+        "agraphia",
+        "aphasia",
+        "agraphia",
+        "agraphia",
+        "agraphia",
+        "agraphia",
+        "agraphia",
+        "agraphia",
+        "agraphia",
+        "agraphia",
+        "agraphia",
+        "agraphia",
+        "agraphia",
+        "agraphia",
+        "aphasia",
+        "agraphia",
+        "agraphia",
+        "agraphia"
+    ],
+    "anomia": [
+        "anomia",
+        "aphasia",
+        "anomia",
+        "anomia",
+        "aphasia",
+        "anomia",
+        "aphasia",
+        "anomia",
+        "aphasia",
+        "anomia",
+        "aphasia",
+        "aphasia",
+        "aphasia",
+        "aphasia",
+        "anomia",
+        "aphasia",
+        "anomia",
+        "aphasia",
+        "anomia",
+        "aphasia",
+        "anomia",
+        "aphasia",
+        "anomia",
+        "aphasia",
+        "aphasia",
+        "aphasia",
+        "anomia",
+        "aphasia",
+        "aphasia",
+        "aphasia",
+        "anomia",
+        "aphasia",
+        "aphasia",
+        "aphasia",
+        "anomia",
+        "aphasia",
+        "aphasia",
+        "anomia",
+        "anomia",
+        "anomia",
+        "aphasia",
+        "anomia",
+        "aphasia",
+        "aphasia",
+        "anomia",
+        "aphasia",
+        "anomia",
+        "aphasia",
+        "aphasia",
+        "anomia",
+        "anomia",
+        "aphasia"
+    ],
+    "inability to comprehend speech": [],
+    "inability to speak": [
+        "hydrocephalus",
+        "hydrocephalus",
+        "hydrocephalus",
+        "hydrocephalus",
+        "hydrocephalus",
+        "hydrocephalus"
+    ],
+    "receptive aphasia": [
+        "aphasia",
+        "aphasia",
+        "aphasia",
+        "aphasia",
+        "aphasia",
+        "aphasia",
+        "agraphia",
+        "aphasia",
+        "aphasia",
+        "aphasia",
+        "aphasia",
+        "aphasia"
+    ],
+    "areflexia": [
+        "facial paralysis",
+        "contracture",
+        "paraplegia",
+        "meningoencephalitis"
+    ],
+    "absence of knee jerk reflex": [],
+    "limb weakness": [],
+    "arm weakness": [
+        "exanthema",
+        "exanthema",
+        "facial paralysis"
+    ],
+    "leg weakness": [
+        "heart failure",
+        "heart failure"
+    ],
+    "asthenia": [
+        "dysphonia",
+        "asthenia",
+        "asthenia",
+        "asthenia",
+        "asthenia",
+        "asthenia",
+        "dysphonia",
+        "asthenia",
+        "asthenia",
+        "asthenia",
+        "asthenia",
+        "heart failure",
+        "asthenia",
+        "encephalitis",
+        "asthenia",
+        "ageusia",
+        "tinnitus",
+        "asthenia",
+        "dysphonia"
+    ],
+    "atrial fibrillation": [
+        "atrial fibrillation",
+        "heart failure",
+        "atrial fibrillation",
+        "atrial fibrillation",
+        "atrial fibrillation",
+        "hemorrhage",
+        "atrial fibrillation",
+        "atrial fibrillation",
+        "atrial fibrillation",
+        "hemorrhage",
+        "atrial fibrillation",
+        "atrial fibrillation",
+        "atrial fibrillation",
+        "atrial fibrillation",
+        "atrial fibrillation",
+        "atrial fibrillation",
+        "atrial fibrillation",
+        "atrial fibrillation",
+        "atrial fibrillation",
+        "atrial fibrillation",
+        "atrial fibrillation",
+        "atrial fibrillation",
+        "hematoma",
+        "atrial fibrillation",
+        "atrial fibrillation",
+        "atrial fibrillation",
+        "atrial fibrillation",
+        "atrial fibrillation",
+        "atrial fibrillation",
+        "atrial fibrillation",
+        "atrial fibrillation",
+        "atrial fibrillation",
+        "atrial fibrillation",
+        "atrial fibrillation",
+        "weight loss",
+        "atrial fibrillation",
+        "bradycardia",
+        "atrial fibrillation",
+        "atrial fibrillation",
+        "atrial fibrillation",
+        "atrial fibrillation",
+        "atrial fibrillation",
+        "heart failure",
+        "atrial fibrillation",
+        "atrial fibrillation",
+        "atrial fibrillation",
+        "atrial fibrillation",
+        "atrial fibrillation",
+        "atrial fibrillation"
+    ],
+    "blood vessel infection": [
+        "endocarditis",
+        "anemia",
+        "endocarditis",
+        "endocarditis",
+        "inflammation",
+        "keratitis"
+    ],
+    "hemorrhagic diarrhea": [
+        "constipation",
+        "diarrhea",
+        "diarrhea",
+        "diarrhea",
+        "diarrhea",
+        "weight loss",
+        "anemia",
+        "diarrhea",
+        "gastroenteritis",
+        "urinary incontinence",
+        "diarrhea",
+        "diarrhea",
+        "exanthema",
+        "lymphadenopathy",
+        "dehydration",
+        "exanthema"
+    ],
+    "bloody stool": [
+        "anemia",
+        "atrial fibrillation",
+        "hemoptysis"
+    ],
+    "body ache": [
+        "neck pain",
+        "chronic pain",
+        "pain",
+        "chronic pain",
+        "pain",
+        "arthritis",
+        "pain",
+        "breakthrough pain",
+        "chronic pain",
+        "chronic pain",
+        "inflammation",
+        "chronic pain",
+        "chronic pain",
+        "pain",
+        "chronic pain"
+    ],
+    "bradycardia": [
+        "myocarditis",
+        "atrial fibrillation",
+        "bradycardia",
+        "bradycardia",
+        "atrial fibrillation",
+        "heart failure",
+        "hypotension",
+        "bradycardia",
+        "hypotension",
+        "bradycardia",
+        "hypotension",
+        "atrial fibrillation",
+        "apnea",
+        "bradycardia",
+        "atrial fibrillation",
+        "atrial fibrillation",
+        "hypotension",
+        "bradycardia",
+        "hypotension",
+        "atrial fibrillation",
+        "hypotension",
+        "bradycardia",
+        "bradycardia",
+        "bradycardia",
+        "bradycardia",
+        "tachycardia",
+        "bradycardia",
+        "bradycardia",
+        "hypotension",
+        "hypotension",
+        "hypotension",
+        "heart failure"
+    ],
+    "bronchiolitis": [
+        "bronchiolitis",
+        "bronchiolitis",
+        "bronchiolitis",
+        "bronchiolitis",
+        "bronchiolitis",
+        "bronchiolitis",
+        "bronchiolitis",
+        "bronchiolitis",
+        "bronchiolitis",
+        "bronchiolitis",
+        "bronchiolitis",
+        "bronchiolitis",
+        "bronchiolitis",
+        "bronchitis",
+        "skin ulcer",
+        "bronchiolitis",
+        "bronchiolitis",
+        "bronchiolitis",
+        "bronchiolitis",
+        "bronchiolitis",
+        "bronchiolitis",
+        "bronchiolitis",
+        "bronchiolitis"
+    ],
+    "cloudy cornea": [
+        "keratitis",
+        "corneal opacity",
+        "corneal opacity"
+    ],
+    "colic": [
+        "colic",
+        "colic",
+        "colic",
+        "colic",
+        "colic",
+        "colic",
+        "colic",
+        "renal colic",
+        "colic",
+        "colic",
+        "colic",
+        "colic",
+        "colic",
+        "colic",
+        "renal colic",
+        "colic",
+        "colic",
+        "colic",
+        "colic",
+        "colic",
+        "colic",
+        "colic",
+        "colic",
+        "renal colic",
+        "colic",
+        "colic",
+        "colic",
+        "colic",
+        "colic",
+        "colic",
+        "colic",
+        "colic",
+        "colic",
+        "colic",
+        "colic",
+        "colic",
+        "colic",
+        "colic",
+        "colic",
+        "eczema",
+        "colic",
+        "renal colic",
+        "colic",
+        "colic",
+        "colic",
+        "colic",
+        "colic",
+        "colic",
+        "renal colic",
+        "colic",
+        "colic",
+        "colic",
+        "colic",
+        "colic",
+        "colic"
+    ],
+    "colicky pain": [
+        "colic",
+        "colic",
+        "colic",
+        "colic",
+        "colic",
+        "colic",
+        "colic",
+        "renal colic",
+        "colic",
+        "colic",
+        "colic",
+        "colic",
+        "colic",
+        "colic",
+        "renal colic",
+        "colic",
+        "colic",
+        "colic",
+        "colic",
+        "colic",
+        "colic",
+        "colic",
+        "colic",
+        "renal colic",
+        "colic",
+        "colic",
+        "colic",
+        "colic",
+        "colic",
+        "colic",
+        "colic",
+        "colic",
+        "colic",
+        "colic",
+        "colic",
+        "colic",
+        "colic",
+        "colic",
+        "colic",
+        "eczema",
+        "colic",
+        "renal colic",
+        "colic",
+        "colic",
+        "colic",
+        "colic",
+        "colic",
+        "colic",
+        "renal colic",
+        "colic",
+        "colic",
+        "colic",
+        "colic",
+        "colic",
+        "colic"
+    ],
+    "corneal opacity": [
+        "corneal opacity",
+        "corneal opacity",
+        "corneal opacity",
+        "corneal opacity",
+        "corneal opacity",
+        "corneal opacity",
+        "corneal opacity",
+        "corneal opacity",
+        "corneal opacity",
+        "corneal opacity",
+        "corneal opacity",
+        "corneal opacity",
+        "corneal opacity",
+        "corneal opacity",
+        "corneal opacity",
+        "corneal opacity",
+        "corneal opacity",
+        "corneal opacity",
+        "corneal opacity",
+        "corneal opacity",
+        "corneal opacity",
+        "corneal opacity",
+        "corneal opacity",
+        "corneal opacity",
+        "corneal opacity",
+        "corneal opacity",
+        "corneal opacity",
+        "corneal opacity",
+        "corneal opacity",
+        "corneal opacity",
+        "corneal opacity",
+        "corneal opacity",
+        "corneal opacity",
+        "corneal opacity",
+        "corneal opacity",
+        "corneal opacity",
+        "corneal opacity",
+        "corneal opacity",
+        "corneal opacity",
+        "hyperemia",
+        "keratitis",
+        "corneal opacity",
+        "corneal opacity",
+        "corneal opacity",
+        "corneal opacity",
+        "corneal opacity",
+        "keratitis",
+        "corneal opacity",
+        "corneal opacity",
+        "corneal opacity"
+    ],
+    "corneal ulcers": [
+        "keratitis",
+        "keratitis",
+        "keratitis",
+        "keratitis",
+        "keratitis",
+        "conjunctivitis",
+        "keratitis",
+        "keratitis",
+        "keratitis",
+        "keratitis",
+        "keratitis",
+        "keratitis",
+        "keratitis",
+        "keratitis",
+        "keratitis",
+        "keratitis"
+    ],
+    "cough with bloody sputum": [
+        "chronic cough",
+        "sputum",
+        "dyspnea",
+        "atrial fibrillation",
+        "hemoptysis",
+        "cough",
+        "hemorrhage",
+        "blister"
+    ],
+    "cyclic fever": [
+        "lymphadenitis",
+        "fever"
+    ],
+    "alteration of appetite": [
+        "anorexia",
+        "overweight"
+    ],
+    "decreased appetite": [
+        "anorexia"
+    ],
+    "increased appetite": [
+        "anorexia",
+        "weight gain",
+        "thirst",
+        "overweight"
+    ],
+    "decreased conscious proprioception": [],
+    "decreased flexor withdrawal reflex": [],
+    "dermal abscess": [],
+    "diffuse rash": [
+        "arthritis",
+        "fever",
+        "exanthema",
+        "vasculitis",
+        "pleural effusion",
+        "lymphadenopathy",
+        "urticaria"
+    ],
+    "anisocoria": [
+        "conjunctivitis",
+        "anisocoria",
+        "coma",
+        "mydriasis"
+    ],
+    "dilated pupil": [
+        "stupor",
+        "urinary retention",
+        "heart failure",
+        "mydriasis"
+    ],
+    "diminished gag reflex": [],
+    "absent gag reflex": [
+        "meningoencephalitis",
+        "facial paralysis",
+        "contracture",
+        "paraplegia"
+    ],
+    "double vision": [
+        "arthritis",
+        "exophthalmos",
+        "meningitis",
+        "ataxia",
+        "deafness"
+    ],
+    "dry mouth": [
+        "vasculitis"
+    ],
+    "dry mucous membrane": [
+        "sinusitis"
+    ],
+    "endocarditis": [
+        "endocarditis"
+    ],
+    "epididymitis": [
+        "acute pain",
+        "epididymitis"
+    ],
+    "focal seizure": [],
+    "generalized seizure": [],
+    "tonic-clonic seizure": [],
+    "epileptic seizure": [],
+    "simple partial seizure": [
+        "depression",
+        "inflammation"
+    ],
+    "complex partial seizure": [],
+    "myoclonic seizure": [],
+    "clonic seizure": [],
+    "tonic seizure": [],
+    "atonic seizure": [],
+    "excess salivation": [
+        "salivation"
+    ],
+    "extensive ulcer": [
+        "vasculitis",
+        "contracture",
+        "enteritis",
+        "skin ulcer",
+        "acute pain",
+        "arthritis"
+    ],
+    "extreme fatigue": [
+        "thirst",
+        "fatigue",
+        "inflammation",
+        "dyspnea",
+        "anxiety",
+        "depression",
+        "arthritis"
+    ],
+    "eye discharge": [
+        "conjunctivitis",
+        "heart failure",
+        "exanthema",
+        "atrial fibrillation"
+    ],
+    "fixed dilated pupils": [
+        "mydriasis"
+    ],
+    "facial paralysis": [
+        "deafness",
+        "facial paralysis",
+        "meningitis"
+    ],
+    "fixed pupil": [
+        "mydriasis",
+        "anisocoria"
+    ],
+    "flaccid paralysis": [
+        "urinary retention",
+        "facial paralysis"
+    ],
+    "arrhythmia": [
+        "ventricular fibrillation",
+        "hematoma",
+        "atrial fibrillation",
+        "hemorrhage",
+        "myocarditis",
+        "heart failure"
+    ],
+    "eczema": [
+        "eczema",
+        "constipation"
+    ],
+    "belching": [
+        "dyspepsia",
+        "chronic cough",
+        "dyspnea",
+        "flatulence"
+    ],
+    "gas pain": [
+        "headache",
+        "peritonitis",
+        "chronic pain",
+        "acute pain"
+    ],
+    "heart failure": [
+        "myocarditis",
+        "heart failure"
+    ],
+    "hemiparesis": [
+        "exanthema",
+        "facial paralysis"
+    ],
+    "hemolysis": [
+        "necrosis",
+        "hemolysis",
+        "depression"
+    ],
+    "hepatic abscess": [
+        "thrombocytopenia",
+        "hemolysis",
+        "delirium",
+        "meningitis",
+        "fever"
+    ],
+    "hepatic dysfunction": [
+        "hemolysis",
+        "weight loss",
+        "vasculitis",
+        "pain",
+        "inflammation",
+        "urinary incontinence",
+        "delirium"
+    ],
+    "hilar lymphadenitis": [
+        "lymphadenitis"
+    ],
+    "hoarse voice": [
+        "dysphonia",
+        "laryngitis",
+        "skin ulcer",
+        "facial paralysis",
+        "hoarseness"
+    ],
+    "hyperemia": [
+        "heart failure",
+        "anxiety",
+        "anemia",
+        "hyperemia"
+    ],
+    "hyperesthesia": [
+        "chest pain",
+        "hyperesthesia",
+        "paresthesia"
+    ],
+    "hypothermia": [
+        "thrombocytopenia",
+        "nausea",
+        "hypotension",
+        "anemia",
+        "hypothermia",
+        "delirium"
+    ],
+    "hypoxemia": [
+        "dyspnea",
+        "coma"
+    ],
+    "impaired coordination": [
+        "tremor",
+        "paresthesia",
+        "encephalitis",
+        "ataxia",
+        "dysarthria",
+        "muscle weakness"
+    ],
+    "impaired gag reflex": [],
+    "inability to swallow": [],
+    "loss of appetite": [
+        "anorexia",
+        "dyspepsia",
+        "weight loss",
+        "hypothermia",
+        "jaundice",
+        "cachexia"
+    ],
+    "inflamed eyes": [
+        "conjunctivitis"
+    ],
+    "joint inflammation": [
+        "shoulder pain",
+        "inflammation"
+    ],
+    "keratitis": [
+        "keratitis",
+        "hyperemia"
+    ],
+    "leg cramp": [
+        "dizziness",
+        "weight loss",
+        "muscle cramp",
+        "acute pain"
+    ],
+    "loss of tendon reflex": [],
+    "loss of vision": [
+        "blindness",
+        "depression",
+        "sinusitis"
+    ],
+    "low birth weight": [
+        "weight gain",
+        "hydrocephalus",
+        "hypothermia"
+    ],
+    "melena": [
+        "melena",
+        "nausea",
+        "hematemesis",
+        "anemia"
+    ],
+    "bronchitis": [
+        "skin ulcer",
+        "bronchitis",
+        "bronchiolitis"
+    ],
+    "mild bronchitis": [
+        "tracheitis",
+        "bronchiolitis",
+        "bronchitis"
+    ],
+    "mild hypotension": [
+        "hyponatremia",
+        "pericardial effusion",
+        "atrial fibrillation",
+        "hypotension"
+    ],
+    "tetanic convulsion": [],
+    "mild tetanic convulsion": [],
+    "motor weakness": [
+        "delirium"
+    ],
+    "mouth sore": [
+        "exanthema"
+    ],
+    "muscle ache": [
+        "muscle weakness",
+        "chronic pain",
+        "exanthema",
+        "fatigue"
+    ],
+    "muscle soreness": [
+        "muscle weakness",
+        "chronic pain",
+        "exanthema",
+        "fatigue"
+    ],
+    "muscle tenderness": [
+        "muscle weakness",
+        "chronic pain",
+        "exanthema",
+        "fatigue"
+    ],
+    "muscle necrosis": [
+        "necrosis",
+        "inflammation"
+    ],
+    "neck weakness": [
+        "chronic pain",
+        "sinusitis",
+        "tinnitus"
+    ],
+    "night sweats": [
+        "cough",
+        "weight gain",
+        "chronic cough",
+        "fatigue",
+        "earache",
+        "dyspnea",
+        "infertility",
+        "fever"
+    ],
+    "nystagmus": [
+        "ataxia",
+        "facial paralysis",
+        "vertigo",
+        "paraplegia"
+    ],
+    "occasional diplopia": [],
+    "limb edema": [
+        "sinusitis",
+        "heart failure",
+        "edema",
+        "overweight",
+        "cellulitis"
+    ],
+    "slurred speech": [
+        "dysarthria"
+    ],
+    "palpebral edema": [
+        "exophthalmos",
+        "edema",
+        "conjunctivitis",
+        "cellulitis"
+    ],
+    "panting respiration": [],
+    "lip paralysis": [
+        "facial paralysis",
+        "exanthema"
+    ],
+    "throat muscle paralysis": [],
+    "paraplegia": [
+        "paraplegia",
+        "depression"
+    ],
+    "parotid abscess": [
+        "abscess"
+    ],
+    "peripheral muscle weakness": [
+        "respiratory paralysis",
+        "muscle weakness",
+        "exanthema",
+        "tremor",
+        "facial paralysis"
+    ],
+    "pneumonitis": [
+        "dyspnea",
+        "fatigue"
+    ],
+    "phlebitis": [
+        "contracture",
+        "pleural effusion",
+        "phlebitis",
+        "endocarditis",
+        "thrombocytopenia"
+    ],
+    "postphlebitic ulcer": [],
+    "premature labor": [
+        "inflammation"
+    ],
+    "profound weakness": [
+        "heart failure"
+    ],
+    "emaciation": [
+        "weight loss"
+    ],
+    "progressive emaciation": [
+        "weight loss",
+        "emaciation"
+    ],
+    "progressive weakness": [],
+    "prostatic abscess": [
+        "endocarditis",
+        "urinary retention",
+        "abscess",
+        "delirium"
+    ],
+    "prostatic infection": [
+        "abscess"
+    ],
+    "proteinuria": [
+        "proteinuria",
+        "heart failure"
+    ],
+    "proximal paralysis of arm and leg": [],
+    "ptosis": [],
+    "renal abscess": [
+        "atrial fibrillation",
+        "meningitis",
+        "pericardial effusion",
+        "endocarditis",
+        "nephritis",
+        "delirium",
+        "colic",
+        "vasculitis",
+        "abscess",
+        "myocarditis"
+    ],
+    "respiratory paralysis": [
+        "respiratory paralysis"
+    ],
+    "rhinorrhea": [
+        "chronic cough",
+        "rhinorrhea",
+        "sinusitis"
+    ],
+    "salivation": [
+        "salivation"
+    ],
+    "scrotal abscess": [
+        "abscess",
+        "peritonitis",
+        "epididymitis"
+    ],
+    "severe abdominal cramp": [
+        "colic",
+        "renal colic"
+    ],
+    "severe diarrhea": [
+        "gastroenteritis",
+        "diarrhea",
+        "enteritis"
+    ],
+    "severe myalgia": [
+        "exanthema",
+        "ageusia",
+        "encephalitis"
+    ],
+    "spleen abscess": [
+        "hepatitis",
+        "abscess",
+        "endocarditis",
+        "peritonitis"
+    ],
+    "staggering gait": [
+        "coma",
+        "tremor",
+        "headache",
+        "dizziness",
+        "encephalitis"
+    ],
+    "stiff neck": [
+        "neck pain",
+        "chronic pain",
+        "lymphadenopathy",
+        "meningitis",
+        "pain"
+    ],
+    "stupor": [
+        "mydriasis",
+        "stupor",
+        "hypothermia",
+        "catatonia",
+        "exophthalmos",
+        "delirium"
+    ],
+    "thyroid abscesses": [
+        "vasculitis",
+        "abscess"
+    ],
+    "tinnitus": [
+        "vertigo",
+        "deafness",
+        "hydrocephalus",
+        "anxiety",
+        "tinnitus",
+        "depression"
+    ],
+    "muscle twitching": [
+        "encephalitis",
+        "paralysis"
+    ],
+    "facial muscle twitching": [],
+    "mydriasis": [
+        "mydriasis",
+        "stupor",
+        "heart failure",
+        "urinary retention"
+    ],
+    "unreactive mydriasis": [],
+    "vaginal discharge": [
+        "infertility",
+        "vaginal discharge",
+        "hydrocephalus",
+        "dyspepsia",
+        "dyspareunia",
+        "urinary retention"
+    ],
+    "vertigo": [
+        "blood pressure",
+        "tinnitus",
+        "deafness",
+        "vertigo",
+        "dizziness",
+        "anxiety"
+    ],
+    "cachexia": [
+        "cachexia"
+    ],
+    "weight gain": [
+        "weight gain",
+        "overweight",
+        "weight loss"
+    ],
+    "dyspareunia": [
+        "infertility",
+        "chronic pain",
+        "vaginal discharge",
+        "urinary incontinence",
+        "vaginismus",
+        "dyspareunia",
+        "urinary retention"
+    ],
+    "vaginismus": [
+        "chronic pain",
+        "vaginismus",
+        "dyspareunia",
+        "depression"
+    ],
+    "bruise": [
+        "pericardial effusion"
+    ],
+    "syncope": [
+        "syncope",
+        "atrial fibrillation",
+        "bradycardia",
+        "hypotension",
+        "cough",
+        "apnea",
+        "heart failure"
+    ],
+    "cataplexy": [
+        "cataplexy",
+        "encephalitis"
+    ],
+    "hyperthermia": [
+        "thrombocytopenia",
+        "hyperthermia",
+        "hypothermia"
+    ],
+    "anxiety": [
+        "anxiety",
+        "tinnitus",
+        "depression",
+        "chronic pain",
+        "chest pain",
+        "dizziness"
+    ],
+    "catatonia": [
+        "catatonia",
+        "delirium"
+    ],
+    "dysarthria": [
+        "facial paralysis",
+        "ataxia",
+        "dysarthria",
+        "aphasia",
+        "deafness",
+        "dysphonia"
+    ],
+    "amaurosis fugax": [
+        "amaurosis fugax",
+        "atrial fibrillation",
+        "blindness"
+    ],
+    "amaurosis": [
+        "keratitis",
+        "meningoencephalitis",
+        "heart failure",
+        "blindness"
+    ],
+    "contracted pupil": [
+        "anisocoria",
+        "mydriasis"
+    ],
+    "miosis": [
+        "hypotension",
+        "miosis",
+        "anisocoria",
+        "delirium",
+        "coma",
+        "mydriasis"
+    ],
+    "hematochezia": [
+        "atrial fibrillation",
+        "anemia"
+    ],
+    "dyspepsia": [
+        "abdominal pain",
+        "anxiety",
+        "anorexia",
+        "dyspepsia",
+        "depression"
+    ],
+    "pyrosis": [
+        "dyspepsia"
+    ],
+    "claudication": [
+        "atrial fibrillation"
+    ],
+    "reticulocytosis": [
+        "reticulocytosis"
+    ],
+    "hypoventilation": [
+        "hyperventilation",
+        "encephalitis",
+        "ataxia",
+        "hypoventilation"
+    ],
+    "pleuritic chest pain": [
+        "pericardial effusion",
+        "chest pain",
+        "pleural effusion",
+        "dyspnea",
+        "menorrhagia",
+        "abscess",
+        "cough"
+    ],
+    "sputum": [
+        "sputum",
+        "cough"
+    ],
+    "itching": [
+        "urticaria",
+        "exanthema",
+        "fatigue",
+        "thirst",
+        "cough"
+    ],
+    "anasarca": [
+        "edema",
+        "synovitis",
+        "peritonitis",
+        "thrombocytopenia",
+        "heart failure"
+    ],
+    "urticaria": [
+        "urticaria",
+        "exanthema",
+        "meningitis"
+    ],
+    "paresthesia": [
+        "exanthema",
+        "paresthesia",
+        "ataxia",
+        "eczema",
+        "chronic pain"
+    ],
+    "abnormal vaginal bleeding": [
+        "menorrhagia",
+        "infertility",
+        "anemia",
+        "metrorrhagia",
+        "shock",
+        "vaginal discharge",
+        "overweight"
+    ],
+    "earache": [
+        "earache",
+        "sinusitis",
+        "dizziness",
+        "torticollis",
+        "polyuria",
+        "tinnitus",
+        "hyperemia",
+        "deafness",
+        "facial paralysis",
+        "chronic pain"
+    ],
+    "toothache": [
+        "pain",
+        "headache",
+        "toothache",
+        "acute pain"
+    ],
+    "hair loss": [
+        "anxiety",
+        "depression"
+    ],
+    "elbow pain": [
+        "vasculitis",
+        "pain",
+        "deafness",
+        "shoulder pain",
+        "chronic pain"
+    ],
+    "knee pain": [
+        "fever",
+        "arthritis",
+        "pain",
+        "breakthrough pain",
+        "chronic pain"
+    ],
+    "shoulder pain": [
+        "shoulder pain",
+        "arthritis",
+        "neck pain",
+        "chronic pain"
+    ],
+    "bloody sputum": [
+        "sinusitis",
+        "hemorrhage",
+        "hemoptysis",
+        "vasculitis",
+        "deafness",
+        "pulmonary edema",
+        "bronchitis",
+        "chronic cough",
+        "cough"
+    ],
+    "epistaxis": [
+        "sinusitis",
+        "epistaxis",
+        "facial paralysis"
+    ],
+    "cardiogenic shock": [
+        "myocarditis",
+        "delirium",
+        "hemolysis",
+        "anemia",
+        "thrombocytopenia",
+        "shock",
+        "heart failure"
+    ],
+    "shock": [
+        "muscle weakness",
+        "abdominal pain",
+        "shock",
+        "multiple organ failure"
+    ],
+    "septic shock": [
+        "hypotension",
+        "vaginal discharge",
+        "hypothermia",
+        "muscle weakness",
+        "blood pressure",
+        "multiple organ failure"
+    ],
+    "abnormal sputum": [
+        "sputum",
+        "cough"
+    ],
+    "abdominal rigidity": [],
+    "abnormal weight gain": [
+        "overweight",
+        "anemia",
+        "weight gain"
+    ],
+    "left upper quadrant abdominal pain": [
+        "gastroenteritis",
+        "multiple organ failure",
+        "abdominal pain"
+    ],
+    "abdominal pain": [
+        "vomiting",
+        "chronic pain",
+        "diarrhea",
+        "dyspepsia",
+        "abdominal pain"
+    ],
+    "nausea": [
+        "vomiting",
+        "nausea",
+        "menorrhagia",
+        "delirium",
+        "abdominal pain"
+    ],
+    "hepatomegaly": [
+        "hepatomegaly",
+        "thrombocytopenia",
+        "exanthema",
+        "fever",
+        "anemia",
+        "splenomegaly"
+    ],
+    "failure to thrive": [
+        "failure to thrive",
+        "hypoventilation",
+        "vasculitis",
+        "gastroenteritis",
+        "eczema"
+    ],
+    "generalized abdominal rigidity": [],
+    "early satiety": [
+        "depression",
+        "chronic pain",
+        "dyspepsia",
+        "abdominal pain",
+        "anxiety"
+    ],
+    "underweight": [
+        "heart failure",
+        "overweight",
+        "depression",
+        "cachexia",
+        "inflammation",
+        "weight gain",
+        "atrial fibrillation"
+    ],
+    "epigastric abdominal swelling": [],
+    "abdominal swelling": [
+        "heart failure",
+        "pleural effusion",
+        "peritonitis",
+        "arthritis",
+        "thrombocytopenia",
+        "vasculitis",
+        "edema",
+        "abdominal pain",
+        "synovitis"
+    ],
+    "abnormality of gait": [
+        "chronic pain",
+        "torticollis"
+    ],
+    "persistent vegetative state": [
+        "catatonia",
+        "tremor",
+        "coma",
+        "persistent vegetative state",
+        "encephalitis"
+    ],
+    "alteration of consciousness": [
+        "persistent vegetative state"
+    ],
+    "dysuria": [
+        "nocturia",
+        "dysuria",
+        "urinary retention",
+        "urinary incontinence",
+        "dyspareunia"
+    ],
+    "rash": [
+        "encephalitis",
+        "multiple organ failure",
+        "urticaria",
+        "exanthema",
+        "jaundice"
+    ],
+    "abnormal bowel sound": [],
+    "continuous leakage of urine": [],
+    "urinary incontinence": [
+        "urinary incontinence"
+    ],
+    "dysphagia": [
+        "cough",
+        "abdominal pain",
+        "weight loss",
+        "dyspepsia"
+    ],
+    "renal colic": [
+        "colic",
+        "renal colic",
+        "atrial fibrillation",
+        "urinary retention"
+    ],
+    "urethral discharge": [],
+    "mixed incontinence (female) (male)": [
+        "urinary incontinence"
+    ],
+    "adult failure to thrive": [
+        "weight loss",
+        "hyponatremia",
+        "failure to thrive"
+    ],
+    "headache": [
+        "fatigue",
+        "tremor",
+        "sinusitis",
+        "deafness",
+        "headache",
+        "depression"
+    ],
+    "throat pain": [
+        "hoarseness",
+        "conjunctivitis",
+        "anxiety",
+        "cellulitis",
+        "lymphadenitis",
+        "depression"
+    ],
+    "hemorrhage from throat": [
+        "hypotension",
+        "tinnitus",
+        "lymphadenopathy",
+        "bronchiolitis"
+    ],
+    "head swelling": [
+        "sinusitis",
+        "deafness",
+        "dysphonia",
+        "exophthalmos",
+        "edema"
+    ],
+    "aphasia": [
+        "aphasia",
+        "dysphonia",
+        "confusion",
+        "anomia",
+        "deafness"
+    ],
+    "flatulence": [
+        "colic",
+        "enteritis",
+        "flatulence",
+        "thirst"
+    ],
+    "pallor": [
+        "exanthema",
+        "jaundice",
+        "pallor",
+        "anemia",
+        "pain",
+        "atrial fibrillation",
+        "bronchitis",
+        "urticaria",
+        "thrombocytopenia"
+    ],
+    "flushing": [
+        "flushing",
+        "depression",
+        "hypotension"
+    ],
+    "male stress incontinence": [
+        "urinary incontinence",
+        "nocturia"
+    ],
+    "stridor": [
+        "bronchiolitis"
+    ],
+    "hiccough": [
+        "encephalitis",
+        "visceral pain",
+        "atrial fibrillation"
+    ],
+    "lump in chest": [],
+    "hemoptysis": [
+        "hemoptysis",
+        "bronchitis",
+        "hemorrhage",
+        "vasculitis",
+        "sinusitis",
+        "pulmonary edema",
+        "chronic cough",
+        "cough",
+        "deafness"
+    ],
+    "generalized abdominal pain": [
+        "exanthema",
+        "enteritis",
+        "dyspepsia",
+        "peritonitis",
+        "chronic pain",
+        "abdominal pain",
+        "anxiety",
+        "depression"
+    ],
+    "abnormal feces": [
+        "encephalitis",
+        "melena",
+        "peritonitis",
+        "urinary incontinence",
+        "constipation",
+        "lymphopenia",
+        "heart failure",
+        "gastroenteritis"
+    ],
+    "visible peristalsis": [],
+    "enlargement of lymph nodes": [
+        "exanthema",
+        "lymphadenopathy"
+    ],
+    "anorexia": [
+        "cachexia",
+        "jaundice",
+        "dyspepsia",
+        "hypothermia",
+        "weight loss",
+        "anorexia"
+    ],
+    "polyphagia": [
+        "anxiety",
+        "weight loss",
+        "depression"
+    ],
+    "transient alteration of awareness": [],
+    "ascites": [
+        "hematoma",
+        "peritonitis",
+        "ascites"
+    ],
+    "undiagnosed cardiac murmur": [],
+    "tachycardia": [
+        "tachycardia",
+        "bradycardia",
+        "atrial fibrillation",
+        "hemorrhage",
+        "hypotension",
+        "heart failure",
+        "ventricular fibrillation",
+        "shock"
+    ],
+    "splenomegaly": [
+        "anemia",
+        "cytopenia",
+        "ascites",
+        "splenomegaly",
+        "thrombocytopenia",
+        "fever"
+    ],
+    "urge incontinence": [
+        "urinary incontinence",
+        "nocturia"
+    ],
+    "spontaneous ecchymoses": [
+        "exophthalmos"
+    ],
+    "disturbance of skin sensation": [
+        "pain",
+        "eczema",
+        "contracture"
+    ],
+    "cyanosis": [
+        "thrombocytopenia",
+        "urticaria",
+        "heart failure",
+        "cyanosis",
+        "tremor",
+        "anxiety",
+        "exanthema"
+    ],
+    "edema": [
+        "edema",
+        "peritonitis",
+        "synovitis",
+        "heart failure"
+    ],
+    "jaundice": [
+        "jaundice",
+        "hepatitis",
+        "exanthema"
+    ],
+    "painful respiration": [
+        "eczema",
+        "bronchiolitis",
+        "atrial fibrillation",
+        "anxiety",
+        "inflammation"
+    ],
+    "periumbilic abdominal swelling": [
+        "edema",
+        "peritonitis",
+        "pleural effusion",
+        "vasculitis",
+        "thrombocytopenia",
+        "arthritis",
+        "synovitis",
+        "heart failure",
+        "abdominal pain"
+    ],
+    "epigastric abdominal pain": [
+        "anemia",
+        "abscess",
+        "dyspepsia",
+        "vomiting",
+        "abdominal pain"
+    ],
+    "memory loss": [
+        "dyspnea",
+        "fatigue",
+        "depression"
+    ],
+    "transient paralysis of limb": [
+        "paralysis"
+    ],
+    "multiple sites abdominal swelling": [
+        "arthritis"
+    ],
+    "right lower quadrant abdominal pain": [
+        "peritonitis",
+        "abdominal pain"
+    ],
+    "right upper quadrant abdominal pain": [
+        "anemia",
+        "hemorrhage",
+        "fever",
+        "exanthema",
+        "jaundice",
+        "abdominal pain"
+    ],
+    "right lower quadrant abdominal swelling": [],
+    "generalized abdominal swelling": [
+        "vasculitis",
+        "urinary retention",
+        "edema",
+        "synovitis",
+        "heart failure",
+        "pleural effusion",
+        "arthritis"
+    ],
+    "clubbing of fingers": [
+        "exophthalmos",
+        "arthritis"
+    ],
+    "disturbances of sensation of smell and taste": [
+        "weight gain",
+        "ageusia",
+        "cachexia"
+    ],
+    "meningismus": [],
+    "neurologic neglect syndrome": [
+        "sneezing",
+        "aphasia"
+    ],
+    "urinary retention": [
+        "urinary retention",
+        "vasculitis",
+        "delirium",
+        "nocturia",
+        "urinary incontinence"
+    ],
+    "voice disturbance": [
+        "aphasia",
+        "hoarseness",
+        "dysphonia",
+        "aphonia"
+    ],
+    "polydipsia": [
+        "anorexia",
+        "hydrocephalus",
+        "earache",
+        "polydipsia",
+        "hyponatremia",
+        "facial paralysis",
+        "depression",
+        "polyuria",
+        "meningoencephalitis",
+        "anxiety"
+    ],
+    "multiple sites abdominal pain": [
+        "abdominal pain",
+        "diarrhea",
+        "headache"
+    ],
+    "right upper quadrant abdominal swelling": [
+        "edema",
+        "arthritis"
+    ],
+    "urinary frequency": [],
+    "nocturia": [
+        "nocturia",
+        "urinary incontinence",
+        "hyponatremia",
+        "nocturnal enuresis",
+        "urinary retention"
+    ],
+    "polyuria": [
+        "hydrocephalus",
+        "nocturia",
+        "polydipsia",
+        "hyponatremia",
+        "polyuria",
+        "nocturnal enuresis",
+        "urinary retention",
+        "exanthema"
+    ],
+    "sleep disturbance": [
+        "depression",
+        "anxiety",
+        "inflammation",
+        "epistaxis",
+        "blood pressure",
+        "heart failure",
+        "fatigue",
+        "chronic pain"
+    ],
+    "short stature": [],
+    "oliguria": [
+        "gastroenteritis",
+        "heart failure",
+        "oliguria",
+        "urinary retention",
+        "nephritis",
+        "anuria"
+    ],
+    "diarrhea": [
+        "gastroenteritis",
+        "constipation",
+        "weight loss",
+        "diarrhea",
+        "fever",
+        "abdominal pain"
+    ],
+    "insomnia": [
+        "depression",
+        "anxiety",
+        "muscle weakness",
+        "blood pressure",
+        "hemolysis",
+        "fatigue",
+        "hyperventilation"
+    ],
+    "aphonia": [
+        "dysphonia",
+        "aphonia",
+        "tremor",
+        "cough"
+    ],
+    "precordial pain": [
+        "chest pain",
+        "heart failure",
+        "leukocytosis",
+        "chronic pain",
+        "pericardial effusion"
+    ],
+    "chest pain": [
+        "atrial fibrillation",
+        "chest pain",
+        "hypotension",
+        "hemoptysis"
+    ],
+    "fussy infant": [
+        "meningoencephalitis",
+        "meningitis",
+        "constipation",
+        "colic",
+        "fever",
+        "weight gain"
+    ],
+    "incontinence without sensory awareness": [],
+    "insomnia with sleep apnea": [
+        "nocturia",
+        "atrial fibrillation"
+    ],
+    "dysfunctions associated with sleep stages": [
+        "cataplexy"
+    ],
+    "sleep apnea": [
+        "atrial fibrillation",
+        "cough",
+        "inflammation",
+        "epistaxis",
+        "heart failure",
+        "dyspnea"
+    ],
+    "hypersomnia": [
+        "urinary incontinence",
+        "cataplexy",
+        "encephalitis"
+    ],
+    "hypersomnia with sleep apnea": [
+        "atrial fibrillation",
+        "nocturia",
+        "heart failure"
+    ],
+    "sleep related movement disorder": [
+        "torticollis",
+        "pain"
+    ],
+    "abnormal chest sound": [],
+    "extravasation of urine": [],
+    "excessive crying of infant": [
+        "colic",
+        "nocturnal enuresis"
+    ],
+    "gangrene": [
+        "thrombocytopenia",
+        "gangrene",
+        "endocarditis",
+        "hyponatremia",
+        "vasculitis",
+        "cellulitis"
+    ],
+    "abnormal involuntary movement": [
+        "encephalitis",
+        "ataxia",
+        "facial paralysis",
+        "hyperventilation",
+        "tremor",
+        "torticollis"
+    ],
+    "febrile convulsion": [
+        "encephalitis"
+    ],
+    "convulsion": [],
+    "cheyne-stokes respiration": [
+        "hypoventilation",
+        "atrial fibrillation",
+        "heart failure",
+        "cheyne-stokes respiration"
+    ],
+    "apnea": [
+        "atrial fibrillation",
+        "dyspnea",
+        "cough",
+        "inflammation",
+        "epistaxis",
+        "heart failure"
+    ],
+    "hyperventilation": [
+        "hyperventilation",
+        "heart failure",
+        "tetany",
+        "apnea"
+    ],
+    "orthopnea": [
+        "edema",
+        "pulmonary edema",
+        "heart failure",
+        "fever",
+        "fatigue",
+        "dyspnea",
+        "anxiety"
+    ],
+    "tachypnea": [
+        "exanthema",
+        "tachypnea",
+        "bradycardia",
+        "dyspnea",
+        "urticaria",
+        "apnea",
+        "tachycardia"
+    ],
+    "wheezing": [
+        "bronchiolitis"
+    ],
+    "coma": [
+        "delirium",
+        "inflammation",
+        "persistent vegetative state",
+        "coma"
+    ],
+    "nocturnal enuresis": [
+        "nocturia",
+        "urinary incontinence",
+        "nocturnal enuresis"
+    ],
+    "hallucination": [
+        "delirium",
+        "tremor",
+        "catatonia"
+    ],
+    "syncope and collapse": [
+        "bradycardia",
+        "atrial fibrillation",
+        "cough",
+        "heart failure",
+        "hypotension",
+        "syncope",
+        "apnea"
+    ],
+    "generalized hyperhidrosis": [
+        "fever",
+        "fatigue"
+    ],
+    "dizziness": [
+        "vertigo",
+        "dizziness",
+        "blood pressure",
+        "hemorrhage",
+        "abdominal pain",
+        "anxiety"
+    ],
+    "periumbilic abdominal pain": [
+        "dyspepsia",
+        "vomiting",
+        "diarrhea",
+        "abdominal pain",
+        "chronic pain"
+    ],
+    "periumbilic abdominal rigidity": [],
+    "fever": [
+        "lymphadenitis",
+        "depression",
+        "hyperthermia",
+        "muscle weakness",
+        "fever",
+        "edema",
+        "blood pressure",
+        "myocarditis",
+        "dyspnea",
+        "meningitis",
+        "anxiety",
+        "exanthema"
+    ],
+    "cough": [
+        "sputum",
+        "chronic cough",
+        "fever",
+        "cough",
+        "headache",
+        "syncope"
+    ],
+    "torticollis": [
+        "torticollis",
+        "contracture"
+    ],
+    "abnormal posture": [
+        "contracture",
+        "hypotension"
+    ],
+    "tetany": [
+        "dyspepsia",
+        "tetany"
+    ],
+    "left lower quadrant abdominal pain": [
+        "peritonitis",
+        "abdominal pain",
+        "phlebitis"
+    ],
+    "alexia": [],
+    "acute mesenteric lymphadenitis": [],
+    "acute renal failure": [
+        "lethargy",
+        "inflammation",
+        "heart failure",
+        "proteinuria",
+        "blood pressure",
+        "hemorrhage"
+    ],
+    "disturbed vision": [
+        "hyperemia"
+    ],
+    "exanthema": [
+        "jaundice",
+        "urticaria",
+        "encephalitis",
+        "multiple organ failure",
+        "exanthema"
+    ],
+    "frontal headache": [
+        "sinusitis",
+        "thrombocytopenia",
+        "deafness",
+        "hyperalgesia"
+    ],
+    "hemolytic anemia": [
+        "thrombocytopenia",
+        "pain",
+        "multiple organ failure",
+        "proteinuria",
+        "hemolysis"
+    ],
+    "hip pain": [
+        "acute pain",
+        "depression",
+        "inflammation",
+        "chronic pain"
+    ],
+    "inflammatory low back pain": [
+        "chronic pain",
+        "inflammation"
+    ],
+    "leukocytosis": [
+        "jaundice",
+        "cellulitis",
+        "anemia",
+        "hypothermia",
+        "leukocytosis",
+        "meningitis",
+        "exanthema",
+        "headache"
+    ],
+    "low backache": [
+        "chronic pain"
+    ],
+    "maculopapular rash": [
+        "catatonia",
+        "lymphadenopathy",
+        "urticaria",
+        "lymphadenitis",
+        "vasculitis",
+        "exanthema"
+    ],
+    "papular rash": [
+        "urticaria",
+        "arthritis",
+        "exanthema",
+        "hyperpigmentation"
+    ],
+    "ankle rash": [
+        "arthritis",
+        "exanthema",
+        "edema"
+    ],
+    "respiratory failure": [
+        "respiratory paralysis",
+        "dyspnea",
+        "muscle weakness"
+    ],
+    "ruffled feather": [],
+    "synovitis": [
+        "chronic pain",
+        "vasculitis",
+        "arthritis",
+        "synovitis",
+        "edema"
+    ],
+    "terminal ileitis": [
+        "depression",
+        "fatigue",
+        "encephalitis",
+        "anxiety"
+    ],
+    "discharge": [],
+    "wound discharge": [
+        "delirium"
+    ],
+    "irritability": [
+        "fever",
+        "anxiety"
+    ],
+    "mouth bleeding": [
+        "fever",
+        "blister"
+    ],
+    "pale mucous membrane": [
+        "urinary retention"
+    ],
+    "ischemic necrosis of jejunum": [],
+    "extraocular muscles paralysis": [
+        "facial paralysis"
+    ],
+    "pareses": [
+        "exanthema",
+        "facial paralysis"
+    ],
+    "purpuric rash": [
+        "abdominal pain",
+        "thrombocytopenia",
+        "vasculitis",
+        "urticaria",
+        "arthritis",
+        "exanthema",
+        "endocarditis",
+        "eczema"
+    ],
+    "shakes": [
+        "cyanosis",
+        "depression",
+        "ataxia",
+        "encephalitis",
+        "anxiety",
+        "dysarthria",
+        "tremor",
+        "muscle weakness"
+    ],
+    "uncoordinated gait": [
+        "ataxia",
+        "deafness",
+        "hypokinesia",
+        "vertigo"
+    ],
+    "yellow exudate from eyes": [],
+    "abnormal behavior": [
+        "anxiety",
+        "depression"
+    ],
+    "sudden onset of fever": [
+        "contracture",
+        "exanthema",
+        "fever",
+        "encephalitis",
+        "headache",
+        "dyspnea"
+    ],
+    "abscess": [
+        "sinusitis",
+        "endocarditis",
+        "fever",
+        "abscess",
+        "cellulitis",
+        "hemolysis"
+    ],
+    "bradykinesia": [
+        "delirium",
+        "hypokinesia"
+    ],
+    "acute diarrhea": [
+        "gastroenteritis",
+        "abdominal pain",
+        "fever",
+        "diarrhea",
+        "enteritis"
+    ],
+    "acute enteritis": [
+        "gastroenteritis",
+        "visceral pain",
+        "peritonitis",
+        "enteritis",
+        "dyspepsia"
+    ],
+    "acute gastroenteritis": [
+        "gastroenteritis",
+        "abdominal pain",
+        "encephalitis",
+        "enteritis",
+        "cellulitis"
+    ],
+    "acute mental dysfunction": [
+        "hyperalgesia",
+        "fatigue",
+        "delirium",
+        "chronic pain",
+        "depression",
+        "coma",
+        "anxiety"
+    ],
+    "acute dyspnea": [
+        "heart failure",
+        "chest pain",
+        "pulmonary edema",
+        "dyspnea",
+        "fatigue"
+    ],
+    "acute weight loss": [
+        "overweight",
+        "chest pain",
+        "cachexia",
+        "hypotension",
+        "fatigue",
+        "heart failure",
+        "weight loss",
+        "diarrhea",
+        "inflammation"
+    ],
+    "aggressive behavior": [
+        "chronic pain",
+        "anxiety"
+    ],
+    "bifrontal headache": [
+        "hydrocephalus",
+        "headache",
+        "proteinuria"
+    ],
+    "brain cyst": [
+        "deafness",
+        "hydrocephalus"
+    ],
+    "chronic cough": [
+        "cough",
+        "sputum",
+        "chronic cough"
+    ],
+    "circling movement": [
+        "pain"
+    ],
+    "cramp": [
+        "contracture",
+        "chronic pain",
+        "muscle cramp",
+        "acute pain",
+        "hyponatremia"
+    ],
+    "cranial nerve palsies": [
+        "vertigo",
+        "epistaxis",
+        "proteinuria"
+    ],
+    "cytopenia": [
+        "lymphopenia",
+        "fever",
+        "arthritis",
+        "thrombocytopenia",
+        "anemia"
+    ],
+    "low blood pressure": [
+        "syncope",
+        "hypotension",
+        "blood pressure",
+        "hyponatremia",
+        "heart failure",
+        "shock",
+        "hypothermia",
+        "anemia"
+    ],
+    "decreased facial sensation": [
+        "hyperpigmentation",
+        "deafness",
+        "pain",
+        "chronic pain"
+    ],
+    "decreased milk production": [
+        "meningitis"
+    ],
+    "deltoid muscle weakness": [
+        "muscle weakness",
+        "edema"
+    ],
+    "diminished spontaneous movement": [
+        "overweight"
+    ],
+    "nasal discharge": [
+        "rhinorrhea",
+        "sinusitis",
+        "chronic cough"
+    ],
+    "droopy ears": [],
+    "dysphonia": [
+        "aphasia",
+        "hoarseness",
+        "dysphonia"
+    ],
+    "expressive aphasia": [
+        "aphasia",
+        "agraphia",
+        "aphonia"
+    ],
+    "facial weakness": [
+        "deafness",
+        "facial paralysis",
+        "meningitis"
+    ],
+    "flaccid muscle tone": [
+        "failure to thrive",
+        "muscle weakness",
+        "edema",
+        "contracture",
+        "ataxia",
+        "lethargy"
+    ],
+    "granulomatous inflammation": [
+        "vasculitis",
+        "myocarditis",
+        "phlebitis",
+        "infertility",
+        "pleural effusion",
+        "urinary retention"
+    ],
+    "hind limb paralysis": [
+        "hypotension",
+        "diarrhea",
+        "paralysis",
+        "contracture",
+        "facial paralysis",
+        "myocarditis"
+    ],
+    "infertility": [
+        "anxiety",
+        "depression",
+        "inflammation",
+        "infertility"
+    ],
+    "intraretinal hemorrhage": [
+        "hemorrhage",
+        "anemia"
+    ],
+    "leg swelling": [
+        "cyanosis",
+        "edema",
+        "heart failure"
+    ],
+    "loss of consciousness": [
+        "persistent vegetative state",
+        "syncope",
+        "inflammation",
+        "cough",
+        "delirium",
+        "fever",
+        "coma",
+        "muscle weakness"
+    ],
+    "memory impairment": [
+        "dyspnea",
+        "depression",
+        "fatigue"
+    ],
+    "microangiopathic hemolytic anemia": [
+        "hemolysis",
+        "pain",
+        "multiple organ failure",
+        "proteinuria"
+    ],
+    "moderate anemia": [
+        "heart failure",
+        "depression",
+        "hemolysis",
+        "anemia",
+        "atrial fibrillation"
+    ],
+    "multiple abscesses": [
+        "vaginal discharge",
+        "colic",
+        "abscess",
+        "hemolysis",
+        "endocarditis",
+        "pleural effusion",
+        "hepatitis",
+        "nephritis"
+    ],
+    "multiple organ failure": [
+        "shock",
+        "inflammation",
+        "multiple organ failure"
+    ],
+    "necrosis of jejunum": [
+        "enteritis"
+    ],
+    "partial hind limb paralysis": [
+        "paraplegia"
+    ],
+    "rapid respiration": [
+        "exanthema",
+        "dyspnea",
+        "bradycardia",
+        "apnea",
+        "tachypnea",
+        "urticaria",
+        "tachycardia"
+    ],
+    "renal failure": [
+        "heart failure"
+    ],
+    "lymph gland swelling": [
+        "thrombocytopenia",
+        "edema",
+        "lymphadenopathy"
+    ],
+    "respiratory tract mucosa ulcer": [
+        "bronchitis",
+        "tracheitis"
+    ],
+    "yellowish green diarrhea": [
+        "diarrhea"
+    ],
+    "bronchopulmonary bleeding": [
+        "hemoptysis",
+        "hypotension",
+        "atrial fibrillation"
+    ],
+    "genitourinary hemorrhage": [
+        "overweight",
+        "atrial fibrillation",
+        "hemorrhage",
+        "acute pain",
+        "hematoma",
+        "hematuria",
+        "metrorrhagia",
+        "menorrhagia",
+        "nephritis"
+    ],
+    "nasal bleeding": [
+        "sinusitis",
+        "facial paralysis",
+        "epistaxis"
+    ],
+    "gum bleeding": [
+        "fever"
+    ],
+    "blotchy red rash": [
+        "exanthema"
+    ],
+    "cervical lymphadenopathy": [
+        "vasculitis",
+        "relapsing fever",
+        "lymphadenitis",
+        "lymphadenopathy"
+    ],
+    "change in body sensation": [
+        "weight loss",
+        "pain"
+    ],
+    "facial edema": [
+        "exophthalmos",
+        "sinusitis",
+        "edema"
+    ],
+    "hemorrhage into mucous membrane": [
+        "sinusitis",
+        "inflammation"
+    ],
+    "hemorrhage into skin": [
+        "lymphadenopathy",
+        "vasculitis",
+        "edema",
+        "inflammation",
+        "ischemia"
+    ],
+    "intense anxiety": [
+        "anxiety",
+        "depression",
+        "chronic pain",
+        "neck pain",
+        "pain"
+    ],
+    "severe chest pain": [
+        "heart failure",
+        "thrombocytopenia",
+        "anemia",
+        "abscess",
+        "chronic pain",
+        "chest pain"
+    ],
+    "intense toxemia": [],
+    "menorrhagia": [
+        "anemia",
+        "chronic pain",
+        "nausea",
+        "thrombocytopenia",
+        "infertility",
+        "vomiting",
+        "metrorrhagia",
+        "urinary incontinence",
+        "menorrhagia"
+    ],
+    "mild conjunctivitis": [
+        "conjunctivitis",
+        "eczema",
+        "hyperemia"
+    ],
+    "parotid pain": [
+        "facial paralysis"
+    ],
+    "petechiae": [
+        "arthritis",
+        "nephritis",
+        "thrombocytopenia"
+    ],
+    "excess lymphocytes in cerebrospinal fluid": [],
+    "retrobulbar pain": [
+        "exophthalmos",
+        "chronic pain",
+        "blindness"
+    ],
+    "sensory disturbance": [
+        "anxiety",
+        "blindness",
+        "tinnitus",
+        "dizziness",
+        "hyperalgesia",
+        "headache",
+        "arthritis",
+        "depression",
+        "deafness"
+    ],
+    "slow pulse": [
+        "atrial fibrillation",
+        "heart failure",
+        "bradycardia",
+        "myocarditis",
+        "hypotension",
+        "apnea",
+        "tachycardia"
+    ],
+    "subconjunctival bleeding": [
+        "conjunctivitis",
+        "keratitis",
+        "thrombocytopenia",
+        "epistaxis",
+        "hematoma",
+        "hemorrhage"
+    ],
+    "testicular pain": [
+        "chronic pain",
+        "epididymitis",
+        "acute pain"
+    ],
+    "pelvic swelling": [
+        "heart failure",
+        "arthritis",
+        "edema",
+        "synovitis",
+        "muscle weakness"
+    ],
+    "pelvic mass": [
+        "weight gain"
+    ],
+    "generalized pelvic mass": [],
+    "periumbilic pelvic mass": [
+        "weight gain"
+    ],
+    "multiple sites pelvic mass": [],
+    "generalized pelvic swelling": [
+        "arthritis",
+        "edema",
+        "synovitis"
+    ],
+    "epigastric pelvic swelling": [],
+    "periumbilic pelvic swelling": [
+        "synovitis",
+        "edema",
+        "arthritis",
+        "heart failure",
+        "muscle weakness"
+    ],
+    "abdominal mass": [],
+    "generalized abdominal mass": [],
+    "periumbilic abdominal mass": [],
+    "dysfunctions associated with arousal from sleep": [
+        "heart failure",
+        "eczema",
+        "cataplexy"
+    ],
+    "localized superficial mass": [],
+    "localized superficial swelling": [
+        "edema"
+    ],
+    "mass in chest": [
+        "chronic pain"
+    ],
+    "swelling in chest": [
+        "pulmonary edema",
+        "exanthema",
+        "pleural effusion",
+        "dyspnea",
+        "lymphadenopathy"
+    ],
+    "chronic enteritis": [
+        "myocarditis",
+        "inflammation"
+    ],
+    "sinus bradycardia": [
+        "atrial fibrillation",
+        "heart failure",
+        "syncope",
+        "myocarditis",
+        "bronchitis",
+        "hypotension",
+        "bradycardia",
+        "shock"
+    ],
+    "junctional tachycardia": [
+        "atrial fibrillation",
+        "myocarditis"
+    ],
+    "paroxysmal tachycardia": [
+        "atrial fibrillation"
+    ],
+    "sinus tachycardia": [
+        "atrial fibrillation",
+        "heart failure",
+        "ventricular fibrillation",
+        "bradycardia"
+    ],
+    "ventricular tachycardia": [
+        "atrial fibrillation",
+        "heart failure",
+        "ventricular fibrillation",
+        "hypotension",
+        "hemorrhage",
+        "shock"
+    ],
+    "sore eyes": [
+        "pain",
+        "conjunctivitis"
+    ],
+    "neck pain": [
+        "neck pain",
+        "chronic pain",
+        "shoulder pain",
+        "tinnitus",
+        "hydrocephalus"
+    ],
+    "phantom pain": [
+        "chronic pain"
+    ],
+    "nociceptive pain": [
+        "nociceptive pain",
+        "visceral pain",
+        "acute pain",
+        "chronic pain"
+    ],
+    "neuropathic pain": [
+        "hyperalgesia",
+        "pain",
+        "chronic pain"
+    ],
+    "visceral pain": [
+        "visceral pain",
+        "chronic pain",
+        "anxiety"
+    ],
+    "hypoesthesia": [
+        "spondylitis",
+        "exophthalmos",
+        "pain",
+        "chronic pain",
+        "tinnitus"
+    ],
+    "hyperalgesia": [
+        "hyperalgesia",
+        "depression",
+        "inflammation",
+        "chronic pain"
+    ],
+    "chronic pain": [
+        "depression",
+        "neck pain",
+        "shoulder pain",
+        "visceral pain",
+        "chronic pain"
+    ],
+    "breakthrough pain": [
+        "breakthrough pain",
+        "chronic pain"
+    ],
+    "acute pain": [
+        "vomiting",
+        "acute pain",
+        "inflammation",
+        "chronic pain",
+        "nausea"
+    ],
+    "allodynia": [
+        "hyperalgesia",
+        "depression",
+        "inflammation",
+        "chronic pain"
+    ],
+    "reactive hyperemia": [
+        "heart failure",
+        "hyperemia",
+        "anemia",
+        "anxiety"
+    ],
+    "active hyperemia": [
+        "heart failure",
+        "hyperemia",
+        "anemia",
+        "anxiety"
+    ],
+    "functional hyperemia": [
+        "heart failure",
+        "hyperemia",
+        "anxiety"
+    ],
+    "face hyperemia": [
+        "hyperemia",
+        "conjunctivitis"
+    ],
+    "hyperemia of the neck": [
+        "hypotension",
+        "hyperemia"
+    ],
+    "chest hyperemia": [
+        "blood pressure",
+        "hyperemia",
+        "heart failure",
+        "chest pain"
+    ],
+    "spastic paralysis": [
+        "contracture",
+        "paralysis",
+        "paraplegia",
+        "shoulder pain"
+    ],
+    "motor paralysis": [
+        "paralysis",
+        "respiratory paralysis",
+        "exanthema",
+        "facial paralysis"
+    ],
+    "stillbirth": [
+        "thrombocytopenia",
+        "anemia",
+        "stillbirth"
+    ],
+    "congested sclera": [],
+    "gross hematuria": [
+        "urinary retention",
+        "nephritis",
+        "hemolysis",
+        "proteinuria",
+        "vasculitis",
+        "hematuria",
+        "pleural effusion"
+    ],
+    "anuria": [
+        "peritonitis",
+        "hypotension",
+        "anemia",
+        "anuria"
+    ],
+    "stress incontinence": [
+        "dyspareunia",
+        "urinary incontinence",
+        "urinary retention",
+        "nocturia"
+    ],
+    "hypermenorrhea": [
+        "thrombocytopenia",
+        "infertility",
+        "nausea",
+        "anemia",
+        "chronic pain",
+        "metrorrhagia",
+        "urinary incontinence",
+        "menorrhagia",
+        "vomiting"
+    ],
+    "metrorrhagia": [
+        "infertility",
+        "dyspareunia",
+        "metrorrhagia",
+        "menorrhagia"
+    ],
+    "subjective vertigo": [
+        "anxiety",
+        "blood pressure",
+        "deafness",
+        "tinnitus",
+        "vertigo",
+        "dizziness"
+    ],
+    "objective vertigo": [
+        "anxiety",
+        "facial paralysis",
+        "dizziness",
+        "tinnitus",
+        "vertigo"
+    ],
+    "hypokinesia": [
+        "hypokinesia",
+        "delirium"
+    ],
+    "rigidity hypokinesia": [
+        "catatonia",
+        "hypokinesia"
+    ],
+    "postural instability hypokinesia": [
+        "catatonia"
+    ],
+    "freezing hypokinesia": [
+        "hypokinesia"
+    ],
+    "referred pain": [
+        "chronic pain",
+        "hyperalgesia"
+    ],
+    "facial tremor": [
+        "anxiety",
+        "cyanosis",
+        "tremor",
+        "hypokinesia"
+    ],
+    "lesions in oropharynx": [
+        "endocarditis",
+        "lymphadenopathy"
+    ],
+    "lesions in mouth": [],
+    "cervical edema": [
+        "thrombocytopenia",
+        "sinusitis",
+        "exanthema",
+        "exophthalmos",
+        "anemia",
+        "deafness",
+        "dysphonia",
+        "edema",
+        "cellulitis"
+    ],
+    "gastrointestinal bleeding": [
+        "anemia",
+        "atrial fibrillation"
+    ],
+    "icteric eyes": [
+        "jaundice"
+    ],
+    "icteric mucous membrane": [],
+    "icteric skin": [
+        "jaundice",
+        "eczema",
+        "hepatitis"
+    ],
+    "otitis": [
+        "otitis",
+        "sinusitis",
+        "deafness"
+    ],
+    "hematoma": [
+        "hematoma"
+    ],
+    "pericardial effusion": [
+        "dyspnea",
+        "pleural effusion",
+        "myocarditis",
+        "pericardial effusion",
+        "heart failure",
+        "ascites",
+        "hypotension",
+        "atrial fibrillation"
+    ],
+    "transient fever": [
+        "encephalitis",
+        "inflammation",
+        "lymphadenitis",
+        "fever",
+        "arthritis",
+        "hypothermia",
+        "cachexia"
+    ],
+    "low-grade fever": [
+        "endocarditis",
+        "lymphadenopathy",
+        "dyspnea",
+        "fever",
+        "vasculitis",
+        "cough"
+    ],
+    "prolonged fever": [
+        "exanthema",
+        "pericardial effusion",
+        "lymphadenopathy",
+        "gastroenteritis",
+        "lymphadenitis",
+        "fever",
+        "arthritis",
+        "thrombocytopenia",
+        "nephritis"
+    ],
+    "mild fever": [
+        "exanthema",
+        "pleural effusion",
+        "acute pain",
+        "bronchiolitis",
+        "colic",
+        "fever",
+        "urinary retention",
+        "conjunctivitis"
+    ],
+    "high fever": [
+        "meningitis",
+        "exanthema",
+        "depression",
+        "vasculitis",
+        "myocarditis",
+        "pericardial effusion",
+        "lymphadenopathy",
+        "anxiety",
+        "lymphadenitis",
+        "fever",
+        "pain"
+    ],
+    "very high fever": [
+        "meningitis",
+        "exanthema",
+        "depression",
+        "vasculitis",
+        "myocarditis",
+        "pericardial effusion",
+        "lymphadenopathy",
+        "anxiety",
+        "lymphadenitis",
+        "fever",
+        "pain"
+    ],
+    "hyperpyrexia": [
+        "hypothermia",
+        "thrombocytopenia",
+        "hyperthermia"
+    ],
+    "pel-epstein fever": [],
+    "continuous fever": [
+        "exanthema",
+        "inflammation",
+        "myocarditis",
+        "pericardial effusion",
+        "cellulitis",
+        "fever",
+        "thrombocytopenia",
+        "hypothermia"
+    ],
+    "remittent fever": [
+        "anemia"
+    ],
+    "relapsing fever": [
+        "lymphadenopathy",
+        "exanthema",
+        "relapsing fever",
+        "thrombocytopenia"
+    ],
+    "sensation perception": [
+        "inflammation",
+        "deafness",
+        "neck pain",
+        "chronic pain",
+        "hyperalgesia",
+        "pain"
+    ],
+    "anaphylactic shock": [
+        "atrial fibrillation",
+        "shock"
+    ],
+    "exophthalmos": [
+        "exophthalmos",
+        "overweight"
+    ],
+    "ventricular bradycardia": [
+        "heart failure",
+        "myocarditis",
+        "bronchitis",
+        "syncope",
+        "apnea",
+        "tachycardia",
+        "atrial fibrillation",
+        "bradycardia"
+    ],
+    "ventricular fibrillation": [
+        "ventricular fibrillation",
+        "heart failure",
+        "atrial fibrillation",
+        "hemorrhage"
+    ],
+    "allergic reaction": [
+        "anxiety",
+        "depression",
+        "sputum",
+        "eczema",
+        "necrosis"
+    ],
+    "lymphadenopathy": [
+        "lymphadenopathy",
+        "exanthema"
+    ],
+    "coagulopathy": [
+        "arthritis",
+        "thrombocytopenia",
+        "weight loss",
+        "hemorrhage"
+    ],
+    "vomiting": [
+        "diarrhea",
+        "menorrhagia",
+        "nausea",
+        "hemoptysis",
+        "abdominal pain",
+        "vomiting"
+    ],
+    "hyponatremia": [
+        "heart failure",
+        "hyponatremia",
+        "vasculitis",
+        "anemia",
+        "nocturia"
+    ],
+    "hematemesis": [
+        "fever",
+        "necrosis",
+        "hemoptysis",
+        "melena",
+        "hematemesis"
+    ],
+    "septicemia": [
+        "multiple organ failure",
+        "depression",
+        "atrial fibrillation"
+    ],
+    "toxemia": [
+        "inflammation",
+        "toxemia",
+        "nephritis"
+    ],
+    "pulmonary edema": [
+        "heart failure",
+        "pulmonary edema",
+        "hypotension",
+        "pleural effusion",
+        "deafness"
+    ],
+    "dyspnea": [
+        "heart failure",
+        "fever",
+        "dyspnea",
+        "edema",
+        "fatigue",
+        "anxiety",
+        "depression"
+    ],
+    "hemorrhagic mediastinitis": [
+        "pericardial effusion",
+        "abscess",
+        "hemoptysis"
+    ],
+    "lymphadenitis": [
+        "lymphadenitis",
+        "vasculitis",
+        "relapsing fever",
+        "anxiety",
+        "exanthema",
+        "lymphadenopathy",
+        "depression",
+        "hepatitis"
+    ],
+    "gastroenteritis": [
+        "myocarditis",
+        "inflammation",
+        "abdominal pain",
+        "gastroenteritis"
+    ],
+    "boil": [
+        "endocarditis",
+        "meningitis"
+    ],
+    "muscle pain": [
+        "muscle weakness",
+        "exanthema",
+        "fatigue",
+        "chronic pain"
+    ],
+    "muscle tightness": [
+        "dysphonia",
+        "fatigue"
+    ],
+    "excessive tearing": [
+        "sinusitis",
+        "inflammation",
+        "necrosis"
+    ],
+    "light sensitivity": [
+        "photophobia",
+        "mydriasis",
+        "pain",
+        "hyperalgesia",
+        "hyperemia",
+        "keratitis"
+    ],
+    "arthritis": [
+        "arthritis",
+        "fatigue"
+    ],
+    "spondylitis": [
+        "spondylitis",
+        "depression",
+        "fatigue"
+    ],
+    "meningitis": [
+        "muscle weakness",
+        "fever",
+        "meningitis",
+        "blindness",
+        "meningoencephalitis"
+    ],
+    "chills": [
+        "hypothermia",
+        "fever",
+        "ageusia",
+        "delirium",
+        "exanthema",
+        "chills",
+        "vomiting"
+    ],
+    "fatigue": [
+        "fatigue",
+        "dyspnea",
+        "headache",
+        "inflammation"
+    ],
+    "lightheadedness": [
+        "dizziness",
+        "hemorrhage",
+        "anxiety",
+        "abdominal pain",
+        "depression",
+        "tremor",
+        "vertigo"
+    ],
+    "constipation": [
+        "abdominal pain",
+        "diarrhea",
+        "constipation"
+    ],
+    "hoarseness": [
+        "dysphonia",
+        "hoarseness",
+        "facial paralysis",
+        "skin ulcer",
+        "laryngitis"
+    ],
+    "behavioral symptom": [
+        "anxiety",
+        "depression",
+        "hyperalgesia"
+    ],
+    "limited attention": [
+        "deafness",
+        "depression"
+    ],
+    "repetitive behavior": [
+        "catatonia"
+    ],
+    "intracranial hemorrhage": [
+        "hematoma"
+    ],
+    "intracerebral hemorrhage": [
+        "atrial fibrillation",
+        "hematoma",
+        "blood pressure"
+    ],
+    "subdural hemorrhage": [
+        "mydriasis",
+        "hydrocephalus"
+    ],
+    "airway stenosis": [
+        "hydrocephalus",
+        "contracture",
+        "conjunctivitis"
+    ],
+    "apthous ulcer": [],
+    "anal abscess": [
+        "abscess"
+    ],
+    "acholic stool": [],
+    "ageusia": [
+        "ageusia"
+    ],
+    "acquired color vision deficiency": [],
+    "anterior scleral inflammation": [
+        "inflammation"
+    ],
+    "barking croup cough": [],
+    "blind spot": [
+        "hyperemia"
+    ],
+    "bloody diarrhea": [
+        "diarrhea",
+        "chronic pain",
+        "arthritis",
+        "edema",
+        "thrombocytopenia",
+        "gastroenteritis",
+        "lymphadenopathy"
+    ],
+    "abnormal weight loss": [
+        "chronic pain",
+        "atrial fibrillation",
+        "heart failure",
+        "cachexia",
+        "failure to thrive",
+        "weight loss",
+        "anemia"
+    ],
+    "chronic weight loss": [
+        "diarrhea",
+        "chronic pain",
+        "overweight",
+        "heart failure",
+        "cachexia",
+        "abdominal pain",
+        "weight loss",
+        "inflammation"
+    ],
+    "acute weight gain": [
+        "heart failure",
+        "hypotension",
+        "overweight",
+        "weight gain",
+        "jaundice",
+        "cachexia"
+    ],
+    "chronic weight gain": [
+        "overweight",
+        "weight gain",
+        "depression",
+        "blood pressure",
+        "sinusitis"
+    ],
+    "overweight": [
+        "overweight",
+        "depression",
+        "weight loss",
+        "blood pressure",
+        "inflammation"
+    ],
+    "postnasal drainage": [],
+    "abnormal scar formation": [],
+    "abnormal wound healing": [
+        "anxiety",
+        "contracture",
+        "inflammation"
+    ],
+    "bone conduction hyperacusis": [],
+    "bone pain": [
+        "chronic pain",
+        "pain",
+        "neck pain",
+        "shoulder pain"
+    ],
+    "bronchospasm": [
+        "heart failure"
+    ],
+    "chronic inflammation": [
+        "abscess",
+        "sinusitis",
+        "inflammation",
+        "fatigue"
+    ],
+    "wet cough": [
+        "chronic cough",
+        "eczema",
+        "bronchitis",
+        "cough"
+    ],
+    "poor wound healing": [
+        "corneal opacity",
+        "arthritis"
+    ],
+    "paroxysmal cough": [
+        "tracheitis",
+        "dyspnea",
+        "bronchitis",
+        "hyperventilation",
+        "cough"
+    ],
+    "conjunctival swelling": [
+        "conjunctivitis",
+        "hyperemia",
+        "cellulitis"
+    ],
+    "contracture": [
+        "urinary incontinence",
+        "torticollis",
+        "contracture",
+        "arthritis"
+    ],
+    "corkscrew hair": [],
+    "corneal scarring": [
+        "corneal opacity",
+        "keratitis"
+    ],
+    "dark urine": [],
+    "descending muscle paralysis": [],
+    "decreased tearing": [],
+    "decreased metabolism": [
+        "chronic pain"
+    ],
+    "hand weakness": [
+        "depression",
+        "heart failure",
+        "atrial fibrillation"
+    ],
+    "mammary gland inflammation": [
+        "depression",
+        "inflammation"
+    ],
+    "severe mammary gland inflammation": [],
+    "pharynx inflammation": [
+        "hypothermia",
+        "cough",
+        "edema",
+        "abscess"
+    ],
+    "cerebrovascular accident": [
+        "aphasia",
+        "atrial fibrillation",
+        "hemorrhage",
+        "fatigue"
+    ],
+    "bronchiole inflammation": [
+        "bronchiolitis",
+        "inflammation"
+    ],
+    "severe bronchiole inflammation": [],
+    "suppurative bronchiole inflammation": [],
+    "low white blood cell count": [
+        "anemia",
+        "thrombocytopenia",
+        "lymphopenia",
+        "fever"
+    ],
+    "outlet dysfunction constipation": [
+        "constipation"
+    ],
+    "soft tissue necrosis": [
+        "necrosis",
+        "hyperemia",
+        "cellulitis"
+    ],
+    "blood pressure": [
+        "dyspnea",
+        "blood pressure"
+    ]
+}
