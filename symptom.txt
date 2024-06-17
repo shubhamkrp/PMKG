@@ -1,0 +1,1019 @@
+cellulitis: 
+abdominal cramp: stomach cramp
+abdominal distention: 
+obsolete acute enteritis in newborns: 
+obsolete arrested moulting: 
+ataxia: uncoordination
+backache: back pain
+bleeding: 
+blindness: 
+blister: 
+obsolete bloody diarrhea: 
+obsolete bloody exudate: 
+blurred vision: 
+obsolete capillary leakage: 
+obsolete cardiomyocyte destruction: 
+giddiness: 
+confusion: 
+crinkle: 
+darkening of skin: 
+deafness: 
+dehydration: 
+delirium: 
+depression: 
+disorientation: 
+drowsiness: drowsy, somnolence
+dry cough: nonproductive cough
+obsolete epidermal proliferation: 
+obsolete excess mucus in bronchi: 
+obsolete exophthalmia: abnormal protrusion of the eyeball
+obsolete feather loss: 
+paralysis: 
+obsolete flaccid limb paralysis: 
+flaccidity: 
+flat keratotic capsule: 
+obsolete fluid in pericardial sac: 
+obsolete fragile bones: 
+hemorrhagic gastroenteritis: haemorrhagic gastroenteritis
+obsolete catarrhal enteritis: 
+dyspneic enteritis: 
+enteritis: 
+hematuria: 
+hemorrhage: 
+obsolete hemorrhagic enteritis: 
+obsolete hemorrhagic meningitis: 
+obsolete hemorrhagic thoracic lymphadenitis: 
+hepatic necrosis: 
+hepatitis: 
+hepatosplenomegaly: 
+obsolete high fever: 
+obsolete hind limb paralysis: hindlimb paralysis
+obsolete hunched posture: 
+hydrocephalus: 
+obsolete hyperemic liver: 
+obsolete hyperemic spleen: 
+hypergammaglobulinemia: 
+obsolete hyperkeratotic plaques of surface of foot: 
+hyperpigmentation: 
+obsolete hyperplastic alveolar nodules: han
+hyperreflexia: 
+hypotension: 
+obsolete ill-thrift: 
+inflammation: 
+obsolete inflammation of meninges: 
+intestinal hemorrhage: 
+joint pain: arthralgia, arthromyalgia
+obsolete joint swelling: 
+keratotic nodules of the skin: 
+obsolete lameness: 
+laryngitis: 
+laryngotracheitis: larynx and trachea inflammation
+lesions in myocardium: 
+obsolete lesions in respiratory tract: 
+obsolete lesions in spleen: 
+obsolete lesions in thymus: 
+obsolete lesions in swim bladder: 
+lethargy: 
+listlessness: languid
+obsolete localized cutaneous lesions: 
+obsolete loose droppings: 
+coordination symptom: 
+obsolete loss of coordination: 
+obsolete low grade fever: 
+lesions in lung: 
+lymphangitis: 
+lymphoblastoma: 
+obsolete lymphocytic hyperplasia: 
+lymphopenia: 
+massive hepatic necrosis: 
+obsolete massive lymphadenopathy: 
+meningoencephalitis: 
+encephalitis: 
+mild encephalitis: 
+skin lesion: 
+muscle cramp: 
+muscle weakness: 
+myocarditis: 
+obsolete nasal discharge: 
+obsolete neck swelling: 
+nephritis: 
+pain: 
+lesions in pancreas: 
+obsolete partial paralysis: paresis
+peritonitis: 
+obsolete persistent lymphocytosis: 
+obsolete petechial hemorrhages: 
+obsolete photosensitivity: 
+plasmacytosis: 
+pleural effusion: 
+obsolete portal hepatitis: 
+mouth papules: 
+obsolete proliferative mouth papules: 
+obsolete proliferative skin lesions: 
+tracheitis: 
+obsolete proliferative tracheitis: 
+thrombocytopenia: 
+obsolete prolonged thrombocytopenia: 
+prostration: 
+obsolete pustular skin lesions: 
+rales: crackles, crepitations
+obsolete reddening: 
+obsolete retinal inflammation: 
+obsolete rhinitis: 
+obsolete salivary gland swelling: 
+obsolete sclerodermoid plaques: 
+seizure: 
+liver inflammation: 
+obsolete self-limiting liver inflammation: 
+severe backache: intense back pain
+conjunctivitis: 
+severe conjunctivitis: 
+severe headache: 
+severe joint pain: intense join pain
+necrosis: 
+severe necrosis: 
+sinusitis: 
+obsolete skin papules: 
+skin ulcer: 
+obsolete slight cough: 
+obsolete slight pyrexia: 
+sneezing: 
+obsolete spastic paralysis: 
+spasticity: 
+obsolete spleen hemorrhages: 
+obsolete spleen infiltrates: 
+obsolete bronchopneumonia: bronchial pneumonia, lobular pneumonia
+obsolete splitting of tissues: 
+feces and droppings symptom: fecal
+steatorrhea: 
+obsolete sudden onset of fever: 
+obsolete sudden onset of severe chills: 
+obsolete swollen cervical lymphnodes: 
+obsolete systemic infection: 
+obsolete systemic necrosis: 
+vasculitis: 
+obsolete systemic vasculitis: 
+obsolete tarry droppings: 
+thirst: 
+thymus symptom: 
+spleen symptom: 
+obsolete thymus atrophy: 
+tracheobronchitis: 
+obsolete transient fever: 
+tremor: 
+obsolete ulcerative dermal vesicles: 
+incoordination: lack of coordination
+obsolete upper respiratory distress: 
+obsolete vascular lesions: 
+obsolete vascular necrosis: 
+obsolete vein swelling: 
+obsolete vesicles on feet: 
+obsolete vesicles on hoof corona: 
+obsolete vesicles on mouth: 
+obsolete vesicles on teats: 
+obsolete vesicular lesions on lip border: cold sore
+wasting: 
+obsolete watery diarrhea: 
+obsolete watery ocular discharge: 
+weakness: 
+weight loss: loss of weight
+obsolete wet droppings: 
+liver symptom: 
+obsolete yellow liver: 
+bubo: buboes
+muscle symptom: 
+change in skin color: 
+weariness: 
+exhaustion: 
+tiredness: 
+abdominal discomfort: 
+postural reaction: 
+wheelbarrowing: 
+obsolete hemistanding: 
+obsolete hemiwalking: 
+hopping: 
+conscious proprioception: 
+abnormal hemiwalking hemistanding: 
+reproductive system symptom: 
+abortion: infectious abortion
+miscarriage: 
+spontaneous abortion: 
+acute arthritis: 
+acute meningoencephalitis: 
+acute painful vision loss: 
+obsolete acute respiratory distress: 
+obsolete acute suppurative lesions: 
+salivary gland symptom: 
+acute suppurative parotiditis: 
+afebrile: 
+anemia: anaemia
+ischemia: 
+photophobia: light intolerance
+asthenopia: eye weakness, rapid eye fatigue
+eye strain: 
+agraphia: inability to write
+anomia: amnesic aphasia, amnestic aphasia, anomic aphasia, inability to name objects, nominal aphasia
+inability to comprehend speech: 
+inability to speak: 
+inability to form words: 
+poor enunciation: 
+receptive aphasia: fluent aphasia, inability to perceive pitch, rhythm, and emotional tone of speech, sensory aphasia, Wernicke's aphasia
+areflexia: absence of neurological reflexes
+absence of knee jerk reflex: 
+limb weakness: extremities weakness
+arm weakness: 
+leg weakness: 
+asthenia: loss of strength
+atrial fibrillation: a-fib, AF, AFib, auricular fibrillation
+blood vessel infection: 
+hemorrhagic diarrhea: 
+bloody stool: blood in stool
+body ache: 
+bradycardia: 
+bronchiolitis: bronchioles inflammation
+inability to think clearly: clouded sensorium, decreased sensorium
+cloudy cornea: 
+colic: 
+colicky pain: 
+congestion: blocked nose, nasal blockage, nasal obstruction, stuffed up nose, stuffy nose
+continuous profuse salivation: 
+cornea symptom: 
+corneal opacity: 
+corneal ulcers: 
+cough with bloody sputum: 
+cyclic fever: intermittent fever, recurrent fever
+alteration of appetite: 
+decreased appetite: poor appetite
+increased appetite: 
+proprioception symptom: 
+decreased conscious proprioception: 
+reflex symptom: 
+decreased flexor withdrawal reflex: 
+dermal abscess: cutaneous abscess, dermal abscesses, skin abscess, subcutaneous abscess
+diffuse rash: diffuse erythema
+anisocoria: enlargement of one pupil, pupils of different size
+dilated pupil: 
+diminished gastro-intestinal motility: 
+diminished gag reflex: 
+absent gag reflex: 
+double vision: diplopia
+dry hacking cough: 
+dry mouth: 
+dry mucous membrane: dry mucous membranes
+endocarditis: 
+epididymitis: inflammation of the epididymis
+epididymorchitis: epididymo-orchitis
+obsolete absence seizure: petit mal seizure
+focal seizure: partial seizure
+generalized seizure: 
+tonic-clonic seizure: grand mal seizure
+epileptic seizure: 
+simple partial seizure: 
+complex partial seizure: 
+myoclonic seizure: 
+clonic seizure: 
+tonic seizure: 
+atonic seizure: 
+obsolete excess pericardial fluid: 
+excess salivation: profuse salivation
+extensive ulcer: 
+extreme exhaustion: 
+extreme fatigue: 
+eye discharge: ocular discharge
+fixed dilated pupils: 
+facial paralysis: 
+fixed pupil: fixed pupils
+flaccid paralysis: 
+obsolete floppy head: 
+arrhythmia: abnormal heart beat, abnormal heart rhythm, dysrhythmia, fluctuation of heart rate, heart rhythm symptom, irregular heartbeat
+obsolete fluctuation of heart rate: 
+eczema: 
+belching: eructation
+gas pain: 
+heart failure: 
+hemiparesis: 
+hemolysis: haemolysis
+hepatic abscess: hepatic abscesses
+hepatic dysfunction: 
+hilar lymphadenitis: 
+hoarse voice: 
+hyperemia: hyperaemia, hyperemic
+hyperesthesia: hyperaesthesia
+hypopyon: 
+hypothermia: 
+hypoxemia: hypoxaemia
+impaired coordination: 
+impaired gag reflex: 
+inability to feed: 
+inibility to stand: 
+inability to swallow: 
+loss of appetite: inappetence, lack of appetite
+inflamed eyes: 
+intestinal hypermotility: 
+joint symptom: 
+joint inflammation: 
+keratitis: corneitis, inflammation of the cornea of the eye
+lateroventral deviation of the head: 
+leg cramp: 
+obsolete leukopenia: low white blood cell count
+loss of balance: 
+loss of tendon reflex: 
+vision symptom: 
+loss of vision: 
+low birth weight: 
+melena: melaena
+bronchitis: 
+mild bronchitis: 
+mild hypotension: 
+tetanic convulsion: tetanic convulsions
+mild tetanic convulsion: 
+motor weakness: 
+mouth sore: 
+muscle ache: 
+muscle soreness: 
+muscle tenderness: 
+muscle necrosis: 
+neck weakness: 
+neurological dysfunction: 
+night sweats: sleep hyperhidrosis
+nystagmus: rapid involuntary rhythmic eye movement
+occasional diplopia: 
+limb edema: limb oedema, oedema of the limbs
+obsolete ophthalmoplegia: extraocular muscle paralysis, eye movement paralysis
+slurred speech: 
+painful lymph glands: painful lymph nodes
+palpebral edema: edema of the eyelid
+panting respiration: 
+papule: 
+lip paralysis: paralysed lips
+throat muscle paralysis: 
+paraplegia: 
+parotid abscess: 
+obsolete partial paralysis of the limbs: 
+peripheral muscle weakness: 
+phlegm: 
+pneumonitis: inflammation of lung tissue
+poor feeding: 
+phlebitis: inflammation of a vein
+postphlebitic ulcer: 
+premature labor: 
+profound weakness: 
+emaciation: 
+progressive emaciation: 
+progressive prostration: 
+progressive weakness: 
+prostate symptom: 
+prostatic abscess: 
+prostatic infection: 
+proteinuria: 
+proximal paralysis of arm and leg: 
+ptosis: droopiness
+renal abscess: kidney abscess, perirenal abscess
+respiratory paralysis: 
+rhinorrhea: runny nose
+salivation: 
+scrotal abscess: 
+severe abdominal cramp: 
+severe diarrhea: 
+obsolete mastitis: inflammation of mammary breast, mammitis
+obsolete severe mastitis: 
+severe myalgia: 
+obsolete severe pneumonia: 
+spleen abscess: 
+staggering gait: 
+stiff neck: 
+neck symptom: cervicalgia
+throat symptom: 
+mouth symptom: 
+head symptom: 
+nose symptom: 
+stupor: 
+thyroid symptom: 
+thyroid abscesses: 
+ear symptom: 
+tinnitus: sensation of noise
+muscle twitching: 
+facial muscle twitching: 
+mydriasis: excessive pupil dilation, prolonged pupil dilation
+unreactive mydriasis: 
+vaginal discharge: 
+vertigo: 
+weak cry: 
+wobble: 
+cachexia: general physical wasting and malnutrition
+weight gain: gain of weight
+dyspareunia: difficult sexual intercourse, painful sexual intercourse
+vaginismus: painful spasmodic vagina contractions
+bruise: bruises, bruising, contusion, ecchymosis
+syncope: faint, fainting, loss of consciousness due to insuffiecient blood flow to the brain
+cataplexy: 
+hyperthermia: 
+neurological and physiological symptom: 
+infant symptom: 
+anxiety: 
+catatonia: 
+dysarthria: 
+amaurosis fugax: 
+amaurosis: 
+pupil symptom: 
+contracted pupil: 
+miosis: 
+bloating: 
+hematochezia: 
+dyspepsia: indigestion
+pyrosis: acid indigestion, heartburn
+claudication: blockage of leg arteries
+reticulocytosis: 
+macrocytosis: 
+obsolete impotence: erectile dysfunction
+hypoventilation: 
+bradypnea: abnormally slow breathing
+pleuritic chest pain: 
+sputum: sputum production
+itching: pruritus
+anasarca: generalized edema
+urticaria: hives, nettle rash, uredo
+paresthesia: 
+abnormal vaginal bleeding: abnormal menstruation
+earache: 
+toothache: 
+obsolete heartburn: acid indigestion
+hair loss: 
+elbow pain: 
+knee pain: 
+shoulder pain: 
+nail discoloration: 
+obsolete faint: fainting, syncope
+bloodshot eye: red eye, redness of eye
+bloody sputum: 
+epistaxis: nosebleed
+cardiogenic shock: 
+shock: 
+septic shock: 
+abnormal sputum: 
+right upper quadrant abdominal rigidity: 
+abdominal rigidity: 
+abnormal weight gain: 
+left upper quadrant abdominal pain: 
+abdominal pain: 
+nausea: 
+digestive system symptom: 
+hepatomegaly: enlargement of the liver
+abdominal symptom: 
+symptom: 
+lack of normal physiological development: 
+lack of expected normal physiological development in childhood: 
+failure to thrive: 
+delayed milestones: developmental delay
+right lower quadrant abdominal rigidity: 
+generalized abdominal rigidity: 
+epigastric abdominal rigidity: 
+left upper quadrant abdominal rigidity: 
+multiple sites abdominal rigidity: 
+early satiety: 
+nutrition, metabolism, and development symptom: 
+obsolete abnormal loss of weight and underweight: 
+underweight: 
+obsolete loss of weight: weight loss
+epigastric abdominal swelling: 
+abdominal swelling: 
+abnormality of gait: 
+nervous system symptom: 
+persistent vegetative state: 
+alteration of consciousness: 
+left lower quadrant abdominal tenderness: 
+abdominal tenderness: 
+dysuria: difficult urine discharge, painful urine discharge
+urinary system symptom: 
+rash: erythema, rubor, skin eruption, skin rash, skin redness
+skin and integumentary tissue symptom: 
+abnormal bowel sound: 
+multiple sites abdominal tenderness: 
+continuous leakage of urine: 
+urinary incontinence: incontinence
+dysphagia: difficulty in swallowing, difficulty swallowing, impaired swallowing
+renal colic: 
+urethral discharge: 
+epigastric abdominal tenderness: 
+periumbilic abdominal tenderness: 
+generalized abdominal tenderness: 
+right upper quadrant abdominal tenderness: 
+right lower quadrant abdominal tenderness: 
+left lower quadrant abdominal swelling: 
+mixed incontinence (female) (male): 
+adult failure to thrive: 
+headache: cephalalgia
+throat pain: sore throat
+hemorrhage from throat: 
+head swelling: 
+aphasia: inability to comprehend language
+flatulence: gas, gas production
+pallor: paleness
+flushing: 
+male stress incontinence: 
+stridor: 
+respiratory system and chest symptom: 
+hiccough: 
+lump in chest: 
+hemoptysis: coughing up of blood, expectoration of blood, expectoration of blood-stained sputum, haemoptysis
+generalized abdominal pain: 
+abnormal feces: 
+visible peristalsis: 
+enlargement of lymph nodes: swelling of lymph nodes, swollen lymph glands
+feeding difficulties and mismanagement: 
+anorexia: 
+polyphagia: 
+transient alteration of awareness: 
+ascites: hydroperitoneum
+undiagnosed cardiac murmur: 
+cardiovascular system symptom: 
+tachycardia: 
+palpitation: abnormal heart beats
+splenomegaly: esplenomegaly
+urge incontinence: 
+post-void dribbling: 
+spontaneous ecchymoses: 
+change in skin texture: 
+disturbance of skin sensation: 
+cyanosis: 
+edema: dropsy
+jaundice: icteric, icterus
+painful respiration: 
+periumbilic abdominal swelling: 
+epigastric abdominal pain: 
+memory loss: 
+transient paralysis of limb: 
+multiple sites abdominal swelling: 
+right lower quadrant abdominal pain: 
+right upper quadrant abdominal pain: 
+right lower quadrant abdominal swelling: 
+generalized abdominal swelling: 
+clubbing of fingers: 
+disturbances of sensation of smell and taste: taste alteration
+meningismus: 
+neurologic neglect syndrome: 
+left lower quadrant abdominal rigidity: 
+left upper quadrant abdominal swelling: 
+localized superficial lump: 
+urinary retention: inability to urinate, ischuria, retention of urine
+incomplete bladder emptying: 
+voice disturbance: 
+polydipsia: 
+multiple sites abdominal pain: 
+right upper quadrant abdominal swelling: 
+urinary frequency: frequent urination, nocturia
+nocturia: nycturia
+polyuria: excessive secretion of urine
+sleep disturbance: 
+general symptom: 
+short stature: 
+oliguria: 
+diarrhea: bacterial gastroenteritis, diarrhoea, fecal incontinence, incontinence of feces, loose bowel, loose bowels, the runs
+insomnia: agrypnia
+splitting of urinary stream: 
+urinary stream symptom: 
+aphonia: 
+precordial pain: 
+chest pain: 
+fussy infant: 
+incontinence without sensory awareness: 
+insomnia with sleep apnea: 
+dysfunctions associated with sleep stages: 
+sleep apnea: 
+hypersomnia: 
+hypersomnia with sleep apnea: 
+disruptions of 24-hour sleep-wake cycle: 
+sleep related movement disorder: 
+overflow incontinence: 
+abnormal chest sound: 
+extravasation of urine: 
+slowing of urinary stream: 
+urinary urgency: urgency of urination
+left upper quadrant abdominal tenderness: 
+excessive crying of infant: 
+gangrene: 
+abnormal involuntary movement: 
+febrile convulsion: febrile seizure
+convulsion: 
+head and neck symptom: 
+respiratory abnormality: 
+cheyne-stokes respiration: 
+apnea: 
+hyperventilation: 
+orthopnea: 
+tachypnea: rapid breathing
+wheezing: 
+coma: 
+nocturnal enuresis: bed wetting, nighttime incontinence
+hallucination: 
+syncope and collapse: 
+generalized hyperhidrosis: secondary hyperhidrosis
+dizziness: dizzy
+periumbilic abdominal pain: 
+periumbilic abdominal rigidity: 
+fever: pyrexia
+cough: 
+obsolete lack of coordination: 
+loss of height: 
+torticollis: twisted neck, wry neck
+abnormal posture: 
+tetany: 
+left lower quadrant abdominal pain: 
+alexia: 
+acute mesenteric lymphadenitis: 
+acute renal failure: 
+obsolete appendicitis: 
+conscious disturbance: 
+obsolete myalgia: 
+disturbed vision: disturbance of vision
+vision distortion: 
+exanthema: 
+frontal headache: 
+hemolytic anemia: 
+hip pain: 
+inflammatory low back pain: 
+leukocytosis: 
+low backache: low back pain
+maculopapular rash: 
+opisthotonus: 
+papular rash: 
+rectorrhagia: rectal bleeding
+ankle rash: redness of ankle
+renal involvement: 
+obsolete respiratory distress: 
+respiratory failure: respiratory dysfunction
+ruffled feather: 
+obsolete ankle swelling: 
+synovitis: 
+tache noire: 
+tenesmus: 
+terminal ileitis: 
+thick white exudate on tongue: 
+discharge: 
+wound discharge: 
+yellow dropping: 
+irritability: Inconsolability
+mouth bleeding: 
+pale mucous membrane: 
+ischemic necrosis of jejunum: 
+extraocular muscles paralysis: 
+pareses: partial paralysis
+purpuric rash: 
+recumbency: 
+shakes: trembling
+uncoordinated gait: 
+yellow exudate from nose: 
+yellow exudate from eyes: 
+abnormal behavior: 
+obsolete heart rhythm symptom: 
+obsolete abnormal heart rhythms: abnormal heart beats
+abnormal hemistanding: 
+abnormal hemiwalking: 
+sudden onset of fever: 
+abscess: 
+bradykinesia: 
+acute cranial nerve dysfunction: 
+acute diarrhea: 
+acute enteritis: 
+acute gastroenteritis: 
+acute mental dysfunction: 
+acute dyspnea: 
+acute weight loss: 
+aggressive behavior: 
+altered mental status: 
+obsolete tachypnoea: 
+bifrontal headache: 
+brain cyst: 
+chronic cough: 
+obsolete chronic fatigue syndrome: 
+circling movement: 
+cramp: 
+cranial nerve palsies: 
+cytopenia: 
+low blood pressure: 
+decreased facial sensation: 
+decreased jaw tone: 
+decreased milk production: 
+decreased motor response: 
+decreased pharyngeal tone: 
+decreased sucking: 
+deltoid muscle weakness: 
+diminished spontaneous movement: 
+nasal discharge: 
+distended loops of intestines on rectal: 
+droopy ears: 
+dysphonia: 
+expressive aphasia: agrammatic aphasia, Broca's aphasia
+facial weakness: 
+flaccid muscle tone: 
+obsolete gas production: 
+granulomatous inflammation: 
+head pressing: 
+hind limb paralysis: 
+infertility: 
+inability to lie flat: 
+intraretinal hemorrhage: 
+skin desquamation: 
+swelling symptom: 
+leg swelling: 
+loss of consciousness: 
+memory impairment: 
+microangiopathic hemolytic anemia: 
+moderate anemia: 
+moderate conjuctival injection: 
+multiple abscesses: 
+multiple organ failure: 
+necrosis of jejunum: 
+painful reginal lymphadenopathy: 
+palate weakness: 
+partial hind limb paralysis: 
+pulmonary consolidation: 
+rapid respiration: 
+renal failure: 
+sudden ataxis: 
+sternocleidomastoid weakness: 
+obsolete stroke: apoplexy, brain attack, cerebral accident, cerebrovascular accident
+obsolete suppurative pneumonia: 
+lymph gland swelling: 
+respiratory tract mucosa ulcer: 
+yellowish green diarrhea: 
+bronchopulmonary bleeding: 
+genitourinary hemorrhage: 
+nasal bleeding: 
+gum bleeding: gingival hemorrhage
+blotchy red rash: 
+cervical lymphadenopathy: 
+change in body sensation: 
+enanthem: 
+extreme prostration: 
+facial edema: facial swelling
+hemodynamic instability: 
+hemorrhage into mucous membrane: 
+hemorrhage into skin: 
+herpetic lesion on upper lip: 
+intense anxiety: 
+severe chest pain: intense chest pain
+intense toxemia: 
+menorrhagia: 
+mild conjunctivitis: 
+neurological alteration: 
+parotid pain: salivary gland pain
+petechiae: petechial rash
+extracellular fluid alteration: 
+excess lymphocytes in cerebrospinal fluid: 
+renal alteration: 
+retrobulbar pain: 
+sensory disturbance: 
+slow pulse: 
+subconjunctival bleeding: 
+testicular pain: 
+vascular alteration: 
+pelvic symptom: 
+pelvic swelling: 
+pelvic mass: 
+pelvic lump: 
+generalized pelvic lump: 
+right lower quadrant pelvic lump: 
+epigastric pelvic lump: 
+left lower quadrant pelvic lump: 
+left upper quadrant pelvic lump: 
+right upper quadrant pelvic lump: 
+multiple sites pelvic lump: 
+periumbilic pelvic lump: 
+right upper quadrant pelvic mass: 
+left lower quadrant pelvic mass: 
+epigastric pelvic mass: 
+left upper quadrant pelvic mass: 
+generalized pelvic mass: 
+periumbilic pelvic mass: 
+multiple sites pelvic mass: 
+right lower quadrant pelvic mass: 
+multiple sites pelvic swelling: 
+generalized pelvic swelling: 
+epigastric pelvic swelling: 
+left lower quadrant pelvic swelling: 
+left upper quadrant pelvic swelling: 
+periumbilic pelvic swelling: 
+right lower quadrant pelvic swelling: 
+right upper quadrant pelvic swelling: 
+abdominal mass: 
+abdominal lump: 
+left upper quadrant abdominal mass: 
+left lower quadrant abdominal mass: 
+epigastric abdominal mass: 
+multiple sites abdominal mass: 
+generalized abdominal mass: 
+periumbilic abdominal mass: 
+right lower quadrant abdominal mass: 
+right upper quadrant abdominal mass: 
+multiple sites abdominal lump: 
+periumbilic abdominal lump: 
+epigastric abdominal lump: 
+left upper quadrant abdominal lump: 
+right lower quadrant abdominal lump: 
+right upper quadrant abdominal lump: 
+generalized abdominal lump: 
+left lower quadrant abdominal lump: 
+dysfunctions associated with arousal from sleep: 
+inability to concentrate: 
+localized superficial mass: 
+localized superficial swelling: 
+mass in chest: 
+swelling in chest: 
+chronic enteritis: 
+sinus bradycardia: 
+junctional tachycardia: 
+paroxysmal tachycardia: 
+sinus tachycardia: 
+ventricular tachycardia: V-tach, VT
+sore eyes: 
+neck pain: 
+phantom pain: 
+nociceptive pain: 
+neuropathic pain: 
+visceral pain: 
+hypoesthesia: numbness
+hypoalgesia: 
+hyperalgesia: 
+chronic pain: 
+breakthrough pain: 
+acute pain: sudden pain
+allodynia: 
+reactive hyperemia: 
+active hyperemia: 
+functional hyperemia: 
+face hyperemia: 
+hyperemia of the neck: 
+chest hyperemia: 
+spastic paralysis: 
+motor paralysis: 
+stillbirth: 
+congested sclera: 
+gross hematuria: 
+anuria: 
+stress incontinence: 
+hypermenorrhea: 
+metrorrhagia: 
+subjective vertigo: 
+objective vertigo: 
+hypokinesia: 
+rigidity hypokinesia: 
+postural instability hypokinesia: 
+freezing hypokinesia: 
+referred pain: 
+facial tremor: 
+lesions in oropharynx: 
+lesions in mouth: 
+cervical edema: 
+gastrointestinal bleeding: 
+breathing problems: 
+nasal congestion: 
+icteric eyes: 
+icteric mucous membrane: 
+icteric skin: 
+otitis: 
+hematoma: 
+lameness: 
+pericardial effusion: 
+decreased tongue tone: 
+transient fever: 
+low-grade fever: low grade fever
+prolonged fever: 
+mild fever: 
+high fever: 
+very high fever: 
+obsolete recurrent fever: 
+obsolete severe temperature increase: 
+hyperpyrexia: 
+Pel-Epstein fever: 
+continuous fever: continued fever
+remittent fever: 
+relapsing fever: 
+musculoskeletal system symptom: 
+sensation perception: 
+hypotensive: 
+cold clammy skin: 
+anaphylactic shock: anaphylaxis
+exophthalmos: exophthalmia, exophthalmus, proptosis
+ventricular bradycardia: idioventricular rhythm, ventricular escape rhythm
+cardiac fibrillation: 
+ventricular fibrillation: v-fib
+allergic reaction: 
+hemic and immune system symptom: 
+immune system symptom: 
+hemic system symptom: 
+hematopoietic system symptom: 
+lymphatic system symptom: 
+lymphadenopathy: adenopathy
+coagulopathy: 
+microangiopathy: 
+vomiting: emesis
+hyponatremia: 
+hematemesis: bloody vomit, haematemesis, vomiting blood
+septicemia: 
+toxemia: 
+obsolete pharyngitis: pharynx inflammation
+pulmonary edema: oedematous lungs
+diaphoresis: profuse perspiration
+dyspnea: breathing difficulty, breathlessness, difficulty breathing, labored respiration, shortness of breath
+hemorrhagic mediastinitis: 
+lymphadenitis: 
+hematogenous: 
+eschar: 
+gastroenteritis: 
+boil: furuncle
+muscle pain: myalgia
+muscle tightness: 
+eye symptom: 
+excessive tearing: 
+light sensitivity: 
+obsolete ulcerations: ulcer, ulcers
+pustule: 
+obsolete pneumonia: 
+arthritis: 
+obsolete osteomyelitis: 
+spondylitis: 
+ocular lesion: 
+meningitis: 
+chills: rigors
+sweaty: perspire
+malaise: 
+fatigue: 
+necrotic lesion: 
+lightheadedness: light-headedness
+constipation: 
+hoarseness: 
+behavioral symptom: 
+hyperactivity: 
+limited attention: 
+communication difficulty: 
+obsessive interests: 
+repetitive behavior: stimming
+intracranial hemorrhage: 
+intracerebral hemorrhage: 
+subdural hemorrhage: subdural hematoma
+airway stenosis: 
+apthous ulcer: aphthous stomatitis, canker sore
+anal abscess: 
+acholic stool: clay-colored bowel movement
+ageusia: loss of taste
+acquired color vision deficiency: 
+agitation: 
+anterior scleral inflammation: 
+barking croup cough: 
+blind spot: 
+blurred vision with haloes: 
+bloody diarrhea: 
+weight symptom: 
+abnormal weight loss: 
+chronic weight loss: 
+obsolete gain of weight: weight gain
+acute weight gain: 
+chronic weight gain: 
+overweight: obesity
+postnasal drainage: 
+abnormal scar formation: 
+abnormal wound healing: 
+bone conduction hyperacusis: 
+bone pain: 
+bronchospasm: 
+caseation: 
+chronic inflammation: 
+wet cough: productive cough
+poor wound healing: 
+concentration difficulty: 
+patches of hair loss with a black dot pattern: 
+chest discomfort: 
+chest tightness: 
+paroxysmal cough: 
+conjunctiva symptom: 
+conjunctival congestion: 
+conjunctival degeneration: 
+conjunctival suffusion: 
+conjunctival swelling: 
+contracture: 
+hair symptom: 
+corkscrew hair: 
+corneal scarring: 
+dark urine: 
+hair shedding: 
+balance symptom: 
+feeding problem: 
+descending muscle paralysis: 
+skin peeling: 
+delayed psychomotor development: 
+decreased tearing: 
+decreased metabolism: 
+hand weakness: 
+mammary gland inflammation: inflammation of mammary breast, mammitis
+severe mammary gland inflammation: 
+pharynx inflammation: 
+cerebrovascular accident: apoplexy, cerebral accident, cerebral hemorrhage
+bronchiole inflammation: 
+severe bronchiole inflammation: 
+suppurative bronchiole inflammation: 
+low white blood cell count: 
+outlet dysfunction constipation: 
+soft tissue necrosis: 
+blood pressure: 
+part_of: 
