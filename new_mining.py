@@ -137,7 +137,7 @@ import csv, os
 
 # Function to search PubMed
 def search_pubmed(term, max_results=10):
-    Entrez.email = "your-email@example.com"
+    Entrez.email = "youemail@example.com"
     handle = Entrez.esearch(db="pubmed", term=term, retmax=max_results)
     record = Entrez.read(handle)
     handle.close()
@@ -195,23 +195,32 @@ def save_to_csv(articles, filename):
         dict_writer.writeheader() 
         dict_writer.writerows(articles)
 
-term = "Tardive Dyskinesia"
-term=term.lower()
-ids = search_pubmed(term, max_results=999999)
-details = fetch_details(ids)
-mesh_terms, articles = extract_article_details(details)
-print(len(mesh_terms))
 
-print(len(articles))
-term_name = "_".join(term.split(" "))
+import pandas as pd
+symp_file="mesh_symptoms.csv"
+symp_df=pd.read_csv(symp_file, delimiter=';')
+symp_term=symp_df["Name"]
+symp_term=symp_term.loc[281:300]
+print(symp_term.head())
 
-if not os.path.exists(term_name):
-    os.mkdir(term_name)
+# term = "Prosopagnosia"
+for term in symp_term:
+    term=term.lower()
+    ids = search_pubmed(term, max_results=999999)
+    details = fetch_details(ids)
+    mesh_terms, articles = extract_article_details(details)
+    print(len(mesh_terms))
 
-with open(os.path.join(term_name, f'{term_name}.txt'), 'w') as f:
-    f.write(f"{term}\n")
-    for line in mesh_terms:
-        f.write(f"{line.lower()}\n")
+    print(len(articles))
+    term_name = "_".join(term.split(" "))
 
-save_to_csv(articles, os.path.join(term_name, f'{term_name}_articles.csv'))
+    if not os.path.exists(term_name):
+        os.mkdir(term_name)
+
+    with open(os.path.join(term_name, f'{term_name}.txt'), 'w') as f:
+        f.write(f"{term}\n")
+        for line in mesh_terms:
+            f.write(f"{line.lower()}\n")
+
+    save_to_csv(articles, os.path.join(term_name, f'{term_name}_articles.csv'))
 
