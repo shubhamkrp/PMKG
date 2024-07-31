@@ -105,7 +105,7 @@ import time
 symp_file="mesh_symptoms.csv"
 symp_df=pd.read_csv(symp_file, delimiter=';')
 symp_term=symp_df["Name"]
-symp_term=symp_term.loc[221:230]
+symp_term=symp_term.loc[229:230]
 print(symp_term.head())
 
 

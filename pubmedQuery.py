@@ -13,7 +13,7 @@ def fetch_terms(symptom):
     symptom_query = symptom.replace(" ", "+")
 
     # Construct the search query URL
-    search_url = f"{PUBMED_API_BASE_URL}esearch.fcgi?db=pubmed&term={symptom_query}[MeSH Terms]&retmax=199"
+    search_url = f"{PUBMED_API_BASE_URL}esearch.fcgi?db=pubmed&term={symptom_query}[MeSH Terms]&retmax=159"
 
     # Send the request to PubMed API
     response = requests.get(search_url)
@@ -56,7 +56,7 @@ symptom_df=pd.read_csv(symptom_file, delimiter=';')
 column_name="Name"
 symptom_term=symptom_df[column_name]
 
-symptom_term=symptom_term.loc[281:300]
+symptom_term=symptom_term.loc[431:]
 print(symptom_term.head(2))
 
 
