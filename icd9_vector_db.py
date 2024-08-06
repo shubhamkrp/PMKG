@@ -5,7 +5,7 @@ import re
 
 def read_icd9_cm_terms(file_path):
     icd9_terms = []
-    with open(file_path, 'r') as file:
+    with open(file_path, 'r', encoding="ISO-8859-1") as file:
         for line in file:
             # Use regular expression to split on multiple spaces
             parts = re.split(r'\s{2,}', line.strip())
@@ -22,7 +22,7 @@ icd9_terms = read_icd9_cm_terms(file_path)
 # model = SentenceTransformer('all-MiniLM-L6-v2')
 model = SentenceTransformer('dmis-lab/biobert-base-cased-v1.1')
 
-# Generate embeddings for ICD-10-CM terms
+# Generate embeddings for ICD-9-CM terms
 icd9_embeddings = model.encode(icd9_terms)
 
 # Set Up FAISS Vector Database
