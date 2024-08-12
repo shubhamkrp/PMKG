@@ -1,0 +1,82 @@
+[00-10]
+infectious disease
+[11-13]
+Parasitic diseases
+[14-20]
+Malignant neoplasms
+[21-23]
+Benign neoplasms
+[24-27]
+Endocrine, nutritional and metabolic diseases, and immunity disorders
+[28]
+Diseases of blood
+[29-31]
+Mental disorders
+[32-35]
+Disorders of central nervous system
+[36-38]
+Organ diseases
+[39-45]
+Diseases Of The Circulatory System 
+[46-51]
+Diseases Of The Respiratory System
+[52-57]
+Diseases Of The Digestive System
+[58-62]
+Diseases Of The Genitourinary System
+[63-66]
+Complications Of Pregnancy and Childbirth
+[67]
+Complications Of puerperium
+[68-70]
+Diseases Of The Skin And Subcutaneous Tissue
+[71-73]
+Diseases Of The Musculoskeletal System And Connective Tissue
+[74-75]
+Congenital anomalies
+[76-77]
+Certain Conditions Originating In The Perinatal Period
+[78]
+Symptoms
+[79]
+Findings and conditions
+[80-83]
+Fracture
+[84-95]
+Injury
+[96-99]
+Poisoning
+V01-V09
+Persons With Potential Health Hazards Related To Communicable Diseases
+V10-V19  
+Persons With Potential Health Hazards Related To Personal And Family History
+V20-V29  
+Persons Encountering Health Services In Circumstances Related To Reproduction And Development
+V30-V39  
+Liveborn Infants According To Type Of Birth
+V40-V49  
+Persons With A Condition Influencing Their Health Status
+V50-V59  
+Persons Encountering Health Services For Specific Procedures And Aftercare
+V60-V69  
+Persons Encountering Health Services In Other Circumstances
+V70-V82  
+Persons Without Reported Diagnosis Encountered During Examination And Investigation Of Individuals And Populations
+V83-V84  
+Genetics
+V85-V85  
+Body Mass Index
+V86-V86  
+Estrogen Receptor Status
+V87-V87  
+Other Specified Personal Exposures And History Presenting Hazards To Health
+V88-V88  
+Acquired Absence Of Other Organs And Tissue
+V89-V89  
+Other Suspected Conditions Not Found
+V90-V90  
+Retained Foreign Body
+V91-V91  
+Multiple Gestation Placenta Status
+E00-E09
+Supplementary Classification Of External Causes Of Injury And Poisoning
