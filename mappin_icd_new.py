@@ -46,7 +46,7 @@ def get_nearest_term(faiss_index, term, term_to_vector_mapping):
 # index_to_term_mapping = {v: k for k, v in term_to_vector_mapping.items()}
 
 # Directory containing the relation directories
-relation_dir = 'so'
+relation_dir = 'new_relation'
 
 # Initialize a dictionary to hold the results
 results = {}
@@ -80,11 +80,18 @@ for disease_dir in os.listdir(relation_dir):
                     # nearest_term = index_to_term_mapping[nearest_term_index]
                     if node1 not in results:
                         results[node1] = []
-                    results[node1].append({'disease': ''.join(nearest_term), 'pos_weight': pos_weight})
+                    # Check if the nearest_term is already mapped to node1
+                    existing_term = next((item for item in results[node1] if item['disease'] == nearest_term), None)
+                    
+                    if existing_term:
+                        if existing_term['pos_weight'] > pos_weight:
+                            existing_term['pos_weight'] = pos_weight
+                    else:
+                        results[node1].append({'disease': ''.join(nearest_term), 'pos_weight': pos_weight})
 
         # Save the results to a JSON file
         output_file = 'mapped_terms.json'
-        with open(output_file, 'w') as f:
+        with open(output_file, 'a') as f:
             json.dump(results, f, indent=4)
 
         print(f'Results saved to {output_file}')
