@@ -1,4 +1,4 @@
-Datasets
+# Datasets
 Symptom Data:
 Two sources: 
 1) MeSh Vocabulary (423 terms) - [C23.888] Signs and Symptoms branch in MeSH
@@ -21,7 +21,7 @@ https://www.icd10data.com/ICD10CM/Codes
 
 
 
-Implementation
+# Implementation
 
 1. Symptom data collection 
 
@@ -42,7 +42,7 @@ Input - MeSH vocabulary ('desc2024.xml') and branch_id to be extracted.
 Output - .csv file containing id and name as columns
 
 Usage - 
-# Set the branch ID prefix
+#Set the branch ID prefix
 branch_id = ‘C23.888’
 ...
 #python3 ./get_branch_mesh_tree.py
@@ -93,7 +93,7 @@ Input - MeSH vocabulary ('desc2024.xml') and branch_id to be extracted.
 Output - .csv file containing id and name as columns
 
 Usage - 
-# Set the branch ID prefix for diseases (e.g., 'C' for all diseases)
+#Set the branch ID prefix for diseases (e.g., 'C' for all diseases)
 branch_id = ‘C’
 ...
 #change file name accordingly
