@@ -1,0 +1,1147 @@
+{
+  "adenitis": {
+    "cui_T184": [
+      "C0001416"
+    ],
+    "cui_T047": [
+      "C0024205"
+    ]
+  },
+  "ataxia": {
+    "cui_T184": [
+      "C0004134"
+    ],
+    "cui_T047": [
+      "C0007758"
+    ]
+  },
+  "bloodshot eye": {
+    "cui_T184": [
+      "C0005858"
+    ],
+    "cui_T047": [
+      "C0155169"
+    ]
+  },
+  "wasting syndrome": {
+    "cui_T184": [
+      "C0006625"
+    ],
+    "cui_T047": [
+      "C0043046"
+    ]
+  },
+  "wasting": {
+    "cui_T184": [
+      "C0006625"
+    ],
+    "cui_T047": [
+      "C0235394"
+    ]
+  },
+  "syphilis primary": {
+    "cui_T184": [
+      "C0007939"
+    ],
+    "cui_T047": [
+      "C2931317"
+    ]
+  },
+  "primary syphilis": {
+    "cui_T184": [
+      "C0007939"
+    ],
+    "cui_T047": [
+      "C2931317"
+    ]
+  },
+  "dystonia": {
+    "cui_T184": [
+      "C0013421"
+    ],
+    "cui_T047": [
+      "C0393593"
+    ]
+  },
+  "exanthem": {
+    "cui_T184": [
+      "C0015230",
+      "C5779628"
+    ],
+    "cui_T047": [
+      "C5779629"
+    ]
+  },
+  "rash": {
+    "cui_T184": [
+      "C0015230",
+      "C5779628"
+    ],
+    "cui_T047": [
+      "C5779629"
+    ]
+  },
+  "skin rash": {
+    "cui_T184": [
+      "C0015230",
+      "C5779628"
+    ],
+    "cui_T047": [
+      "C5779629"
+    ]
+  },
+  "pruritic dermatitis": {
+    "cui_T184": [
+      "C0033774"
+    ],
+    "cui_T047": [
+      "C5703473"
+    ]
+  },
+  "epileptic seizure": {
+    "cui_T184": [
+      "C0036572"
+    ],
+    "cui_T047": [
+      "C0014544",
+      "C4317109"
+    ]
+  },
+  "muscle spasms": {
+    "cui_T184": [
+      "C0037763"
+    ],
+    "cui_T047": [
+      "C3887506"
+    ]
+  },
+  "tonic pupil": {
+    "cui_T184": [
+      "C0040416"
+    ],
+    "cui_T047": [
+      "C0001519"
+    ]
+  },
+  "adie pupil": {
+    "cui_T184": [
+      "C0040416"
+    ],
+    "cui_T047": [
+      "C0001519"
+    ]
+  },
+  "poorly reacting pupils": {
+    "cui_T184": [
+      "C0040416"
+    ],
+    "cui_T047": [
+      "C0001519"
+    ]
+  },
+  "retrocollis": {
+    "cui_T184": [
+      "C0040485"
+    ],
+    "cui_T047": [
+      "C3887667"
+    ]
+  },
+  "chronic pain": {
+    "cui_T184": [
+      "C0150055"
+    ],
+    "cui_T047": [
+      "C5700083"
+    ]
+  },
+  "muscle weakness": {
+    "cui_T184": [
+      "C0151786"
+    ],
+    "cui_T047": [
+      "C0030552"
+    ]
+  },
+  "dry skin": {
+    "cui_T184": [
+      "C0151908"
+    ],
+    "cui_T047": [
+      "C0043345"
+    ]
+  },
+  "anhydrotic skin": {
+    "cui_T184": [
+      "C0151908"
+    ],
+    "cui_T047": [
+      "C0043345"
+    ]
+  },
+  "atypical facial pain": {
+    "cui_T184": [
+      "C0154729"
+    ],
+    "cui_T047": [
+      "C5191641"
+    ]
+  },
+  "tinnitus aurium": {
+    "cui_T184": [
+      "C0155533"
+    ],
+    "cui_T047": [
+      "C0040264"
+    ]
+  },
+  "puerperal fever": {
+    "cui_T184": [
+      "C0157536"
+    ],
+    "cui_T047": [
+      "C0269936",
+      "C1331543"
+    ]
+  },
+  "fever puerperal": {
+    "cui_T184": [
+      "C0157536"
+    ],
+    "cui_T047": [
+      "C0269936"
+    ]
+  },
+  "puerperal pyrexia": {
+    "cui_T184": [
+      "C0157536"
+    ],
+    "cui_T047": [
+      "C1331543"
+    ]
+  },
+  "childbed fever": {
+    "cui_T184": [
+      "C0157536"
+    ],
+    "cui_T047": [
+      "C0269936",
+      "C1331543"
+    ]
+  },
+  "welt": {
+    "cui_T184": [
+      "C0221232"
+    ],
+    "cui_T047": [
+      "C0042109"
+    ]
+  },
+  "hive": {
+    "cui_T184": [
+      "C0221232"
+    ],
+    "cui_T047": [
+      "C0042109"
+    ]
+  },
+  "loss of appetite": {
+    "cui_T184": [
+      "C0232462",
+      "C0426579"
+    ],
+    "cui_T047": [
+      "C0003123"
+    ]
+  },
+  "startle syndrome": {
+    "cui_T184": [
+      "C0234166"
+    ],
+    "cui_T047": [
+      "C0085292"
+    ]
+  },
+  "epileptic aura": {
+    "cui_T184": [
+      "C0234542"
+    ],
+    "cui_T047": [
+      "C5780841"
+    ]
+  },
+  "remittent fever": {
+    "cui_T184": [
+      "C0239575"
+    ],
+    "cui_T047": [
+      "C0024530"
+    ]
+  },
+  "fever, remittent": {
+    "cui_T184": [
+      "C0239575"
+    ],
+    "cui_T047": [
+      "C0024530"
+    ]
+  },
+  "thickened nails": {
+    "cui_T184": [
+      "C0240444"
+    ],
+    "cui_T047": [
+      "C0263537"
+    ]
+  },
+  "prostatic pain": {
+    "cui_T184": [
+      "C0240812"
+    ],
+    "cui_T047": [
+      "C2903015"
+    ]
+  },
+  "pruritus of scalp": {
+    "cui_T184": [
+      "C0240941"
+    ],
+    "cui_T047": [
+      "C1274146"
+    ]
+  },
+  "petechial hemorrhage": {
+    "cui_T184": [
+      "C0241144"
+    ],
+    "cui_T047": [
+      "C0031256"
+    ]
+  },
+  "petechiae": {
+    "cui_T184": [
+      "C0241144"
+    ],
+    "cui_T047": [
+      "C0031256"
+    ]
+  },
+  "petechia": {
+    "cui_T184": [
+      "C0241144"
+    ],
+    "cui_T047": [
+      "C0031256"
+    ]
+  },
+  "petechial rash": {
+    "cui_T184": [
+      "C0241144"
+    ],
+    "cui_T047": [
+      "C0031256"
+    ]
+  },
+  "rash petechial": {
+    "cui_T184": [
+      "C0241144"
+    ],
+    "cui_T047": [
+      "C0031256"
+    ]
+  },
+  "petechial eruption": {
+    "cui_T184": [
+      "C0241144"
+    ],
+    "cui_T047": [
+      "C0031256"
+    ]
+  },
+  "sore throat": {
+    "cui_T184": [
+      "C0242429"
+    ],
+    "cui_T047": [
+      "C0031350"
+    ]
+  },
+  "throat soreness": {
+    "cui_T184": [
+      "C0242429"
+    ],
+    "cui_T047": [
+      "C0031350"
+    ]
+  },
+  "drop attacks": {
+    "cui_T184": [
+      "C0259813"
+    ],
+    "cui_T047": [
+      "C0270846"
+    ]
+  },
+  "dry eye": {
+    "cui_T184": [
+      "C0314719"
+    ],
+    "cui_T047": [
+      "C0013238"
+    ]
+  },
+  "dry eyes": {
+    "cui_T184": [
+      "C0314719"
+    ],
+    "cui_T047": [
+      "C0022575",
+      "C0013238"
+    ]
+  },
+  "eyes dry": {
+    "cui_T184": [
+      "C0314719"
+    ],
+    "cui_T047": [
+      "C0043349"
+    ]
+  },
+  "xeroma": {
+    "cui_T184": [
+      "C0314719"
+    ],
+    "cui_T047": [
+      "C0043349"
+    ]
+  },
+  "pseudorheumatoid nodule": {
+    "cui_T184": [
+      "C0333410"
+    ],
+    "cui_T047": [
+      "C1304166"
+    ]
+  },
+  "deep granuloma annulare": {
+    "cui_T184": [
+      "C0333410"
+    ],
+    "cui_T047": [
+      "C1304166"
+    ]
+  },
+  "influenza-like illness": {
+    "cui_T184": [
+      "C0392171"
+    ],
+    "cui_T047": [
+      "C0521839"
+    ]
+  },
+  "infrequent bowel movements": {
+    "cui_T184": [
+      "C0401149"
+    ],
+    "cui_T047": [
+      "C1167677"
+    ]
+  },
+  "ep - intermittent esophoria": {
+    "cui_T184": [
+      "C0423075"
+    ],
+    "cui_T047": [
+      "C0152216"
+    ]
+  },
+  "abnormal sensation": {
+    "cui_T184": [
+      "C0423571"
+    ],
+    "cui_T047": [
+      "C0030554"
+    ]
+  },
+  "anorexia": {
+    "cui_T184": [
+      "C0426579"
+    ],
+    "cui_T047": [
+      "C0003123"
+    ]
+  },
+  "appetite lost": {
+    "cui_T184": [
+      "C0426579"
+    ],
+    "cui_T047": [
+      "C0003123"
+    ]
+  },
+  "no appetite": {
+    "cui_T184": [
+      "C0426579"
+    ],
+    "cui_T047": [
+      "C0003123"
+    ]
+  },
+  "lip sore": {
+    "cui_T184": [
+      "C0451633"
+    ],
+    "cui_T047": [
+      "C0267033"
+    ]
+  },
+  "tonic-clonic convulsion": {
+    "cui_T184": [
+      "C0494475"
+    ],
+    "cui_T047": [
+      "C0014549"
+    ]
+  },
+  "generalized convulsion": {
+    "cui_T184": [
+      "C0494475"
+    ],
+    "cui_T047": [
+      "C0234533"
+    ]
+  },
+  "generalised convulsion": {
+    "cui_T184": [
+      "C0494475"
+    ],
+    "cui_T047": [
+      "C0234533"
+    ]
+  },
+  "grand mal seizure": {
+    "cui_T184": [
+      "C0494475"
+    ],
+    "cui_T047": [
+      "C0014549"
+    ]
+  },
+  "grand mal": {
+    "cui_T184": [
+      "C0494475"
+    ],
+    "cui_T047": [
+      "C0014549"
+    ]
+  },
+  "irritable infant": {
+    "cui_T184": [
+      "C0497135"
+    ],
+    "cui_T047": [
+      "C0270267"
+    ]
+  },
+  "neoplasm related pain": {
+    "cui_T184": [
+      "C0596240"
+    ],
+    "cui_T047": [
+      "C1719395"
+    ]
+  },
+  "morvan fibrillary chorea": {
+    "cui_T184": [
+      "C0684219"
+    ],
+    "cui_T047": [
+      "C3854373"
+    ]
+  },
+  "staggering": {
+    "cui_T184": [
+      "C0701824"
+    ],
+    "cui_T047": [
+      "C0344191"
+    ]
+  },
+  "motor seizure": {
+    "cui_T184": [
+      "C0751494"
+    ],
+    "cui_T047": [
+      "C5702914"
+    ]
+  },
+  "stiffness of joint, not elsewhere classified, multiple sites": {
+    "cui_T184": [
+      "C0838231"
+    ],
+    "cui_T047": [
+      "C0158204"
+    ]
+  },
+  "stiffness of joint, not elsewhere classified, shoulder region": {
+    "cui_T184": [
+      "C0838232"
+    ],
+    "cui_T047": [
+      "C0158196"
+    ]
+  },
+  "stiffness of joint, not elsewhere classified, upper arm": {
+    "cui_T184": [
+      "C0838233"
+    ],
+    "cui_T047": [
+      "C0158197"
+    ]
+  },
+  "stiffness of joint, not elsewhere classified, forearm": {
+    "cui_T184": [
+      "C0838234"
+    ],
+    "cui_T047": [
+      "C0158198"
+    ]
+  },
+  "stiffness of joint, not elsewhere classified, hand": {
+    "cui_T184": [
+      "C0838235"
+    ],
+    "cui_T047": [
+      "C0158199"
+    ]
+  },
+  "stiffness of joint, not elsewhere classified, pelvic region and thigh": {
+    "cui_T184": [
+      "C0838236"
+    ],
+    "cui_T047": [
+      "C0158200"
+    ]
+  },
+  "stiffness of joint, not elsewhere classified, lower leg": {
+    "cui_T184": [
+      "C0838237"
+    ],
+    "cui_T047": [
+      "C0158201"
+    ]
+  },
+  "stiffness of joint, not elsewhere classified, ankle and foot": {
+    "cui_T184": [
+      "C0838238"
+    ],
+    "cui_T047": [
+      "C0158202"
+    ]
+  },
+  "stiffness of joint, not elsewhere classified, site unspecified": {
+    "cui_T184": [
+      "C0838240"
+    ],
+    "cui_T047": [
+      "C0158195"
+    ]
+  },
+  "upper respiratory tract inflammation": {
+    "cui_T184": [
+      "C0877266"
+    ],
+    "cui_T047": [
+      "C0041912"
+    ]
+  },
+  "nasal catarrh": {
+    "cui_T184": [
+      "C1260880"
+    ],
+    "cui_T047": [
+      "C0035455"
+    ]
+  },
+  "urticarial vasculitis": {
+    "cui_T184": [
+      "C1304408"
+    ],
+    "cui_T047": [
+      "C0343206"
+    ]
+  },
+  "vasculitis urticarial": {
+    "cui_T184": [
+      "C1304408"
+    ],
+    "cui_T047": [
+      "C0343206"
+    ]
+  },
+  "blood in stool": {
+    "cui_T184": [
+      "C1321898"
+    ],
+    "cui_T047": [
+      "C0018932"
+    ]
+  },
+  "hematochezia": {
+    "cui_T184": [
+      "C1321898"
+    ],
+    "cui_T047": [
+      "C0018932"
+    ]
+  },
+  "haematochezia": {
+    "cui_T184": [
+      "C1321898"
+    ],
+    "cui_T047": [
+      "C0018932"
+    ]
+  },
+  "passage of bloody stools": {
+    "cui_T184": [
+      "C1321898"
+    ],
+    "cui_T047": [
+      "C0018932"
+    ]
+  },
+  "bloody stool": {
+    "cui_T184": [
+      "C1321898"
+    ],
+    "cui_T047": [
+      "C0018932"
+    ]
+  },
+  "blood in faeces": {
+    "cui_T184": [
+      "C1321898"
+    ],
+    "cui_T047": [
+      "C0018932"
+    ]
+  },
+  "blood in feces": {
+    "cui_T184": [
+      "C1321898"
+    ],
+    "cui_T047": [
+      "C0018932"
+    ]
+  },
+  "faeces: blood": {
+    "cui_T184": [
+      "C1321898"
+    ],
+    "cui_T047": [
+      "C0018932"
+    ]
+  },
+  "feces: blood": {
+    "cui_T184": [
+      "C1321898"
+    ],
+    "cui_T047": [
+      "C0018932"
+    ]
+  },
+  "physiologic jaundice in newborn": {
+    "cui_T184": [
+      "C1565887"
+    ],
+    "cui_T047": [
+      "C0022353"
+    ]
+  },
+  "photopsia": {
+    "cui_T184": [
+      "C1705500"
+    ],
+    "cui_T047": [
+      "C0085635"
+    ]
+  },
+  "vasovagal reaction": {
+    "cui_T184": [
+      "C1710621"
+    ],
+    "cui_T047": [
+      "C0042420"
+    ]
+  },
+  "yellow nails": {
+    "cui_T184": [
+      "C1768507"
+    ],
+    "cui_T047": [
+      "C0221348"
+    ]
+  },
+  "physiological tremor": {
+    "cui_T184": [
+      "C1960562"
+    ],
+    "cui_T047": [
+      "C0270736"
+    ]
+  },
+  "male infertility": {
+    "cui_T184": [
+      "C2048468"
+    ],
+    "cui_T047": [
+      "C0021364"
+    ]
+  },
+  "ascending paralysis": {
+    "cui_T184": [
+      "C2127436"
+    ],
+    "cui_T047": [
+      "C3542501"
+    ]
+  },
+  "sleep paralysis": {
+    "cui_T184": [
+      "C2183892"
+    ],
+    "cui_T047": [
+      "C0456511"
+    ]
+  },
+  "impotence": {
+    "cui_T184": [
+      "C2187990"
+    ],
+    "cui_T047": [
+      "C0242350"
+    ]
+  },
+  "generalized muscle wasting": {
+    "cui_T184": [
+      "C2219809"
+    ],
+    "cui_T047": [
+      "C1838114"
+    ]
+  },
+  "cranial dystonia": {
+    "cui_T184": [
+      "C2242577"
+    ],
+    "cui_T047": [
+      "C1843266"
+    ]
+  },
+  "paresthesia": {
+    "cui_T184": [
+      "C2242996"
+    ],
+    "cui_T047": [
+      "C0030554"
+    ]
+  },
+  "paraesthesia": {
+    "cui_T184": [
+      "C2242996"
+    ],
+    "cui_T047": [
+      "C0030554"
+    ]
+  },
+  "tingling": {
+    "cui_T184": [
+      "C2242996"
+    ],
+    "cui_T047": [
+      "C0030554"
+    ]
+  },
+  "discomfort of vulva": {
+    "cui_T184": [
+      "C2607896"
+    ],
+    "cui_T047": [
+      "C0406670"
+    ]
+  },
+  "vulval discomfort": {
+    "cui_T184": [
+      "C2607896"
+    ],
+    "cui_T047": [
+      "C0406670"
+    ]
+  },
+  "vulvar discomfort": {
+    "cui_T184": [
+      "C2607896"
+    ],
+    "cui_T047": [
+      "C0406670"
+    ]
+  },
+  "stool soiling": {
+    "cui_T184": [
+      "C2945606"
+    ],
+    "cui_T047": [
+      "C0015732"
+    ]
+  },
+  "oic": {
+    "cui_T184": [
+      "C3160897"
+    ],
+    "cui_T047": [
+      "C0268358"
+    ]
+  },
+  "loss of vision": {
+    "cui_T184": [
+      "C3665346"
+    ],
+    "cui_T047": [
+      "C0456909",
+      "C0042798"
+    ]
+  },
+  "vision loss": {
+    "cui_T184": [
+      "C3665346"
+    ],
+    "cui_T047": [
+      "C0456909"
+    ]
+  },
+  "fever recurrent": {
+    "cui_T184": [
+      "C3714772"
+    ],
+    "cui_T047": [
+      "C0035021"
+    ]
+  },
+  "recurrent fever": {
+    "cui_T184": [
+      "C3714772"
+    ],
+    "cui_T047": [
+      "C0035021"
+    ]
+  },
+  "crf": {
+    "cui_T184": [
+      "C4274302"
+    ],
+    "cui_T047": [
+      "C0022661"
+    ]
+  },
+  "swollen lymph nodes": {
+    "cui_T184": [
+      "C4282165"
+    ],
+    "cui_T047": [
+      "C0497156"
+    ]
+  },
+  "swelling of lymph nodes": {
+    "cui_T184": [
+      "C4282165"
+    ],
+    "cui_T047": [
+      "C0497156"
+    ]
+  },
+  "adenopathy": {
+    "cui_T184": [
+      "C4282165"
+    ],
+    "cui_T047": [
+      "C0497156"
+    ]
+  },
+  "adenopathies": {
+    "cui_T184": [
+      "C4282165"
+    ],
+    "cui_T047": [
+      "C0497156"
+    ]
+  },
+  "enlargement of lymph nodes": {
+    "cui_T184": [
+      "C4282165"
+    ],
+    "cui_T047": [
+      "C0497156"
+    ]
+  },
+  "lymph node enlargement": {
+    "cui_T184": [
+      "C4282165"
+    ],
+    "cui_T047": [
+      "C0497156"
+    ]
+  },
+  "lymphadenopathy": {
+    "cui_T184": [
+      "C4282165"
+    ],
+    "cui_T047": [
+      "C0497156"
+    ]
+  },
+  "lymph node enlarged": {
+    "cui_T184": [
+      "C4282165"
+    ],
+    "cui_T047": [
+      "C0497156"
+    ]
+  },
+  "enlarged lymph nodes": {
+    "cui_T184": [
+      "C4282165"
+    ],
+    "cui_T047": [
+      "C0497156"
+    ]
+  },
+  "swollen glands": {
+    "cui_T184": [
+      "C4282165"
+    ],
+    "cui_T047": [
+      "C0497156"
+    ]
+  },
+  "swollen gland": {
+    "cui_T184": [
+      "C4282165"
+    ],
+    "cui_T047": [
+      "C0497156"
+    ]
+  },
+  "enlarged glands": {
+    "cui_T184": [
+      "C4282165"
+    ],
+    "cui_T047": [
+      "C0497156"
+    ]
+  },
+  "swollen lymph glands": {
+    "cui_T184": [
+      "C4282165"
+    ],
+    "cui_T047": [
+      "C0497156"
+    ]
+  },
+  "lymphadenomegaly": {
+    "cui_T184": [
+      "C4282165"
+    ],
+    "cui_T047": [
+      "C0497156"
+    ]
+  },
+  "myoclonic seizures": {
+    "cui_T184": [
+      "C4317123"
+    ],
+    "cui_T047": [
+      "C0014550"
+    ]
+  },
+  "myoclonic seizure": {
+    "cui_T184": [
+      "C4317123"
+    ],
+    "cui_T047": [
+      "C0014550"
+    ]
+  },
+  "eds": {
+    "cui_T184": [
+      "C4551761"
+    ],
+    "cui_T047": [
+      "C0013720"
+    ]
+  },
+  "tietze syndrome": {
+    "cui_T184": [
+      "C5238797"
+    ],
+    "cui_T047": [
+      "C0040213"
+    ]
+  },
+  "livedo racemosa": {
+    "cui_T184": [
+      "C5441660"
+    ],
+    "cui_T047": [
+      "C0085642"
+    ]
+  },
+  "eruption": {
+    "cui_T184": [
+      "C5779628"
+    ],
+    "cui_T047": [
+      "C5779629"
+    ]
+  },
+  "skin eruption": {
+    "cui_T184": [
+      "C5779628"
+    ],
+    "cui_T047": [
+      "C5779629"
+    ]
+  },
+  "breaking out - eruption": {
+    "cui_T184": [
+      "C5779628"
+    ],
+    "cui_T047": [
+      "C5779629"
+    ]
+  },
+  "cutaneous eruption": {
+    "cui_T184": [
+      "C5779628"
+    ],
+    "cui_T047": [
+      "C5779629"
+    ]
+  },
+  "sinus congestion": {
+    "cui_T184": [
+      "C5848077"
+    ],
+    "cui_T047": [
+      "C0152029"
+    ]
+  },
+  "auditory alteration": {
+    "cui_T184": [
+      "C5848262"
+    ],
+    "cui_T047": [
+      "C5848261"
+    ]
+  }
+}

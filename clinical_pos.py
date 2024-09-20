@@ -1,11 +1,12 @@
 import nltk
 
 # Download the necessary NLTK resources
-nltk.download('averaged_perceptron_tagger')
-nltk.download('punkt')
+# nltk.download('averaged_perceptron_tagger')
+# nltk.download('punkt')
 
 # Define the phrase
-phrase = "Salmonella sepsis"
+# phrase = "Idiopathic sleep related nonobstructive alveolar hypoventilation"
+phrase = "Chest pain, shortnness of breath, and common cold are the findings on the effects of fever, asthma, and other respiratory diseases."
 
 # Tokenize the phrase
 tokens = nltk.word_tokenize(phrase)
