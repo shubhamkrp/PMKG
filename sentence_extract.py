@@ -80,6 +80,73 @@
 
 
 
+# import csv
+# import re
+# import nltk
+# from nltk.tokenize import word_tokenize, sent_tokenize
+
+# # Ensure the necessary NLTK models are downloaded
+# nltk.download('punkt')
+
+# # Function to find MeSH terms in a sentence (O(1) lookup using set)
+# def find_mesh_terms(sentence, mesh_terms_set):
+#     # Tokenize the sentence into words
+#     words = set(word_tokenize(sentence.lower()))  # Tokenized words as a set
+#     found_terms = []
+    
+#     # Check if any of the MeSH terms are present in the words
+#     for term in mesh_terms_set:
+#         term_tokens = set(word_tokenize(term.lower()))
+#         if term_tokens.issubset(words):
+#             found_terms.append(term)
+    
+#     return found_terms
+
+# # Read MeSH terms from CSV file
+# def load_mesh_terms(mesh_csv_path):
+#     mesh_terms_set = set()
+#     with open(mesh_csv_path, mode='r', encoding='utf-8') as file:
+#         reader = csv.DictReader(file)
+#         for row in reader:
+#             mesh_terms_set.add(row['Mesh terms'])
+#     return mesh_terms_set
+
+# # Process the PubMed data CSV file
+# def process_pubmed_data(pubmed_csv_path, mesh_terms_set, output_csv_path):
+#     with open(pubmed_csv_path, mode='r', encoding='utf-8') as file:
+#         reader = csv.DictReader(file)
+#         with open(output_csv_path, mode='w', newline='', encoding='utf-8') as output_file:
+#             fieldnames = ['PMID', 'Sentence', 'Found Terms']
+#             writer = csv.DictWriter(output_file, fieldnames=fieldnames)
+#             writer.writeheader()
+
+#             for row in reader:
+#                 pmid = row['PMID']
+#                 title = row['Title']
+#                 abstract = row['Abstract']
+
+#                 # Split title and abstract into sentences
+#                 sentences = sent_tokenize(title) + sent_tokenize(abstract)
+
+#                 # Search for MeSH terms in each sentence
+#                 for sentence in sentences:
+#                     found_terms = find_mesh_terms(sentence, mesh_terms_set)
+#                     if len(found_terms) >= 2:  # If two or more MeSH terms are found
+#                         writer.writerow({'PMID': pmid, 'Sentence': sentence, 'Found Terms': ', '.join(found_terms)})
+
+# # File paths
+# pubmed_csv_path = 'pubmed_articles.csv'  # PubMed CSV file
+# mesh_csv_path = 'cleaned_mesh_terms.csv'     # MeSH terms CSV file
+# output_csv_path = 'output_sentences_with_mesh.csv'  # Output file
+
+# # Load MeSH terms and process PubMed data
+# mesh_terms_set = load_mesh_terms(mesh_csv_path)
+# process_pubmed_data(pubmed_csv_path, mesh_terms_set, output_csv_path)
+
+# print("Processing complete. Results saved to:", output_csv_path)
+
+
+
 import csv
 import re
 import nltk
@@ -88,35 +155,50 @@ from nltk.tokenize import word_tokenize, sent_tokenize
 # Ensure the necessary NLTK models are downloaded
 nltk.download('punkt')
 
-# Function to find MeSH terms in a sentence (O(1) lookup using set)
-def find_mesh_terms(sentence, mesh_terms_set):
-    # Tokenize the sentence into words
+# Function to find terms in a sentence (O(1) lookup using sets)
+def find_terms(sentence, umls_terms_set, icd9_terms_set):
     words = set(word_tokenize(sentence.lower()))  # Tokenized words as a set
-    found_terms = []
-    
-    # Check if any of the MeSH terms are present in the words
-    for term in mesh_terms_set:
+    umls_found_terms = []
+    icd9_found_terms = []
+
+    # Check if any UMLS terms are present in the words
+    for term in umls_terms_set:
         term_tokens = set(word_tokenize(term.lower()))
         if term_tokens.issubset(words):
-            found_terms.append(term)
-    
-    return found_terms
+            umls_found_terms.append(term)
 
-# Read MeSH terms from CSV file
-def load_mesh_terms(mesh_csv_path):
-    mesh_terms_set = set()
-    with open(mesh_csv_path, mode='r', encoding='utf-8') as file:
+    # Check if any ICD-9 terms are present in the words
+    for term in icd9_terms_set:
+        term_tokens = set(word_tokenize(term.lower()))
+        if term_tokens.issubset(words):
+            icd9_found_terms.append(term)
+
+    return umls_found_terms, icd9_found_terms
+
+# Read terms from UMLS CSV file
+def load_umls_terms(umls_csv_path):
+    umls_terms_set = set()
+    with open(umls_csv_path, mode='r', encoding='utf-8') as file:
         reader = csv.DictReader(file)
         for row in reader:
-            mesh_terms_set.add(row['Mesh terms'])
-    return mesh_terms_set
+            umls_terms_set.add(row['term'])
+    return umls_terms_set
+
+# Read ICD-9 terms from text file
+def load_icd9_terms(icd9_csv_path):
+    icd9_terms_set = set()
+    with open(icd9_csv_path, mode='r', encoding='utf-8') as file:
+        reader = csv.DictReader(file)
+        for row in reader:
+            icd9_terms_set.add(row['Description'])
+    return icd9_terms_set
 
 # Process the PubMed data CSV file
-def process_pubmed_data(pubmed_csv_path, mesh_terms_set, output_csv_path):
+def process_pubmed_data(pubmed_csv_path, umls_terms_set, icd9_terms_set, output_csv_path):
     with open(pubmed_csv_path, mode='r', encoding='utf-8') as file:
         reader = csv.DictReader(file)
         with open(output_csv_path, mode='w', newline='', encoding='utf-8') as output_file:
-            fieldnames = ['PMID', 'Sentence', 'Found Terms']
+            fieldnames = ['PMID', 'Sentence', 'UMLS Found Terms', 'ICD-9 Found Terms']
             writer = csv.DictWriter(output_file, fieldnames=fieldnames)
             writer.writeheader()
 
@@ -128,22 +210,27 @@ def process_pubmed_data(pubmed_csv_path, mesh_terms_set, output_csv_path):
                 # Split title and abstract into sentences
                 sentences = sent_tokenize(title) + sent_tokenize(abstract)
 
-                # Search for MeSH terms in each sentence
+                # Search for terms in each sentence
                 for sentence in sentences:
-                    found_terms = find_mesh_terms(sentence, mesh_terms_set)
-                    if len(found_terms) >= 2:  # If two or more MeSH terms are found
-                        writer.writerow({'PMID': pmid, 'Sentence': sentence, 'Found Terms': ', '.join(found_terms)})
+                    umls_found_terms, icd9_found_terms = find_terms(sentence, umls_terms_set, icd9_terms_set)
+                    if umls_found_terms and icd9_found_terms:  # If one UMLS and one ICD-9 term are found
+                        writer.writerow({
+                            'PMID': pmid,
+                            'Sentence': sentence,
+                            'UMLS Found Terms': ', '.join(umls_found_terms),
+                            'ICD-9 Found Terms': ', '.join(icd9_found_terms)
+                        })
 
 # File paths
-pubmed_csv_path = 'pubmed_articles.csv'  # PubMed CSV file
-mesh_csv_path = 'cleaned_mesh_terms.csv'     # MeSH terms CSV file
-output_csv_path = 'output_sentences_with_mesh.csv'  # Output file
+pubmed_csv_path = 'pubmed_articles.csv'       # PubMed CSV file
+umls_csv_path = 'umls_terms_T184.csv'         # UMLS terms CSV file
+icd9_csv_path = 'icd9_cm_names.csv'         # ICD-9 terms CSV file
+output_csv_path = 'output_sentences_with_terms.csv'  # Output file
 
-# Load MeSH terms and process PubMed data
-mesh_terms_set = load_mesh_terms(mesh_csv_path)
-process_pubmed_data(pubmed_csv_path, mesh_terms_set, output_csv_path)
+# Load UMLS and ICD-9 terms and process PubMed data
+umls_terms_set = load_umls_terms(umls_csv_path)
+icd9_terms_set = load_icd9_terms(icd9_csv_path)
+process_pubmed_data(pubmed_csv_path, umls_terms_set, icd9_terms_set, output_csv_path)
 
 print("Processing complete. Results saved to:", output_csv_path)
-
-
 
