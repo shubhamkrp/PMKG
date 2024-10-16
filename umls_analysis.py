@@ -149,74 +149,117 @@
 
 
 
-import csv
-from collections import defaultdict
+# import csv
+# from collections import defaultdict
 
-def read_csv(file_path, term_column):
-    terms = set()
-    with open(file_path, 'r', encoding='utf-8') as csvfile:
-        reader = csv.DictReader(csvfile)
-        for row in reader:
-            terms.add(row[term_column].lower())
-    return terms
+# def read_csv(file_path, term_column):
+#     terms = set()
+#     with open(file_path, 'r', encoding='utf-8') as csvfile:
+#         reader = csv.DictReader(csvfile)
+#         for row in reader:
+#             terms.add(row[term_column].lower())
+#     return terms
 
-def compare_terms(mesh_terms, umls_disease_terms, umls_symptom_terms):
-    all_umls_terms = umls_disease_terms.union(umls_symptom_terms)
+# def compare_terms(mesh_terms, umls_disease_terms, umls_symptom_terms):
+#     all_umls_terms = umls_disease_terms.union(umls_symptom_terms)
     
-    overlapping = mesh_terms.intersection(all_umls_terms)
-    only_in_mesh = mesh_terms - all_umls_terms
-    only_in_umls = all_umls_terms - mesh_terms
+#     overlapping = mesh_terms.intersection(all_umls_terms)
+#     only_in_mesh = mesh_terms - all_umls_terms
+#     only_in_umls = all_umls_terms - mesh_terms
     
-    umls_source = defaultdict(set)
-    for term in all_umls_terms:
-        if term in umls_disease_terms:
-            umls_source[term].add('disease')
-        if term in umls_symptom_terms:
-            umls_source[term].add('symptom')
+#     umls_source = defaultdict(set)
+#     for term in all_umls_terms:
+#         if term in umls_disease_terms:
+#             umls_source[term].add('disease')
+#         if term in umls_symptom_terms:
+#             umls_source[term].add('symptom')
     
-    return overlapping, only_in_mesh, only_in_umls, umls_source
+#     return overlapping, only_in_mesh, only_in_umls, umls_source
 
-def write_results(file_path, terms, header):
-    with open(file_path, 'w', encoding='utf-8', newline='') as csvfile:
-        writer = csv.writer(csvfile)
-        writer.writerow([header])
-        for term in sorted(terms):
-            writer.writerow([term])
+# def write_results(file_path, terms, header):
+#     with open(file_path, 'w', encoding='utf-8', newline='') as csvfile:
+#         writer = csv.writer(csvfile)
+#         writer.writerow([header])
+#         for term in sorted(terms):
+#             writer.writerow([term])
 
-def write_umls_results(file_path, terms, umls_source):
-    with open(file_path, 'w', encoding='utf-8', newline='') as csvfile:
-        writer = csv.writer(csvfile)
-        writer.writerow(['Term', 'UMLS Source'])
-        for term in sorted(terms):
-            writer.writerow([term, ', '.join(sorted(umls_source[term]))])
+# def write_umls_results(file_path, terms, umls_source):
+#     with open(file_path, 'w', encoding='utf-8', newline='') as csvfile:
+#         writer = csv.writer(csvfile)
+#         writer.writerow(['Term', 'UMLS Source'])
+#         for term in sorted(terms):
+#             writer.writerow([term, ', '.join(sorted(umls_source[term]))])
 
-# File paths
-mesh_file = 'mesh_disease_terms.csv'
-umls_disease_file = 'umls_terms_T047.csv'
-umls_symptom_file = 'umls_terms_T184.csv'
+# # File paths
+# mesh_file = 'mesh_disease_terms.csv'
+# umls_disease_file = 'umls_terms_T047.csv'
+# umls_symptom_file = 'umls_terms_T184.csv'
 
-# Column names containing the terms in each file
-mesh_column = 'Disease Name'  # replace with actual column name
-umls_disease_column = 'term'  # replace with actual column name
-umls_symptom_column = 'term'  # replace with actual column name
+# # Column names containing the terms in each file
+# mesh_column = 'Disease Name'  # replace with actual column name
+# umls_disease_column = 'term'  # replace with actual column name
+# umls_symptom_column = 'term'  # replace with actual column name
 
-# Read terms
-mesh_terms = read_csv(mesh_file, mesh_column)
-umls_disease_terms = read_csv(umls_disease_file, umls_disease_column)
-umls_symptom_terms = read_csv(umls_symptom_file, umls_symptom_column)
+# # Read terms
+# mesh_terms = read_csv(mesh_file, mesh_column)
+# umls_disease_terms = read_csv(umls_disease_file, umls_disease_column)
+# umls_symptom_terms = read_csv(umls_symptom_file, umls_symptom_column)
 
-# Compare terms
-overlapping, only_in_mesh, only_in_umls, umls_source = compare_terms(mesh_terms, umls_disease_terms, umls_symptom_terms)
+# # Compare terms
+# overlapping, only_in_mesh, only_in_umls, umls_source = compare_terms(mesh_terms, umls_disease_terms, umls_symptom_terms)
 
-# Write results
-write_results('1overlapping_terms.csv', overlapping, 'Overlapping Terms')
-write_results('2only_in_mesh.csv', only_in_mesh, 'Terms Only in MeSH')
-write_umls_results('3only_in_umls.csv', only_in_umls, umls_source)
+# # Write results
+# write_results('1overlapping_terms.csv', overlapping, 'Overlapping Terms')
+# write_results('2only_in_mesh.csv', only_in_mesh, 'Terms Only in MeSH')
+# write_umls_results('3only_in_umls.csv', only_in_umls, umls_source)
 
-print(f"Total MeSH terms: {len(mesh_terms)}")
-print(f"Total UMLS terms: {len(umls_disease_terms) + len(umls_symptom_terms)}")
-print(f"Overlapping terms: {len(overlapping)}")
-print(f"Terms only in MeSH: {len(only_in_mesh)}")
-print(f"Terms only in UMLS: {len(only_in_umls)}")
-print("Results have been written to CSV files.")
+# print(f"Total MeSH terms: {len(mesh_terms)}")
+# print(f"Total UMLS terms: {len(umls_disease_terms) + len(umls_symptom_terms)}")
+# print(f"Overlapping terms: {len(overlapping)}")
+# print(f"Terms only in MeSH: {len(only_in_mesh)}")
+# print(f"Terms only in UMLS: {len(only_in_umls)}")
+# print("Results have been written to CSV files.")
+
+
+
+######## icd9 and umls overlap #########
+import pandas as pd
+
+# Load MeSH terms from CSV
+def load_mesh_terms(csv_file):
+    mesh_df = pd.read_csv(csv_file, delimiter='|')
+    print(mesh_df['Description'].head().apply(str.lower).tolist())
+    return mesh_df['Description'].apply(str.lower).tolist()
+
+# Load UMLS terms (symptom or disease) from CSV
+def load_umls_terms(csv_file):
+    umls_df = pd.read_csv(csv_file)
+    print(umls_df['term'].head().apply(str.lower).tolist())
+    return umls_df['term'].apply(str.lower).tolist()
+
+# Check overlap between MeSH and UMLS terms
+def compare_mesh_umls(mesh_terms, umls_terms):
+    overlap = set(mesh_terms).intersection(set(umls_terms))
+    return list(overlap)
+
+# Main workflow
+mesh_csv_file = 'icd9_cm_names.csv'  # Path to MeSH CSV
+umls_symptom_csv = 'umls_terms_T184.csv'  # Path to UMLS symptom CSV (T184)
+# umls_disease_csv = 'icd9_cm_names.csv'  # Path to UMLS disease CSV (T047)
+
+# Load the terms
+mesh_terms = load_mesh_terms(mesh_csv_file)
+umls_symptom_terms = load_umls_terms(umls_symptom_csv)
+# umls_disease_terms = load_umls_terms(umls_disease_csv)
+
+# Compare MeSH terms with UMLS symptoms and diseases
+symptom_overlap = compare_mesh_umls(mesh_terms, umls_symptom_terms)
+# disease_overlap = compare_mesh_umls(mesh_terms, umls_disease_terms)
+
+# Save the overlap results to CSV
+pd.DataFrame(symptom_overlap, columns=['Symptom Overlap']).to_csv('umls_symptom_icd9_overlap.csv', index=False)
+# pd.DataFrame(disease_overlap, columns=['Disease Overlap']).to_csv('umls_disease_overlap.csv', index=False)
+
+print(f"Symptom overlap saved to 'umls_symptom_icd9_overlap.csv'")
+# print(f"Disease overlap saved to 'umls_disease_overlap.csv'")
 
