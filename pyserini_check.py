@@ -636,7 +636,7 @@ def main():
     # output_json = 'caro_matched_sentences.json'      # Output JSON file
     # output_csv = 'caro_symptom_counts.csv'           # Output CSV file
     # disease_term = 'Carotid sinus syndrome'               # Specify your disease term here
-    output_folder = 'sparse_results_cui'
+    output_folder = '/mnt/0C6C8FC06C8FA2D6/sparse_results_cui'
 
     logger.info("Script started.")
 
@@ -654,7 +654,7 @@ def main():
 
     # Process JSON and search for terms
     import os
-    folder_path = 'sparse_retrieval'
+    folder_path = '/mnt/0C6C8FC06C8FA2D6/sparse_retrieval'
 
     # Iterate over each file in the folder
     for file_name in os.listdir(folder_path):

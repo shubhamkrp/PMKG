@@ -1,0 +1,160 @@
+meningitis due to other nonbacterial organisms classified elsewhere
+encephalitis and encephalomyelitis in viral diseases classified elsewhere
+encephalitis, myelitis, and encephalomyelitis in rickettsial diseases classified elsewhere
+encephalitis, myelitis, and encephalomyelitis in protozoal diseases classified elsewhere
+other encephalitis and encephalomyelitis due to other infections classified elsewhere
+intracranial and intraspinal abscess of unspecified site
+hypersomnia due to medical condition classified elsewhere
+idiopathic sleep related non-obstructive alveolar hypoventilation
+sleep related hypoventilation/hypoxemia in conditions classifiable elsewhere
+central sleep apnea in conditions classified elsewhere
+cerebral degeneration of childhood in other diseases classified elsewhere
+subacute combined degeneration of spinal cord in diseases classified elsewhere
+idiopathic peripheral autonomic neuropathy, unspecified
+reflex sympathetic dystrophy of other specified site
+acute (transverse) myelitis in conditions classified elsewhere
+other specified hemiplegia and hemiparesis affecting unspecified side
+other specified hemiplegia and hemiparesis affecting dominant side
+other specified hemiplegia and hemiparesis affecting nondominant side
+hemiplegia, unspecified, affecting unspecified side
+monoplegia of lower limb affecting unspecified side
+monoplegia of upper limb affecting unspecified side
+monoplegia of upper limb affecting nondominant sde
+localization-related (focal) (partial) epilepsy and epileptic syndromes with complex partial seizures, without mention of intractable epilepsy
+localization-related (focal) (partial) epilepsy and epileptic syndromes with complex partial seizures, without mention of intractable epilepsy
+localization-related (focal) (partial) epilepsy and epileptic syndromes with complex partial seizures, without mention of intractable epilepsy
+localization-related (focal) (partial) epilepsy and epileptic syndromes with complex partial seizures, without mention of intractable epilepsy
+localization-related (focal) (partial) epilepsy and epileptic syndromes with complex partial seizures, without mention of intractable epilepsy
+localization-related (focal) (partial) epilepsy and epileptic syndromes with complex partial seizures, without mention of intractable epilepsy
+localization-related (focal) (partial) epilepsy and epileptic syndromes with simple partial seizures, without mention of intractable epilepsy
+other forms of epilepsy and recurrent seizures, without mention of intractable epilepsy
+migraine with aura, without mention of intractable migraine without mention of status migrainosus
+migraine with aura, with intractable migraine, so stated, without mention of status migrainosus
+migraine with aura, without mention of intractable migraine with status migrainosus
+migraine without aura, without mention of intractable migraine without mention of status migrainosus
+migraine without aura, with intractable migraine, so stated, without mention of status migrainosus
+migraine without aura, without mention of intractable migraine with status migrainosus
+hemiplegic migraine, without mention of intractable migraine without mention of status migrainosus
+hemiplegic migraine, with intractable migraine, so stated, without mention of status migrainosus
+hemiplegic migraine, without mention of intractable migraine with status migrainosus
+menstrual migraine, without mention of intractable migraine without mention of status migrainosus
+menstrual migraine, with intractable migraine, so stated, without mention of status migrainosus
+menstrual migraine, without mention of intractable migraine with status migrainosus
+hemiplegic migraine, with intractable migraine, so stated, without mention of status migrainosus
+hemiplegic migraine, without mention of intractable migraine with status migrainosus
+menstrual migraine, without mention of intractable migraine without mention of status migrainosus
+menstrual migraine, with intractable migraine, so stated, without mention of status migrainosus
+menstrual migraine, without mention of intractable migraine with status migrainosus
+persistent migraine aura without cerebral infarction, without mention of intractable migraine without mention of status migrainosus
+persistent migraine aura without cerebral infarction, with intractable migraine, so stated, without mention of status migrainosus
+persistent migraine aura without cerebral infarction, without mention of intractable migraine with status migrainosus
+persistent migraine aura without cerebral infarction, with intractable migraine, so stated, with status migrainosus
+persistent migraine aura with cerebral infarction, without mention of intractable migraine without mention of status migrainosus
+persistent migraine aura with cerebral infarction, with intractable migraine, so stated, without mention of status migrainosus
+persistent migraine aura with cerebral infarction, without mention of intractable migraine with status migrainosus
+persistent migraine aura with cerebral infarction, with intractable migraine, so stated, with status migrainosus
+chronic migraine without aura, without mention of intractable migraine without mention of status migrainosus
+chronic migraine without aura, with intractable migraine, so stated, without mention of status migrainosus
+chronic migraine without aura, without mention of intractable migraine with status migrainosus
+other forms of migraine, without mention of intractable migraine without mention of status migrainosus
+other forms of migraine, with intractable migraine, so stated, without mention of status migrainosus
+other forms of migraine, without mention of intractable migraine with status migrainosus
+migraine, unspecified, with intractable migraine, so stated, without mention of status migrainosus
+narcolepsy in conditions classified elsewhere, without cataplexy
+narcolepsy in conditions classified elsewhere, with cataplexy
+unspecified nerve root and plexus disorder
+unspecified nerve root and plexus disorder
+unspecified hereditary and idiopathic peripheral neuropathy
+unspecified hereditary and idiopathic peripheral neuropathy
+unspecified inflammatory and toxic neuropathy
+myasthenic syndromes in diseases classified elsewhere
+lambert-eaton syndrome in other diseases classified elsewhere
+myopathy in endocrine diseases classified elsewhere
+symptomatic inflammatory myopathy in diseases classified elsewhere
+other inflammatory and immune myopathies, nec
+parasitic endophthalmitis nos
+degenerative disorder of globe, unspecified
+foreign body, magnetic, intraocular, unspecified
+retinal detachment with retinal defect, unspecified
+recent retinal detachment, partial, with single defect
+recent retinal detachment, partial, with giant tear
+retinopathy of prematurity, stage 0
+transient retinal arterial occlusion
+retinal layer separation, unspecified
+hemorrhagic detachment of retinal pigment epithelium
+macular degeneration (senile), unspecified
+other dystrophies primarily involving the sensory retina
+chorioretinal scar, unspecified
+circumpapillary dystrophy of choroid, partial
+circumpapillary dystrophy of choroid, total
+acute and subacute iridocyclitis, unspecified
+chronic iridocyclitis in diseases classified elsewhere
+miotic cysts of pupillary margin
+adhesions of iris, unspecified
+preglaucoma, unspecified
+anatomical narrow angle borderline glaucoma
+steroid responders borderline glaucoma
+corticosteroid-induced glaucoma, glaucomatous stage
+corticosteroid-induced glaucoma, residual stage
+preglaucoma, unspecified
+anatomical narrow angle borderline glaucoma
+steroid responders borderline glaucoma
+corticosteroid-induced glaucoma, glaucomatous stage
+corticosteroid-induced glaucoma, residual stage
+other and combined forms of nonsenile cataract
+cataracta complicata, unspecified
+glaucomatous flecks (subcapsular)
+subjective visual disturbance, unspecified
+other visual distortions and entoptic phenomena
+binocular vision disorder, unspecified
+superficial keratitis, unspecified
+macular keratitis
+limbar and corneal involvement in vernal conjunctivitis
+corneal deposit, unspecified
+argentous corneal deposits
+corneal membrane change, unspecified
+recurrent erosion of cornea
+other calcerous degenerations of cornea
+keratomalacia nos
+serous conjunctivitis, except viral
+blepharoconjunctivitis, unspecified
+peripheral pterygium, stationary
+conjunctival degeneration, unspecified
+localized adhesions and strands of conjunctiva
+infective dermatitis of eyelid of types resulting in deformity
+acute inflammation of orbit, unspecified
+chronic inflammation of orbit, unspecified
+unspecified disorder of optic nerve and visual pathways
+mechanical strabismus from other musculofascial disorders
+episcleritis periodica fugax
+argyll robertson pupil, atypical
+inflammation (infection) of postprocedural bleb, unspecified
+inflammation (infection) of postprocedural bleb, stage 1
+inflammation (infection) of postprocedural bleb, stage 2
+inflammation (infection) of postprocedural bleb, stage 3
+perichondritis of pinna, unspecified
+acquired stenosis of external ear canal, unspecified as to cause
+acute sanguinous otitis media
+acute allergic sanguinous otitis media
+other and unspecified chronic nonsuppurative otitis media
+obstruction of eustachian tube, unspecified
+intrinsic cartilagenous obstruction of eustachian tube
+extrinsic cartilagenous obstruction of eustachian tube
+acute suppurative otitis media in diseases classified elsewhere
+postmastoidectomy complication, unspecified
+mucosal cyst of postmastoidectomy cavity
+postmastoidectomy complication, unspecified
+mucosal cyst of postmastoidectomy cavity
+granulations of postmastoidectomy cavity
+chronic myringitis without mention of otitis media
+atrophic nonflaccid tympanic membrane
+tympanosclerosis involving other combination of structures
+adhesive middle ear disease, unspecified as to involvement
+adhesions of drum head to incus
+adhesions of drum head to stapes
+impaired mobility of other ear ossicles
+labyrinthine fistula, unspecified
+unspecified vertiginous syndromes and labyrinthine disorders
+otosclerosis involving oval window, nonobliterative
+otosclerosis involving oval window, obliterative
+noise effects on inner ear, unspecified
