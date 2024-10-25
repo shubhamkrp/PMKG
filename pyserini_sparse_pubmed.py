@@ -43,7 +43,7 @@ def search_disease(disease_name, k=10):
     return results
 
 # Search for articles related to a specific disease
-dis_file="Respiratory460-519.csv"
+dis_file="three_digit_icd9_codes.csv"
 dis_df=pd.read_csv(dis_file, delimiter='|', on_bad_lines='skip')
 dis_term=dis_df["Description"]
 # dis_term=dis_term.loc[12120:]
@@ -59,7 +59,7 @@ for disease in dis_term:
         continue
 
     term_name = "_".join(disease.split(" "))
-    with open(os.path.join("/mnt/0C6C8FC06C8FA2D6/sparse_retrieval_respiratory", f'{term_name}.json'), 'w') as fp:
+    with open(os.path.join("/mnt/0C6C8FC06C8FA2D6/sparse_retrieval_3digit_ICD", f'{term_name}.json'), 'w') as fp:
         json.dump(results, fp, indent=4)
 
 
