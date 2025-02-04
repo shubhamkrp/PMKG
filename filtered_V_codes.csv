@@ -1,0 +1,475 @@
+Code|Description
+V010|Contact with or exposure to cholera
+V011|Contact with or exposure to tuberculosis
+V012|Contact with or exposure to poliomyelitis
+V013|Contact with or exposure to smallpox
+V014|Contact with or exposure to rubella
+V015|Contact with or exposure to rabies
+V016|Contact with or exposure to venereal diseases
+V019|Contact with or exposure to unspecified communicable disease
+V020|Carrier or suspected carrier of cholera
+V021|Carrier or suspected carrier of typhoid
+V022|Carrier or suspected carrier of amebiasis
+V023|Carrier or suspected carrier of other gastrointestinal pathogens
+V024|Carrier or suspected carrier of diphtheria
+V027|Carrier or suspected carrier of gonorrhea
+V028|Carrier or suspected carrier of other venereal diseases
+V029|Carrier or suspected carrier of other specified infectious organism
+V030|Need for prophylactic vaccination and inoculation against cholera alone
+V031|Need for prophylactic vaccination and inoculation against typhoid-paratyphoid alone [TAB]
+V032|Need for prophylactic vaccination and inoculation against tuberculosis [BCG]
+V033|Need for prophylactic vaccination and inoculation against plague
+V034|Need for prophylactic vaccination and inoculation against tularemia
+V035|Need for prophylactic vaccination and inoculation against diphtheria alone
+V036|Need for prophylactic vaccination and inoculation against pertussis alone
+V037|Need for prophylactic vaccination and inoculation against tetanus toxoid alone
+V039|Need for prophylactic vaccination and inoculation against unspecified single bacterial disease
+V040|Need for prophylactic vaccination and inoculation against poliomyelitis
+V041|Need for prophylactic vaccination and inoculation against smallpox
+V042|Need for prophylactic vaccination and inoculation against measles alone
+V043|Need for prophylactic vaccination and inoculation against rubella alone
+V044|Need for prophylactic vaccination and inoculation against yellow fever
+V045|Need for prophylactic vaccination and inoculation against rabies
+V046|Need for prophylactic vaccination and inoculation against mumps alone
+V047|Need for prophylactic vaccination and inoculation against common cold
+V050|Need for prophylactic vaccination and inoculation against arthropod-borne viral encephalitis
+V051|Need for prophylactic vaccination and inoculation against other arthropod-borne viral diseases
+V052|Need for prophylactic vaccination and inoculation against leishmaniasis
+V053|Need for prophylactic vaccination and inoculation against viral hepatitis
+V054|Need for prophylactic vaccination and inoculation against varicella
+V058|Need for prophylactic vaccination and inoculation against other specified disease
+V059|Need for prophylactic vaccination and inoculation against unspecified single disease
+V060|Need for prophylactic vaccination and inoculation against cholera with typhoid-paratyphoid [cholera + TAB]
+V061|Need for prophylactic vaccination and inoculation against diphtheria-tetanus-pertussis, combined [DTP] [DTaP]
+V062|Need for prophylactic vaccination and inoculation against diptheria-tetanus- pertussis with typhoid-paratyphoid (DTP + TAB)
+V063|Need for prophylactic vaccination and inoculation against diptheria-tetanus- pertussis with poliomyelitis [DTP + polio]
+V064|Need for prophylactic vaccination and inoculation against measles-mumps-rubella (MMR)
+V065|Need for prophylactic vaccination and inoculation against tetanus-diphtheria [Td] (DT)
+V066|Need for prophylactic vaccination and inoculation against streptococcus pneumoniae [pneumococcus] and influenza
+V068|Need for prophylactic vaccination and inoculation against other combinations of diseases
+V069|Unspecified combined vaccine
+V070|Need for isolation
+V071|Need for desensitization to allergens
+V072|Need for prophylactic immunotherapy
+V074|Hormone replacement therapy (postmenopausal)
+V078|Other specified prophylactic or treatment measure
+V079|Unspecified prophylactic or treatment measure
+V090|Infection with microorganisms resistant to penicillins
+V091|Infection with microorganisms resistant to cephalosporins and other B-lactam antibiotics
+V092|Infection with microorganisms resistant to macrolides
+V093|Infection with microorganisms resistant to tetracyclines
+V094|Infection with microorganisms resistant to aminoglycosides
+V096|Infection with microorganisms resistant to sulfonamides
+V103|Personal history of malignant neoplasm of breast
+V110|Personal history of schizophrenia
+V111|Personal history of affective disorders
+V112|Personal history of neurosis
+V113|Personal history of alcoholism
+V114|Personal history of combat and operational stress reaction
+V118|Personal history of other mental disorders
+V119|Personal history of unspecified mental disorder
+V121|Personal history of nutritional deficiency
+V123|Personal history of diseases of blood and blood-forming organs
+V131|Personal history of trophoblastic disease
+V133|Personal history of diseases of skin and subcutaneous tissue
+V134|Personal history of arthritis
+V137|Personal history of perinatal problems
+V139|Personal history of unspecified disease
+V140|Personal history of allergy to penicillin
+V141|Personal history of allergy to other antibiotic agent
+V142|Personal history of allergy to sulfonamides
+V143|Personal history of allergy to other anti-infective agent
+V144|Personal history of allergy to anesthetic agent
+V145|Personal history of allergy to narcotic agent
+V146|Personal history of allergy to analgesic agent
+V147|Personal history of allergy to serum or vaccine
+V148|Personal history of allergy to other specified medicinal agents
+V149|Personal history of allergy to unspecified medicinal agent
+V151|Personal history of surgery to heart and great vessels, presenting hazards to health
+V153|Personal history of irradiation, presenting hazards to health
+V156|Personal history of poisoning, presenting hazards to health
+V157|Personal history of contraception, presenting hazards to health
+V159|Unspecified personal history presenting hazards to health
+V160|Family history of malignant neoplasm of gastrointestinal tract
+V161|Family history of malignant neoplasm of trachea, bronchus, and lung
+V162|Family history of malignant neoplasm of other respiratory and intrathoracic organs
+V163|Family history of malignant neoplasm of breast
+V166|Family history of leukemia
+V167|Family history of other lymphatic and hematopoietic neoplasms
+V168|Family history of other specified malignant neoplasm
+V169|Family history of unspecified malignant neoplasm
+V170|Family history of psychiatric condition
+V171|Family history of stroke (cerebrovascular)
+V172|Family history of other neurological diseases
+V173|Family history of ischemic heart disease
+V175|Family history of asthma
+V176|Family history of other chronic respiratory conditions
+V177|Family history of arthritis
+V180|Family history of diabetes mellitus
+V182|Family history of anemia
+V183|Family history of other blood disorders
+V184|Family history of intellectual disabilities
+V187|Family history of other genitourinary diseases
+V188|Family history of infectious and parasitic diseases
+V189|Family history of genetic disease carrier
+V190|Family history of blindness or visual loss
+V192|Family history of deafness or hearing loss
+V193|Family history of other ear disorders
+V194|Family history of skin conditions
+V195|Family history of congenital anomalies
+V196|Family history of allergic disorders
+V197|Family history of consanguinity
+V198|Family history of other condition
+V200|Health supervision of foundling
+V201|Other healthy infant or child receiving care
+V202|Routine infant or child health check
+V210|Period of rapid growth in childhood
+V211|Puberty
+V212|Other development of adolescence
+V218|Other specified constitutional states in development
+V219|Unspecified constitutional state in development
+V220|Supervision of normal first pregnancy
+V221|Supervision of other normal pregnancy
+V222|Pregnant state, incidental
+V230|Supervision of high-risk pregnancy with history of infertility
+V231|Supervision of high-risk pregnancy with history of trophoblastic disease
+V232|Supervision of high-risk pregnancy with history of abortion
+V233|Supervision of high-risk pregnancy with grand multiparity
+V235|Supervision of high-risk pregnancy with other poor reproductive history
+V237|Supervision of high-risk pregnancy with insufficient prenatal care
+V239|Supervision of unspecified high-risk pregnancy
+V240|Postpartum care and examination immediately after delivery
+V241|Postpartum care and examination of lactating mother
+V242|Routine postpartum follow-up
+V252|Sterilization
+V253|Menstrual extraction
+V255|Insertion of implantable subdermal contraceptive
+V258|Other specified contraceptive management
+V259|Unspecified contraceptive management
+V260|Tuboplasty or vasoplasty after previous sterilization
+V261|Artificial insemination
+V269|Unspecified procreative management
+V270|Outcome of delivery, single liveborn
+V271|Outcome of delivery, single stillborn
+V272|Outcome of delivery, twins, both liveborn
+V273|Outcome of delivery, twins, one liveborn and one stillborn
+V274|Outcome of delivery, twins, both stillborn
+V275|Outcome of delivery, other multiple birth, all liveborn
+V276|Outcome of delivery, other multiple birth, some liveborn
+V277|Outcome of delivery, other multiple birth, all stillborn
+V279|Outcome of delivery, unspecified outcome of delivery
+V280|Antenatal screening for chromosomal anomalies by amniocentesis
+V281|Antenatal screening for raised alpha-fetoprotein levels in amniotic fluid
+V282|Other antenatal screening based on amniocentesis
+V283|Encounter for routine screening for malformation using ultrasonics
+V284|Antenatal screening for fetal growth retardation using ultrasonics
+V285|Antenatal screening for isoimmunization
+V286|Antenatal screening for Streptococcus B
+V289|Unspecified antenatal screening
+V290|Observation for suspected infectious condition
+V291|Observation for suspected neurological conditions
+V292|Observation and evaluation of newborn for suspected respiratory condition
+V293|Observation for suspected genetic or metabolic condition
+V298|Observation for other specified suspected conditions
+V299|Observation for unspecified suspected conditions
+V301|Single liveborn, born before admission to hospital
+V302|Single liveborn, born outside hospital and not hospitalized
+V311|Twin birth, mate liveborn, born before admission to hospital
+V312|Twin birth, mate liveborn, born outside hospital and not hospitalized
+V321|Twin birth, mate stillborn, born before admission to hospital
+V322|Twin birth, mate stillborn, born outside hospital and not hospitalized
+V331|Twin birth, unspecified whether mate liveborn or stillborn, born before admission to hospital
+V332|Twin birth, unspecified whether mate liveborn or stillborn, born outside hospital and not hospitalized
+V341|Other multiple birth (three or more), mates all liveborn, born before admission to hospital
+V342|Other multiple birth (three or more), mates all liveborn, born outside hospital and not hospitalized
+V351|Other multiple birth (three or more), mates all stillborn, born before admission to hospital
+V352|Other multiple birth (three or more), mates all stillborn, born outside of hospital and not hospitalized
+V361|Other multiple birth (three or more), mates liveborn and stillborn, born before admission to hospital
+V362|Other multiple birth (three or more), mates liveborn and stillborn, born outside hospital and not hospitalized
+V371|Other multiple birth (three or more), unspecified whether mates liveborn or stillborn, born before admission to hospital
+V372|Other multiple birth (three or more), unspecified whether mates liveborn or stillborn, born outside of hospital
+V391|Liveborn, unspecified whether single, twin or multiple, born before admission to hospital
+V392|Liveborn, unspecified whether single, twin or multiple, born outside hospital and not hospitalized
+V400|Mental and behavioral problems with learning
+V401|Mental and behavioral problems with communication [including speech]
+V402|Other mental problems
+V409|Unspecified mental or behavioral problem
+V410|Problems with sight
+V411|Other eye problems
+V412|Problems with hearing
+V413|Other ear problems
+V414|Problems with voice production
+V415|Problems with smell and taste
+V416|Problems with swallowing and mastication
+V417|Problems with sexual function
+V418|Other problems with special functions
+V419|Unspecified problem with special functions
+V420|Kidney replaced by transplant
+V421|Heart replaced by transplant
+V422|Heart valve replaced by transplant
+V423|Skin replaced by transplant
+V424|Bone replaced by transplant
+V425|Cornea replaced by transplant
+V426|Lung replaced by transplant
+V427|Liver replaced by transplant
+V429|Unspecified organ or tissue replaced by transplant
+V430|Eye globe replaced by other means
+V431|Lens replaced by other means
+V433|Heart valve replaced by other means
+V434|Blood vessel replaced by other means
+V435|Bladder replaced by other means
+V437|Limb replaced by other means
+V440|Tracheostomy status
+V441|Gastrostomy status
+V442|Ileostomy status
+V443|Colostomy status
+V444|Status of other artificial opening of gastrointestinal tract
+V446|Other artificial opening of urinary tract status
+V447|Artificial vagina status
+V448|Other artificial opening status
+V449|Unspecified artificial opening status
+V452|Presence of cerebrospinal fluid drainage device
+V453|Intestinal bypass or anastomosis status
+V454|Arthrodesis status
+V460|Dependence on aspirator
+V462|Other dependence on machines, supplemental oxygen
+V463|Wheelchair dependence
+V468|Dependence on other enabling machines
+V469|Unspecified machine dependence
+V470|Deficiencies of internal organs
+V471|Mechanical and motor problems with internal organs
+V472|Other cardiorespiratory problems
+V473|Other digestive problems
+V474|Other urinary problems
+V475|Other genital problems
+V479|Unspecified problems with internal organs
+V480|Deficiencies of head
+V481|Deficiencies of neck and trunk
+V482|Mechanical and motor problems with head
+V483|Mechanical and motor problems with neck and trunk
+V484|Sensory problem with head
+V485|Sensory problem with neck and trunk
+V486|Disfigurements of head
+V487|Disfigurements of neck and trunk
+V488|Other problems with head, neck, and trunk
+V489|Unspecified problem with head, neck, or trunk
+V490|Deficiencies of limbs
+V491|Mechanical problems with limbs
+V492|Motor problems with limbs
+V493|Sensory problems with limbs
+V494|Disfigurements of limbs
+V495|Other problems of limbs
+V499|Unspecified problems with limbs and other problems
+V500|Elective hair transplant for purposes other than remedying health states
+V501|Other plastic surgery for unacceptable cosmetic appearance
+V502|Routine or ritual circumcision
+V503|Ear piercing
+V508|Other elective surgery for purposes other than remedying health states
+V509|Unspecified elective surgery for purposes other than remedying health states
+V510|Encounter for breast reconstruction following mastectomy
+V518|Other aftercare involving the use of plastic surgery
+V520|Fitting and adjustment of artificial arm (complete) (partial)
+V521|Fitting and adjustment of artificial leg (complete) (partial)
+V522|Fitting and adjustment of artificial eye
+V523|Fitting and adjustment of dental prosthetic device
+V524|Fitting and adjustment of breast prosthesis and implant
+V528|Fitting and adjustment of other specified prosthetic device
+V529|Fitting and adjustment of unspecified prosthetic device
+V531|Fitting and adjustment of spectacles and contact lenses
+V532|Fitting and adjustment of hearing aid
+V534|Fitting and adjustment of orthodontic devices
+V536|Fitting and adjustment of urinary devices
+V537|Fitting and adjustment of orthopedic devices
+V538|Fitting and adjustment of wheelchair
+V549|Unspecified orthopedic aftercare
+V550|Attention to tracheostomy
+V551|Attention to gastrostomy
+V552|Attention to ileostomy
+V553|Attention to colostomy
+V554|Attention to other artificial opening of digestive tract
+V555|Attention to cystostomy
+V556|Attention to other artificial opening of urinary tract
+V557|Attention to artificial vagina
+V558|Attention to other specified artificial opening
+V559|Attention to unspecified artificial opening
+V560|Encounter for extracorporeal dialysis
+V561|Fitting and adjustment of extracorporeal dialysis catheter
+V562|Fitting and adjustment of peritoneal dialysis catheter
+V568|Encounter for other dialysis
+V570|Care involving breathing exercises
+V571|Care involving other physical therapy
+V573|Care involving speech-language therapy
+V574|Care involving orthoptic training
+V579|Care involving unspecified rehabilitation procedure
+V580|Encounter for radiotherapy
+V582|Blood transfusion, without reported diagnosis
+V585|Orthodontics aftercare
+V589|Unspecified aftercare
+V591|Skin donors
+V592|Bone donors
+V593|Bone marrow donors
+V594|Kidney donors
+V595|Cornea donors
+V596|Liver donors
+V598|Donors of other specified organ or tissue
+V599|Donors of unspecified organ or tissue
+V600|Lack of housing
+V601|Inadequate housing
+V602|Inadequate material resources
+V603|Person living alone
+V604|No other household member able to render care
+V605|Holiday relief care
+V606|Person living in residential institution
+V609|Unspecified housing or economic circumstance
+V613|Problems with aged parents or in-laws
+V615|Multiparity
+V616|Illegitimacy or illegitimate pregnancy
+V617|Other unwanted pregnancy
+V618|Other specified family circumstances
+V619|Unspecified family circumstance
+V620|Unemployment
+V621|Adverse effects of work environment
+V623|Educational circumstances
+V624|Social maladjustment
+V625|Legal circumstances
+V626|Refusal of treatment for reasons of religion or conscience
+V629|Unspecified psychosocial circumstance
+V630|Residence remote from hospital or other health care facility
+V631|Medical services in home not available
+V632|Person awaiting admission to adequate facility elsewhere
+V638|Other specified reasons for unavailability of medical facilities
+V639|Unspecified reason for unavailability of medical facilities
+V641|Surgical or other procedure not carried out because of contraindication
+V642|Surgical or other procedure not carried out because of patient's decision
+V643|Procedure not carried out for other reasons
+V650|Healthy person accompanying sick person
+V652|Person feigning illness
+V653|Dietary surveillance and counseling
+V655|Person with feared complaint in whom no diagnosis was made
+V658|Other reasons for seeking consultation
+V659|Unspecified reason for consultation
+V660|Convalescence following surgery
+V661|Convalescence following radiotherapy
+V662|Convalescence following chemotherapy
+V663|Convalescence following psychotherapy and other treatment for mental disorder
+V664|Convalescence following treatment of fracture
+V665|Convalescence following other treatment
+V666|Convalescence following combined treatment
+V667|Encounter for palliative care
+V669|Unspecified convalescence
+V671|Follow-up examination, following radiotherapy
+V672|Follow-up examination, following chemotherapy
+V673|Follow-up examination, following psychotherapy and other treatment for mental disorder
+V674|Follow-up examination, following treatment of healed fracture
+V676|Follow-up examination, following combined treatment
+V679|Unspecified follow-up examination
+V681|Issue of repeat prescriptions
+V682|Request for expert evidence
+V689|Encounters for unspecified administrative purpose
+V690|Lack of physical exercise
+V691|Inappropriate diet and eating habits
+V692|High-risk sexual behavior
+V693|Gambling and betting
+V694|Lack of adequate sleep
+V695|Behavioral insomnia of childhood
+V698|Other problems related to lifestyle
+V699|Unspecified problem related to lifestyle
+V700|Routine general medical examination at a health care facility
+V701|General psychiatric examination, requested by the authority
+V702|General psychiatric examination, other and unspecified
+V703|Other general medical examination for administrative purposes
+V704|Examination for medicolegal reasons
+V705|Health examination of defined subpopulations
+V706|Health examination in population surveys
+V707|Examination of participant in clinical trial
+V708|Other specified general medical examinations
+V709|Unspecified general medical examination
+V711|Observation for suspected malignant neoplasm
+V712|Observation for suspected tuberculosis
+V713|Observation following accident at work
+V714|Observation following other accident
+V715|Observation following alleged rape or seduction
+V716|Observation following other inflicted injury
+V717|Observation for suspected cardiovascular disease
+V719|Observation for unspecified suspected condition
+V720|Examination of eyes and vision
+V722|Dental examination
+V725|Radiological examination, not elsewhere classified
+V727|Diagnostic skin and sensitization tests
+V729|Unspecified examination
+V730|Screening examination for poliomyelitis
+V731|Screening examination for smallpox
+V732|Screening examination for measles
+V733|Screening examination for rubella
+V734|Screening examination for yellow fever
+V735|Screening examination for other arthropod-borne viral diseases
+V736|Screening examination for trachoma
+V740|Screening examination for cholera
+V741|Screening examination for pulmonary tuberculosis
+V742|Screening examination for leprosy (Hansen's disease)
+V743|Screening examination for diphtheria
+V744|Screening examination for bacterial conjunctivitis
+V745|Screening examination for venereal disease
+V746|Screening examination for yaws
+V748|Screening examination for other specified bacterial and spirochetal diseases
+V749|Screening examination for unspecified bacterial and spirochetal diseases
+V750|Screening examination for rickettsial diseases
+V751|Screening examination for malaria
+V752|Screening examination for leishmaniasis
+V753|Screening examination for trypanosomiasis
+V754|Screening examination for mycotic infections
+V755|Screening examination for schistosomiasis
+V756|Screening examination for filariasis
+V757|Screening examination for intestinal helminthiasis
+V758|Screening examination for other specified parasitic infections
+V759|Screening examination for unspecified infectious disease
+V760|Special screening for malignant neoplasms of respiratory organs
+V762|Screening for malignant neoplasms of cervix
+V763|Screening for malignant neoplasms of bladder
+V769|Special screening for unspecified malignant neoplasms
+V770|Screening for thyroid disorders
+V771|Screening for diabetes mellitus
+V772|Screening for malnutrition
+V773|Screening for phenylketonuria (PKU)
+V774|Screening for galactosemia
+V775|Screening for gout
+V776|Screening for cystic fibrosis
+V777|Screening for other inborn errors of metabolism
+V778|Screening for obesity
+V780|Screening for iron deficiency anemia
+V781|Screening for other and unspecified deficiency anemia
+V782|Screening for sickle-cell disease or trait
+V783|Screening for other hemoglobinopathies
+V788|Screening for other disorders of blood and blood-forming organs
+V789|Screening for unspecified disorder of blood and blood-forming organs
+V790|Screening for depression
+V791|Screening for alcoholism
+V792|Special screening for intellectual disabilities
+V793|Screening for developmental handicaps in early childhood
+V798|Screening for other specified mental disorders and developmental handicaps
+V799|Screening for unspecified mental disorder and developmental handicap
+V801|Screening for glaucoma
+V802|Screening for other eye conditions
+V803|Screening for ear diseases
+V810|Screening for ischemic heart disease
+V811|Screening for hypertension
+V812|Screening for other and unspecified cardiovascular conditions
+V813|Screening for chronic bronchitis and emphysema
+V814|Screening for other and unspecified respiratory conditions
+V815|Screening for nephropathy
+V816|Screening for other and unspecified genitourinary conditions
+V820|Screening for skin conditions
+V821|Screening for rheumatoid arthritis
+V822|Screening for other rheumatic disorders
+V823|Screening for congenital dislocation of hip
+V824|Maternal postnatal screening for chromosomal anomalies
+V825|Screening for chemical poisoning and other contamination
+V826|Multiphasic screening
+V829|Screening for unspecified condition
+V850|Body Mass Index less than 19, adult
+V851|Body Mass Index between 19-24, adult
+V860|Estrogen receptor positive status [ER+]
+V861|Estrogen receptor negative status [ER-]
+V872|Contact with and (suspected) exposure to other potentially hazardous chemicals
+V902|Retained plastic fragments
+V909|Retained foreign body, unspecified material
